@@ -1,0 +1,13 @@
+__pycache__
+
+/*.json
+!/enGB.json
+!/enGB.src.json
+
+/blueprints
+blueprints.zip
+
+.cache
+.vscode
+
+venv
