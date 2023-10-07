@@ -907,7 +907,7 @@
     "f5c1325f-2739-43cf-b7db-618b764b8573": "12레벨이 되면 성벽의 기사가 도전을 선언할 때마다, 대상은 성벽의 기사에게 특별히 주의를 기울여야 합니다. 대상이 성벽 기사의 {g|Encyclopedia:Threatened_Area}위협 구역{/g} 내에 있는 한, 성벽 기사가 아닌 다른 누구에게든 {g|Encyclopedia:Attack}공격{/g}을 할 때마다 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
     "9ba0e0a8-3cec-4916-ab25-ac3552f78bda": "12레벨이 되면 조사관이 재앙 능력을 사용할 때마다, 선택한 유형의 생물에게 무기로 주는 추가 {g|Encyclopedia:Damage}피해{/g}가 {g|Encyclopedia:Dice}4d6{/g}로 증가합니다.",
     "27543930-286d-4718-98e5-cae4186bcef5": "12레벨이 되면 피의 격노 상태에서도 속도의 효과를 받는 것처럼 취급됩니다.",
-    "6dba39f1-4d8c-44bc-8d2e-606170aacf99": "12레벨이 되면 강화 주문 {g|Encyclopedia:Feat}특기{/g}를 사용하는 것처럼 다음 {g|Encyclopedia:Spell}주문{/g}을 강화할 수 있습니다. 강화 주문은 매일 메타매직 숙련도 2회 사용 시 소모됩니다.\n강화 주문: 강화 주문의 모든 가변, 수치 효과가 절반으로 증가하며, 해당 {g|Encyclopedia:Dice}주사위{/g} 굴림에 {g|Encyclopedia:Bonus}보너스{/g}가 추가됩니다.\n{g|Encyclopedia:Saving_Throw}내성 굴림{/g}과 반대편 주사위 굴림은 영향을 받지 않으며, 무작위 변수가 없는 주문도 영향을 받지 않습니다.",
+    "6dba39f1-4d8c-44bc-8d2e-606170aacf99": "12레벨이 되면 강화 주문 {g|Encyclopedia:Feat}특기{/g}를 사용하는 것처럼 다음 {g|Encyclopedia:Spell}주문{/g}을 강화할 수 있습니다. 강화 주문은 매일 메타매직 숙련도 2회 사용 시 소모됩니다.\n메타매직(강화): 주문의 주사위 굴림과 {g|Encyclopedia:Bonus}보너스{/g}를 포함한 모든 가변수가 1.5배로 증가합니다. {g|Encyclopedia:Saving_Throw}내성 굴림{/g}이나 개별 굴림에는 적용되지 않고, 무작위 변수가 없는 주문도 강화 효과를 받지 않습니다.",
     "a3527f01-b1e8-441c-b84d-26514783a5ac": "12레벨이 되면 주위의 적 시전을 방해하는 능력을 얻습니다. 10피트 내에 있는 모든 적 시전자는 {g|Encyclopedia:Concentration}집중{/g} 판정을 해야 {g|Encyclopedia:DC}난이도{/g}의 {g|Encyclopedia:Spell}주문{/g}을 시전할 수 있습니다. 15 + 주문 레벨의 두 배입니다. 이 능력은 피를 흘리지 않는 동안에도 지속적으로 사용할 수 있습니다.",
     "8bc60892-f839-4b74-84f7-41a2f4258751": "12레벨이 되면 피의 분노 상태에서 깃털 날개가 돋아납니다.",
     "e30b775e-f460-4c1d-a472-ea6f0d8051bd": "12레벨이 되면 형벌 능력으로 모든 {g|Encyclopedia:Attack}공격{/g}이 형벌을 받은 대상의 {g|Encyclopedia:Concealment}은폐{/g}를 무시합니다.",
