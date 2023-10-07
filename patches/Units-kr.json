@@ -202,7 +202,7 @@
     "acd8c6ca-eccb-4505-9718-ab3813bcb82d": "범위 피해",
     "b5e53e6a-55ce-4d6f-8b66-94d2c209cf1b": "아릴루 볼레쉬",
     "7c06b376-3c77-4209-9f65-8534d0bd656a": "아릴루는 재생 능력을 강화하는데 많은 시간을 투자했습니다. 빠른 {g|Encyclopedia:Healing}치유{/g} 20을 얻습니다. 아릴루의 {g|Encyclopedia:HP}체력{/g}이 50% 이하로 떨어질 때마다 생명력이 최대치로 회복됩니다. 이 효과는 하루에 세 번까지 발동할 수 있습니다.",
-    "611d6e3b-c682-42a7-b1c1-b8e9ca775eda": "아릴루는 조형, 변환, 방출 학파의 전문가입니다. 아릴루가 사용하는 모든 해당 학파의 {g|Encyclopedia:Spell}주문{/g}은 메타매직(신속), 메타매직(극대화), 메타매직(선택적)을 적용합니다.\n{g|Encyclopedia:Concentration}집중{/g} 판정에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻고, 주문 또는 주문 학파의 {g|Encyclopedia:Special_Abilities}주문 유사 능력{/g}을 시전할 때 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}을 무시합니다.",
+    "611d6e3b-c682-42a7-b1c1-b8e9ca775eda": "아릴루는 조형, 변환, 방출 학파의 전문가입니다. 아릴루가 사용하는 모든 해당 학파의 {g|Encyclopedia:Spell}주문{/g}에 메타매직(신속화), 메타매직(극대화), 메타매직(선택적)을 적용합니다.\n{g|Encyclopedia:Concentration}집중{/g} 판정에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻고, 주문 또는 주문 학파의 {g|Encyclopedia:Special_Abilities}주문 유사 능력{/g}을 시전할 때 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}을 무시합니다.",
     "eb558b4d-a0c7-4fbb-8433-d71e835783c3": "아릴루는 방출 학파의 전문가입니다. 이 학파의 모든 {g|Encyclopedia:Spell}주문{/g}은 신속 및 선택적입니다. 아릴루는 {g|Encyclopedia:Concentration}집중{/g} 판정에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "f831b30c-97d0-4c2d-81a5-e649c5fc791f": "투기장 치유사",
     "7f561639-52dd-4409-a40e-3628cad4af14": "아레쉬카갈 광신도 궁수",
