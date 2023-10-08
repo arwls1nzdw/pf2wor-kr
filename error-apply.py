@@ -3,7 +3,7 @@ from pathlib import Path
 import utils
 
 last_modified = None
-for f in Path().glob('./errors-*.json'):
+for f in Path().glob('./errors.json'):
     if last_modified is None or f.stat().st_mtime > last_modified.stat().st_mtime:
         last_modified = f
 
