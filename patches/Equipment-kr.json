@@ -2342,7 +2342,7 @@
     "20854a45-6afd-422b-bd41-7897593f1d78": "이 투구의 착용자는 언데드 생물에 대한 {g|Encyclopedia:Armor_Class}AC{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "57902411-2883-4b83-b1dd-03e916f9929d": "이 투구의 착용자는 g|Encyclopedia:Initiative}우선권{/g}에 +4 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "50708402-b98f-406f-92f2-4541f8e13d62": "이 투구의 착용자는 시전하는 모든 사령 학파 {g|Encyclopedia:Spell}주문{/g}의 {g|Encyclopedia:DC}DC{/g}가 1 증가합니다. 적중 시 대상을 기절시킬 확률을 높입니다. ({g|Encyclopedia:Saving_Throw}의지 굴림{/g} DC 15).",
-    "a5d8a50f-9128-4c6c-ba97-96be5c6553f6": "이 투구의 착용자는 시전하는 모든 사령 학파 {g|Encyclopedia:Spell}주문{/g}의 {g|Encyclopedia:DC}DC{/g}가 2 증가합니다. 착용자는 일시적으로 언데드 생명체가 되어 음의 기운에 의해 치유되며, 양의 기운에 의해 {g|Encyclopedia:Damage}피해{/g}를 입습니다. 주문과 능력 착용자는 언데드 생명체로서 영향을 줍니다. 착용자의 {g|Encyclopedia:HP}HP{/g}은 {g|Encyclopedia:Charisma}매력{/g}에 따라 계산되며, 착용자는 언데드 생명체 고유의 모든 면역을 획득합니다.",
+    "a5d8a50f-9128-4c6c-ba97-96be5c6553f6": "이 투구의 착용자는 시전하는 모든 사령 학파 {g|Encyclopedia:Spell}주문{/g}의 {g|Encyclopedia:DC}DC{/g}가 2 증가합니다. 착용자는 일시적으로 언데드 생명체가 되어 음의 기운에 의해 치유되며, 양에너지에 의해 {g|Encyclopedia:Damage}피해{/g}를 입습니다. 주문과 능력 착용자는 언데드 생명체로서 영향을 줍니다. 착용자의 {g|Encyclopedia:HP}HP{/g}은 {g|Encyclopedia:Charisma}매력{/g}에 따라 계산되며, 착용자는 언데드 생명체 고유의 모든 면역을 획득합니다.",
     "bf224006-0694-46c2-99f5-3ea532e2e907": "이 투구에는 데몬의 힘이 깃들어 있습니다. 착용자는 {g|Encyclopedia:Strength}힘{/g}에 +4 불경 {g|Encyclopedia:Bonus}보너스{/g}, {g|Encyclopedia:Armor_Class}AC{/g}에 +2 불경 보너스를 얻습니다.",
     "cf55a50a-6320-4f59-a9b2-9273775e8f35": "이 투구는 파라즈마의 전령의 피로 얼룩져 있습니다. 투구에는 다양한 언어로 파라즈마에게 바치는 기도가 새겨져 있습니다. 비문은 무덤의 여신을 찬양하고 그녀의 법을 위반하는 자에게 처벌을 약속합니다. 금속의 빛나는 광택은 한때 파라즈마의 용사들의 마음을 용기로 가득 채웠지만, 지금은 강령술사 named {name}가 무덤의 여인에 대항하여 시작한 대담한 반란을 암울하게 상기시키는 역할을 합니다.",
     "cdbc79b5-14a2-4198-be38-c896d3fb952c": "이 투구는 한때 장식이 되어 있었지만 지금은 보석이 있던 자리에 구멍이 뚫려 있습니다.",
