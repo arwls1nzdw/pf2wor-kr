@@ -1221,7 +1221,7 @@
     "7e4a1e3e-6bcd-4b7f-8a71-6ea22696c692": "당신은 날페쉬니의 형태를 취하여 놀라운 {g|Encyclopedia:Strength}힘{/g}을 얻습니다.",
     "61ab9654-4dd2-42f2-8b0b-e8a4e4bd2e11": "쉬르의 형태로 변신하여 강력한 돌격 능력을 얻습니다.",
     "13f4ba80-e0fb-4fe1-bd93-64752be60b3d": "바바키아로 변신하여 숨결 무기 능력을 얻습니다.",
-    "6df738f4-2ceb-4c32-a3e5-fdfbd3eb04f0": "바위의 형태로 변신하여 거울 이미지 능력을 얻습니다.",
+    "6df738f4-2ceb-4c32-a3e5-fdfbd3eb04f0": "브록의 형태로 변신하여 거울 이미지 능력을 얻습니다.",
     "cb64a5cf-0f4f-4963-8d7e-9ad229fe9bc6": "당신은 대상을 단단한 얼음에 가둡니다. 이 생물이 {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 실패하면 마비되고, 대상이 내성에 성공하면 얽힌 상태가 되어 {g|Encyclopedia:Spell}주문{/g}을 시전할 수 없게 됩니다. 대상은 내성 여부와 상관없이 {g|Encyclopedia:Combat_Round}라운드{/g} 마다 {g|Encyclopedia:Dice}2d6{/g} {g|Encyclopedia:Energy_Damage}냉기 피해{/g}와 2d6 신성 피해를 받습니다. 대상은 매 라운드마다 {g|Encyclopedia:Strength}힘{/g} {g|Encyclopedia:Check}판정{/g}에 성공하면 얼음을 깨뜨릴 수 있습니다.({g|Encyclopedia:DC}DC{/g} 15 + 자신의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g})",
     "15e5d808-5a26-47a3-a891-a61abc07172d": "당신은 30피트 반경에 있는 모든 생물의 모든 효과를 무력화하려고 시도하며, 마법 해제 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}에 {g|Encyclopedia:Check}판정{/g}에 +10를 받습니다.",
     "2414ed79-7e83-4207-a3f0-d1ce55243755": "신화의 힘을 사용하여 키네티시스트 능력에 연료를 공급합니다.\n효과: 이제 힘을 모으는 능력으로 키네티시스트 폭발의 화상 비용이 화상 포인트 하나만큼 추가로 감소합니다.",
