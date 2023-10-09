@@ -258,7 +258,7 @@
     "edbe88c6-e071-4a72-b9b8-4a14b78e9c1d": "기술 판정",
     "1bd76eeb-dee7-4d7b-b58a-8311b91ffcf3": "대화에서 기술 판정",
     "87a174cf-2d90-4493-baef-2106ccb340c3": "암습",
-    "944d22e6-ee96-42fe-896b-d54b807ae2aa": "{g|Encyclopedia:Attack}암습{/g}은 일부 직업(비전 트릭스터, 암살자, 도적, 슬레이어, 해부학자 등)이 사용할 수 있는 특수 능력입니다. 이 능력을 사용하면 적이 {g|Encyclopedia:Flat_Footed}무방비{/g}가거나 후방에 있을 때 적에게 더 많은 {g|Encyclopedia:Damage}피해{/g}를 입힐 수 있습니다. 무기와 {g|Encyclopedia:Spell}주문{/g}으로 모두 암습 피해를 줄 수 있습니다.\n원거리 {g|Encyclopedia:RangedAttack}공격{/g} 또는 주문으로 추가 암습 피해를 입히려면 대상으로부터 30피트 범위 내에 있어야 합니다. 주문은 {g|Encyclopedia:TouchAttack}원거리 접촉 공격{/g}이 적중하지 않으면 암습 피해를 입힐 수 없습니다.",
+    "944d22e6-ee96-42fe-896b-d54b807ae2aa": "{g|Encyclopedia:Attack}암습{/g}은 일부 직업(비전 트릭스터, 암살자, 로그, 슬레이어, 해부학자 등)이 사용할 수 있는 특수 능력입니다. 이 능력을 사용하면 적이 {g|Encyclopedia:Flat_Footed}무방비{/g}가거나 후방에 있을 때 적에게 더 많은 {g|Encyclopedia:Damage}피해{/g}를 입힐 수 있습니다. 무기와 {g|Encyclopedia:Spell}주문{/g}으로 모두 암습 피해를 줄 수 있습니다.\n원거리 {g|Encyclopedia:RangedAttack}공격{/g} 또는 주문으로 추가 암습 피해를 입히려면 대상으로부터 30피트 범위 내에 있어야 합니다. 주문은 {g|Encyclopedia:TouchAttack}원거리 접촉 공격{/g}이 적중하지 않으면 암습 피해를 입힐 수 없습니다.",
     "03f50c28-8c58-4081-bc33-08592b4b2533": "에너지 전달링과 같은 일부 능력은 효과 범위 내에 있는 모든 사람에게 영향을 미칩니다. 주의하지 않으면 적을 {g|Encyclopedia:Healing}치유{/g}하거나 아군에게 {g|Encyclopedia:Damage}피해{/g}를 줄 수 있습니다.",
     "f9f6bb44-3aaa-4124-9e90-00930e77232e": "일부 직업(예: 성직자, 드루이드)은 자발적으로 {g|Encyclopedia:Spell}주문 시전{/g} 능력을 가집니다. 예를 들어, 드루이드는 준비된 주문을 모두 잃고 같은 레벨의 자연 아군을 소환할 수 있습니다.",
     "7546c2f3-288a-4167-a52b-151bd9b902f1": "일부 직업(예: 성직자, 드루이드)은 자발적인 {g|Encyclopedia:Spell}주문 시전{/g} 능력을 가지고 있습니다. 예를 들어, 선한 성직자는 {g|Encyclopedia:Healing}치유{/g} 주문을 준비할 필요가 없습니다. 같은 레벨의 상처 치료 주문을 시전하기 위해 준비한 거의 모든 주문(영역 주문 제외)을 잃을 수 있습니다. 같은 방식으로 사악한 성직자도 준비된 주문을 잃고 상처를 입히는 주문을 시전할 수 있습니다.",
