@@ -1413,7 +1413,7 @@
     "94c84aac-9e80-43f5-8d26-344d73cb2e9d": "도둑 금고 열쇠",
     "a8a39588-038a-41d1-b107-8d3d94b98534": "도둑의 계정 장부",
     "4f4d4459-9474-4e61-b112-53cfe1c22140": "이 +3 단호한 전투도끼 착용자는 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g} 시 {g|Encyclopedia:Attack}명중 굴림{/g}에 +3 능숙 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 수호자의 방패와 함께 착용하면 이 보너스는 +6으로 증가하며, 적중 시 수호자의 방패로 적중시킨 기회 공격은 추가로 {g|Encyclopedia:Dice}2d6{/g} {g|Encyclopedia:Damage_Type}베기 피해{/g}를 입힙니다.",
-    "e66e52e6-a415-4ba6-9ad9-7f9d53e0481f": "이 +3 분노에 불타는 예리한 전투망치의 치명타 범위는 두 배로 증가합니다 {g|Encyclopedia:Critical}치명타{/g}. 중형 {g|Encyclopedia:Size}크기의 {/g} 생물을 대상으로 치명타 위협을 가하면, 자동으로 확정됩니다. 적중할 때마다, 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하거나({g|Encyclopedia:DC}DC{/g} 35) {g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 비틀거려야 합니다.",
+    "e66e52e6-a415-4ba6-9ad9-7f9d53e0481f": "이 +3 분노에 불타는 예리한 전쟁망치의 치명타 범위는 두 배로 증가합니다 {g|Encyclopedia:Critical}치명타{/g}. 중형 {g|Encyclopedia:Size}크기의 {/g} 생물을 대상으로 치명타 위협을 가하면, 자동으로 확정됩니다. 적중할 때마다, 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하거나({g|Encyclopedia:DC}DC{/g} 35) {g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 비틀거려야 합니다.",
     "d928bdbd-91c6-4647-b14e-3b68d67b5d0a": "이 유물 착용자는 착용자가 시전하는 모든 {g|Encyclopedia:Spell}주문{/g}의 지속시간이 연장 주문 {g|Encyclopedia:Feat}특기{/g}를 사용하는 것처럼 두 배로 증가합니다. 착용자는 하루에 세 번, 20레벨 위저드처럼 이 보석을 들여다보며 진실의 시야 주문을 시전할 수 있습니다. 하지만 이 보석을 들여다보는 것은 위험합니다. 착용자가 이 능력을 사용할 때마다 {g|Encyclopedia:Wisdom}지혜{/g} {g|Encyclopedia:Check}판정{/g}({g|Encyclopedia:DC}DC{/g} 15)에 성공해야만 정말 불안한 무언가를 보지 않을 수 있습니다. ... 또는 더 나쁜 것은 그것에 의해 보여지는 것입니다.",
     "b243f552-1d2e-45d4-aaee-32cdc60cfa66": "이 아름다운 꽃은 달과 별의 빛으로 태어나 아침이 되면 지는 꽃입니다.",
     "d5872120-b1bc-420a-8eb4-1bf99928f2b8": "이 코인 착용자는 아군에게 {g|Encyclopedia:Damage_Reduction}DR{/g}을 부여할 수 있는 능력을 부여합니다. 5/-를 1분 동안, 하루에 한 번 부여합니다.",
