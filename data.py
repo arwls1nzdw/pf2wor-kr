@@ -1,4 +1,5 @@
 from glob import glob
+from pathlib import Path
 import zipfile
 
 import utils
@@ -32,5 +33,7 @@ def get_data_bp():
 def get_data_kr_patches():
     kr = {}
     for f in glob('patches/*-kr.json'):
+        if Path(f).stem == 'Owlcats-kr':
+            continue
         kr.update(utils.read_json(f))
     return kr
