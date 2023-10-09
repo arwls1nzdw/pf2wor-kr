@@ -87,7 +87,7 @@
     "8f7252ad-d112-4284-aa96-515641dee5a4": "족쇄 해적",
     "8cd34abe-8d7c-4df8-81a6-7f2c81815829": "족쇄 해적의 직업 {g|Encyclopedia:Mobility}기동성{/g}과 {g|Encyclopedia:Athletics}운동{/g}이 직업 {g|Encyclopedia:Skills}기술{/g} 목록에 추가됩니다. 또한 시미터에 능숙해집니다. 또한 족쇄 해적은 트립 시도에 대해 {g|Encyclopedia:CMD}CMD{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n캐릭터 생성 시 선택한 직업 배경이 부여하는 직업 기술, {g|Encyclopedia:Weapon_Proficiency}무기 숙련{/g} 또는 갑옷 숙련을 이미 보유하고 있다면, 해당 배경 보너스는 기술의 경우 +1 능력 보너스, 무기 숙련의 경우 +1 강화 보너스, 갑옷 숙련의 경우 갑옷 판정 {g|Encyclopedia:Penalty}불이익{/g} 감소로 변경됩니다.",
     "656ca7a4-ecc2-4cb0-9146-ca48fd2b8faa": "대장장이",
-    "021f2d49-1577-4bb3-8ae0-457bd09ef02a": "대장장이는 자신의 직업 {g|Encyclopedia:Skills}기술{/g} 목록에 {g|Encyclopedia:Athletics}운동{/g}을 추가합니다. 또한 소형 망치와 전투망치를 능숙하게 다루게 되고, {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n캐릭터 생성 시 선택한 직업 배경이 부여하는 직업 기술, {g|Encyclopedia:Weapon_Proficiency}무기 숙련{/g} 또는 갑옷 숙련을 이미 보유하고 있는 경우, 해당 배경 보너스는 기술의 경우 +1 능력 보너스, 무기 숙련의 경우 +1 강화 보너스, 갑옷 숙련의 경우 갑옷 판정 {g|Encyclopedia:Penalty}불이익{/g} 감소 -1로 변경됩니다.",
+    "021f2d49-1577-4bb3-8ae0-457bd09ef02a": "대장장이는 자신의 직업 {g|Encyclopedia:Skills}기술{/g} 목록에 {g|Encyclopedia:Athletics}운동{/g}을 추가합니다. 또한 경량 망치와 전투망치를 능숙하게 다루게 되고, {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n캐릭터 생성 시 선택한 직업 배경이 부여하는 직업 기술, {g|Encyclopedia:Weapon_Proficiency}무기 숙련{/g} 또는 갑옷 숙련을 이미 보유하고 있는 경우, 해당 배경 보너스는 기술의 경우 +1 능력 보너스, 무기 숙련의 경우 +1 강화 보너스, 갑옷 숙련의 경우 갑옷 판정 {g|Encyclopedia:Penalty}불이익{/g} 감소 -1로 변경됩니다.",
     "d4a4c29e-7bea-4183-b137-27b97960a411": "부랑아",
     "5e7dc0da-a002-4505-9a88-3b7b9f68ca97": "도시 사냥꾼",
     "40ac4ae4-7976-4c96-b4aa-baee78cef185": "우스탈라프 농민",
