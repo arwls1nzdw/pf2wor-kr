@@ -2016,7 +2016,7 @@
     "577db27f-a14b-4fe1-b664-b4de54cf3f58": "이 부적의 착용자는 사용하는 정신에 영향을 주는 능력에 대한 모든 {g|Encyclopedia:Saving_Throw}내성 굴림{/g} {g|Encyclopedia:DC}DC{/g}가 2 증가합니다. 또한, 정신에 영향을 주는 효과와 강박 효과에 대한 내성 굴림시 +4 사기 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "27786b1d-5522-4e28-8f86-f6da4d8e0152": "이 부적의 착용자는 불줄기, 불타는 손, 조정된 화염구, 불뱀, 불덩어리, 불폭풍, 화염 타격, 지옥불 광선, 타오르는 광선을 시전할 때 착용자의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}에 +4를 추가합니다.",
     "7e96f84a-5377-458c-88b8-ba20096981ed": "이 부적의 착용자는 하루에 한 번 5레벨 위저드로서 가속 {g|Encyclopedia:Spell}주문{/g}을 시전할 수 있습니다.",
-    "8ed4a240-c871-4358-ac19-7f46539b20a5": "이 부적의 착용자는 목소리를 강화하여 {g|Encyclopedia:Spell}주문{/g}의 명중 한도를 150% 증가시킵니다. 예를 들어, 이제 절대 명령(죽음) 주문으로 {g|Encyclopedia:HP}HP{/g}가 100이 아닌 150 미만인 모든 적을 즉시 처치할 수 있습니다.",
+    "8ed4a240-c871-4358-ac19-7f46539b20a5": "이 부적의 착용자는 목소리를 강화하여 권능어 {g|Encyclopedia:Spell}주문{/g}의 체력 한도를 150% 증가시킵니다. 예를 들어, 이제 권능어: 죽음 주문으로 {g|Encyclopedia:HP}HP{/g}가 100이 아닌 150 미만인 모든 적을 즉시 처치할 수 있습니다.",
     "5b066e46-1904-4846-afc0-eff15d7d6084": "이 부적의 착용자는 {g|Encyclopedia:Initiative}우선권{/g}에 {g|Encyclopedia:Check}판정{/g}에 +4 사기 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "db934367-cc47-4bda-86b4-088b58bd0468": "이 부적의 착용자는 대형 크기 이상의 적을 상대로 원거리 무기 {g|Encyclopedia:Attack}명중 굴림{/g}과 {g|Encyclopedia:Damage}피해 굴림{/g}에 +2 통찰력 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 또한 {g|Encyclopedia:Initiative}우선권{/g} {g|Encyclopedia:Dice}굴림{/g}에 +4 보너스를 얻습니다.",
     "1c55d948-7c34-4c61-872a-9881f056b31c": "이 부적의 착용자는 {g|Encyclopedia:Knowledge_World}지식(세계){/g} {g|Encyclopedia:Skills}기술{/g} 판정에 +1 능숙 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
