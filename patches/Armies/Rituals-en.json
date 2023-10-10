@@ -30,7 +30,6 @@
     "45b19af5-9073-4621-8b49-a83dd5270fee": "Deals ((Power×Power + 5)×2d8) negative energy damage to all living enemy units. Restores ((Power×Power + 5)×2d8) HP to all undead units. This is a Divine spell with a death effect.",
     "e2294615-93c7-4b48-9294-8ca6f72cdf3a": "Deals ((Power×Power + 5)×3d6) negative energy damage to the target unit. This is an Arcane spell with a death effect.",
     "dbb3813a-b9e6-435f-82ba-dcd0a45a288f": "Deals (d6×Power) magic damage to all enemy units. Restores (d6×Power) HP to all units in the army. This is a Divine spell.",
-    "09d156ee-5601-4c87-b5bf-e4459cdc7516": "Dimension Door",
     "f99adad2-24d1-41af-b16b-2a4fa9ad6718": "Enervation",
     "51a78da6-dd44-4484-95e0-b17f8b5de37f": "False Grace",
     "4e040f3d-72ee-4d64-977f-09ae3df68cb8": "Fire Storm",
@@ -61,10 +60,7 @@
     "446f667b-2301-4870-9afd-f8c10e7947e7": "Target unit gains a +(3 + Power/20) bonus to AC for 3 rounds. This is a Divine spell.",
     "f9f3374e-b9ee-45c6-a40d-33626a5530c4": "Target unit gains a +(3 + Power/8)% bonus to maximum HP for 3 rounds. This is an Arcane spell.",
     "09950cba-23b7-4102-9fe9-f198189ecf31": "Target unit gains a +3 bonus to AC for 3 rounds. This is an Arcane spell.",
-    "f03dd346-c593-4e1a-bd06-cc2a09ce7006": "Target unit gains the {g|Teleport}[Teleport]{/g} ability for 3 rounds.",
     "c91b38ef-b88e-4b97-b011-9e6d20481e56": "Target unit ignores up to 3 points of damage reduction for 3 rounds. This is an Arcane spell.",
     "5a584641-3da1-4149-b42c-2ab888d05b90": "Target unit receives a -(2 + Power/20) penalty to attack, saving throws, and ability scores, and a -5 penalty to maximum HP for 5 rounds. This is an Arcane spell with a death effect.",
-    "85f10b74-0370-409c-af14-0ad0424c5a7e": "Target unit receives a -(20 + Power/5) penalty to combat morale. This is a Divine spell.",
-    "4f8649ad-d881-44fd-b70e-3e4a16c00890": "Teleport",
-    "b62d58b2-8ba0-42fe-92db-95a5fbf6d492": "Unit can teleport to any unoccupied square instead of moving."
+    "85f10b74-0370-409c-af14-0ad0424c5a7e": "Target unit receives a -(20 + Power/5) penalty to combat morale. This is a Divine spell."
 }

@@ -1,7 +1,7 @@
 {
+    "84c578c3-4ef1-4b05-a65f-2a79c0763878": "파쇄권",
     "7b6e5630-1831-4266-8632-8fb1b8e388ef": "파쇄권",
     "3a1c5bdb-bd8c-4167-8a4c-4b273962a827": "파쇄권",
-    "84c578c3-4ef1-4b05-a65f-2a79c0763878": "파쇄권",
     "2890aa54-0075-44bb-a1cf-19b98f165b32": "경직권",
     "d544f029-394d-4ad4-9f25-2d06cb631dd0": "기절 주먹은 {g|Encyclopedia:Full_Round_Action}전력 행동{/g}으로 시도할 수 있습니다. 성공하면 대상을 기절시키는 대신 1분 동안 대상의 {g|Encyclopedia:Armor_Class}AC{/g}가 자신의 {g|Encyclopedia:Wisdom}지혜{/g} 수정치와 같은 만큼 감소합니다. 이 {g|Encyclopedia:Penalty}불이익{/g}은 파쇄권으로 인해 적용된 다른 불이익과 중첩되지 않습니다.",
     "c5c862a1-fa32-460b-8a7a-e0160418ab6e": "적을 일시적으로 기절시키기 위해 어디를 공격해야 하는지 알고 있습니다.\n이 {g|Encyclopedia:Feat}특기{/g}는 {g|Encyclopedia:Attack}공격{/g}을 하기 전에 사용해야 합니다.(따라서 공격에 실패하면 시도는 실패로 처리됩니다). 기절 주먹은 당신의 {g|Encyclopedia:UnarmedAttack}비무장 공격{/g}으로 {g|Encyclopedia:Damage}피해{/g}를 입은 적 에게 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}을 강요합니다.({g|Encyclopedia:DC}DC{/g} 10 + 자신의 {g|Encyclopedia:Character_Level}캐릭터 레벨{/g}의 절반 + 자신의 {g|Encyclopedia:Wisdom}지혜{/g} 수정치)를 추가하고 일반 피해를 입힙니다. 이 내성 굴림에 실패한 방어자는 {g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 기절합니다.(다음 턴 직전까지). 기절한 캐릭터는 들고 있던 모든 것을 떨어뜨리고, {g|Encyclopedia:CA_Types}액션{/g}을 취할 수 없으며, {g|Encyclopedia:Armor_Class}AC{/g}에 대한 {g|Encyclopedia:Dexterity}민첩{/g} 보너스를 잃고, AC에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다. 기절 공격은 달성한 레벨 4마다 하루에 한 번, 라운드당 한 번만 시도할 수 있습니다. 구조물, 진액, 식물, 언데드, {g|Encyclopedia:Incorporeal_Touch_Attack}비실체 생물{/g}, {g|Encyclopedia:Critical}치명타{/g}에 면역인 생물은 기절시킬 수 없습니다."

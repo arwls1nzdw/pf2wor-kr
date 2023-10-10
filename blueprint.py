@@ -199,6 +199,7 @@ addSubdirToFilterList("Equipment")
 addSubdirToFilterList("Items")
 addSubdirToFilterList("Armies")
 addSubdirToFilterList("Units")
+addSubdirToFilterList("Weapons")
 
 filters = {
     **filters,
