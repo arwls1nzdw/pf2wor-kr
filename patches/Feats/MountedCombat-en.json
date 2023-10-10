@@ -1,0 +1,11 @@
+{
+    "c449c1bd-ea47-441f-932d-46404f1dfc76": "Indomitable Mount",
+    "7f2c5851-ce85-4886-8a95-7b4b671442f7": "Mounted Combat",
+    "e94cfa41-0f10-41b5-aa53-35e2a3e83e6e": "Mounted Shield",
+    "a33357e1-42ba-4241-b445-17a5269b3109": "Once per {g|Encyclopedia:Combat_Round}round{/g} when your mount fails a {g|Encyclopedia:Saving_Throw}saving throw{/g}, you can make a {g|Encyclopedia:Mobility}Mobility check{/g}. Your mount makes its save if your Mobility {g|Encyclopedia:Check}check{/g} result is greater than the {g|Encyclopedia:DC}DC{/g} of the opponent's {g|Encyclopedia:Attack}attack{/g}.",
+    "ab027c1a-5ab5-4ebb-bbc7-d5e62168b27d": "Once per {g|Encyclopedia:Combat_Round}round{/g} when your mount is hit in combat, you attempt a {g|Encyclopedia:Mobility}Mobility{/g} {g|Encyclopedia:Skills}skill check{/g} to negate the hit. The hit is negated if your Mobility {g|Encyclopedia:Check}check{/g} result is greater than the opponent's {g|Encyclopedia:Attack}attack roll{/g}.",
+    "04e968b7-8c18-4a95-b0c8-2e96cad1dc10": "Trample",
+    "1e9f03fc-8552-44a8-9506-70553db0b741": "When mounted and using the charge action, you deal double {g|Encyclopedia:Damage}damage{/g} with melee weapons.",
+    "703e4aa3-44ac-4cf3-8ac2-9d8e5e4a4f71": "You gain the ability to trample enemies while riding your mount. If the trample is successful, your mount deals {g|Encyclopedia:Damage}damage{/g} to the target knocked prone by the trample as if it was hit with one {g|Encyclopedia:NaturalAttack}natural attack{/g}.",
+    "0384b72b-683c-4b31-b88a-aacbfb40528d": "You may add your base shield {g|Encyclopedia:Bonus}bonus{/g} (including the bonus from Shield Focus but not including enhancement bonuses) to your mount's {g|Encyclopedia:Armor_Class}AC{/g}."
+}

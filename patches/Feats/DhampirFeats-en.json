@@ -1,0 +1,10 @@
+{
+    "28289ba3-ce76-4066-bf8b-ec144f405fb4": "Blood Drinker (Dhampir)",
+    "8aeda18d-79bf-49e4-993f-fad6f8d2fe10": "Blood Feaster (Dhampir)",
+    "7c594d65-f8db-407d-9a99-e7b8fb378897": "Life-Dominant Soul",
+    "f3988fae-7c61-4cea-bb66-c080fe8e9953": "Natural Charmer (Dhampir)",
+    "6e07db2a-3758-48fb-80f7-384cf5434371": "Once per day you can take 20 on your next {g|Encyclopedia:Persuasion}Persuasion{/g} {g|Encyclopedia:Skills}skill check{/g}.",
+    "1f7a5390-251b-4e57-9e8b-191c93b3c67a": "Three times per day you can drink blood from an {g|Encyclopedia:Injury_Death}unconscious{/g}, {g|Encyclopedia:Helpless}helpless{/g}, sleeping or paralyzed living creatures. You can also drink blood from corpses of living creatures. Whenever you drink blood from such a creature, you gain 5 temporary {g|Encyclopedia:HP}hit points{/g} plus 5 for every three {g|Encyclopedia:Hit_Dice}Hit Dice{/g} you have and a +1 {g|Encyclopedia:Bonus}bonus{/g} on Fortitude {g|Encyclopedia:Saving_Throw}saving throws{/g}. The effects last 1 hour.",
+    "3c2d8355-88fe-430b-9656-9b4bb83a32a2": "Whenever you use the Blood Drinker {g|Encyclopedia:Feat}feat{/g}, you gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Damage}damage rolls{/g} and a +1 bonus on {g|Encyclopedia:Athletics}Athletics checks{/g}. This bonus lasts for a number of {g|Encyclopedia:Combat_Round}rounds{/g} equal to 1/2 your {g|Encyclopedia:Hit_Dice}Hit Dice{/g}.",
+    "43a28c14-6822-45e4-a311-3c1593aa517e": "You are {g|Encyclopedia:Healing}healed{/g} by both the channeled positive energy used to heal living creatures, and channeled negative energy used to heal undead, but both only heal half the normal amount. You still take {g|Encyclopedia:Damage}damage{/g} from positive energy used to harm undead, such as that from channeled energy and lay on hands."
+}

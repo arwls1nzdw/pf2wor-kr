@@ -1,0 +1,6 @@
+{
+    "719ea806-7729-46d5-9254-f0a7a272c956": "Magical Tail (Kitsune)",
+    "346a1ff5-af9f-4be0-b94f-157eeb25201c": "Vulpine Pounce",
+    "14ba415a-8df9-448a-b12d-5404c5cdeda2": "You gain Pounce in your kitsune form.",
+    "4334768d-043d-43c6-867a-f6a6fc372ea6": "You gain a new {g|Encyclopedia:Special_Abilities}spell-like ability{/g}, each usable twice per day, from the following list, in order:\n1. vanish\n2. sleep\n3. blur\n4. invisibility\n5. deep slumber\n6. displacement\n7. confusion\n8. dominate person.\nFor example, the first time you select this {g|Encyclopedia:Feat}feat{/g}, you gain vanish 2/day; the second time you select this feat, you gain sleep 2/day. Your {g|Encyclopedia:Caster_Level}caster level{/g} for these {g|Encyclopedia:Spell}spells{/g} is equal to your {g|Encyclopedia:Hit_Dice}Hit Dice{/g}. The DCs for these abilities are {g|Encyclopedia:Charisma}Charisma{/g}-based.\nYou may select this feat up to eight times. Each time you take it, you gain an additional ability as described above."
+}

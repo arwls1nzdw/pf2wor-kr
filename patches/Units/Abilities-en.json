@@ -1,0 +1,6 @@
+{
+    "875198fc-796b-412f-b06e-b8e1abcd8927": "Mounted",
+    "25136505-0cdd-4763-8b2f-feea11fee473": "Ranged Legerdemain",
+    "ff17f66d-e76e-40a4-8679-5a6f5d3aedb5": "Saddle Up",
+    "9f81d42b-8d73-4e6a-9e16-1c4630563a75": "You can attempt to mount (or dismount, if you're already saddled up) an animal of at least one {g|Encyclopedia:Size}size{/g} category larger than yourself: Large, if you are Medium, or Medium if you are Small. This is a {g|Encyclopedia:Move_Action}move action{/g}.\nWhile mounted, you deal double {g|Encyclopedia:Damage}damage{/g} with shortspear, spear, or longspear when using the charge action."
+}

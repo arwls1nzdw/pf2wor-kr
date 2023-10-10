@@ -1,0 +1,14 @@
+{
+    "ec8c51e8-eccb-4716-b54a-4ed6e2aff7c5": "{g|Encyclopedia:Standard_Actions}표준 행동{/g}으로, {g|Encyclopedia:BAB}기본 공격 보너스{/g} 전부를 사용하여 {g|Encyclopedia:Reach}범위{/g} 내의 적에게 한 번의 {g|Encyclopedia:Attack}공격{/g}을 할 수 있습니다. 적중하면 정상적으로 {g|Encyclopedia:Damage}피해{/g}를 입히고, 첫 번째 적과 인접하고 범위 내에 있는 적에게 기본 공격 보너스를 모두 사용해 추가 공격을 가할 수 있습니다. 이 {g|Encyclopedia:Feat}특기{/g}으로 {g|Encyclopedia:Combat_Round}라운드{/g}당 한 번만 추가 공격을 할 수 있습니다. 이 업적을 사용하면 다음 턴까지 자신의 {g|Encyclopedia:Armor_Class}AC{/g}에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
+    "aa6f4447-1b1e-4962-abb2-8c0452cac124": "{g|Encyclopedia:Standard_Actions}표준 행동{/g}으로, {g|Encyclopedia:Reach}범위{/g} 내에 있는 적에게 자신의 {g|Encyclopedia:BAB}기본 공격 보너스{/g}를 모두 사용하여 한 번의 {g|Encyclopedia:Attack}공격{/g}을 할 수 있습니다. 적중하면 정상적으로 {g|Encyclopedia:Damage}피해{/g}를 입히고, 첫 번째 적과 인접하고 범위 내에 있는 적에게 기본 공격 보너스 전부를 사용해 추가 공격을 가할 수 있습니다. [LONGSTART] 상급 베어 가르기 {g|Encyclopedia:Feat}특기{/g}가 없는 한 추가 공격은 {g|Encyclopedia:Combat_Round}1 라운드{/g}당 한 번만 할 수 있습니다. [LONGEND] 이 특기를 사용하면 다음 턴까지 자신의 {g|Encyclopedia:Armor_Class}AC{/g}에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
+    "9d0bfff5-2403-4719-9132-d9664320a07a": "{g|Encyclopedia:Standard_Actions}표준 행동{/g}으로, {g|Encyclopedia:BAB}기본 공격 보너스{/g} 전부를 사용하여 {g|Encyclopedia:Reach}범위{/g} 내의 적에게 한 번 {g|Encyclopedia:Attack}공격{/g}을 할 수 있습니다. 적중하면 정상적으로 {g|Encyclopedia:Damage}피해{/g}를 입히고, 이전 적과 인접하고 범위 내에 있는 적에게 기본 공격 보너스를 모두 사용해 추가 공격을 가할 수 있습니다. 적중하면 이전 적과 인접한 적들이 범위 내에 있는 한 계속해서 공격할 수 있습니다. 이 공격 {g|Encyclopedia:CA_Types}동작{/g} 중에는 개별 적을 두 번 이상 공격할 수 없습니다. 이 {g|Encyclopedia:Feat}특기{/g}를 사용하면, 당신은 다음 턴까지 자신의 {g|Encyclopedia:Armor_Class}AC{/g}에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
+    "740f741c-c371-4fcc-b046-a3bc6691919f": "베어 가르기",
+    "bab6ca61-705a-4a49-a00b-0f5e94e63e39": "베어 가르기",
+    "d5a6da77-4e68-4fbf-8820-9437b99bb129": "베어 가르기 (AC 불이익)",
+    "1c90e029-7263-4873-8414-06efbf521432": "상급 베어 넘기기",
+    "c32cffdc-be53-4a06-a928-89e1752fbf72": "상급 베어 가르기",
+    "2e77f13e-12b9-4e2c-b0d7-e7e8ac8a02f4": "내가 {g|Encyclopedia:MeleeAttack}근접 공격{/g}으로 대상의 {g|Encyclopedia:HP}체력{/g} 0 이하로 떨어졌을 경우, {g|Encyclopedia:Reach}범위{/g} 내의 다른 적에게 자신의 가장 높은 {g|Encyclopedia:BAB}기본 공격 보너스{/g}를 사용하여 근접 공격을 한 번 더 할 수 있습니다. 이 {g|Encyclopedia:Feat}특기{/g}로 {g|Encyclopedia:Combat_Round}라운드{/g}당 한 번만 추가 공격을 할 수 있습니다.",
+    "3e38a88d-c758-43fc-8a15-1f5d2ffc89fd": "향상된 베어 넘기기",
+    "32b17d2a-a716-48d1-ab65-28e26b37e0ec": "베어 가르기를 사용하면, 당신은 다음 턴까지 자신의 {g|Encyclopedia:Armor_Class}AC{/g}에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
+    "eb06dbd9-1bc0-48e2-871f-246ffb5c751c": "절단 마무리는 {g|Encyclopedia:Combat_Round}라운드{/g}당 몇 번이나 사용할 수 있습니다."
+}

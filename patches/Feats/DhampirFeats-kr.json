@@ -1,0 +1,10 @@
+{
+    "28289ba3-ce76-4066-bf8b-ec144f405fb4": "피를 마시는 자 (담피르)",
+    "8aeda18d-79bf-49e4-993f-fad6f8d2fe10": "피의 향연 (담피르)",
+    "7c594d65-f8db-407d-9a99-e7b8fb378897": "생명 지배 영혼",
+    "f3988fae-7c61-4cea-bb66-c080fe8e9953": "내추럴 매혹자 (담피르)",
+    "6e07db2a-3758-48fb-80f7-384cf5434371": "하루에 한 번 다음 {g|Encyclopedia:Persuasion}설득{/g} {g|Encyclopedia:Skills}기술{/g} 판정에 20을 굴릴 수 있습니다.",
+    "1f7a5390-251b-4e57-9e8b-191c93b3c67a": "하루에 세 번 {g|Encyclopedia:Injury_Death}의식불명{/g}, {g|Encyclopedia:Helpless}무력한{/g}, 수면 중이거나 마비된 생물의 피를 마실 수 있습니다. 생물의 시체에서 피를 마실 수도 있습니다. 해당 생물의 피를 마실 때마다 {g|Encyclopedia:HP}임시 체력{/g}이 5 증가하고, 가지고 있는 {g|Encyclopedia:Hit_Dice}HD{/g} 3개당 5가 추가되며, {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 효과는 1시간 동안 지속됩니다.",
+    "3c2d8355-88fe-430b-9656-9b4bb83a32a2": "피를 마시는 자 {g|Encyclopedia:Feat}특기{/g}를 사용할 때마다, 당신은 {g|Encyclopedia:Damage}피해 굴림{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 얻고, {g|Encyclopedia:Athletics}운동{/g} 판정에 +1 보너스를 얻습니다. 이 보너스는 {g|Encyclopedia:Hit_Dice}HD{/g}의 1/2에 해당하는 {g|Encyclopedia:Combat_Round}라운드{/g} 수만큼 지속됩니다.",
+    "43a28c14-6822-45e4-a311-3c1593aa517e": "당신은 생명체를 치유하는데 사용하는 전달된 양에너지와 언데드를 치유하는데 사용하는 전달된 음에너지로 {g|Encyclopedia:Healing}치유{/g}를 받지만, 둘 다 정상치의 절반만 치유합니다. 당신은 여전히 전달된 에너지와 안수 등 언데드에게 피해를 주는데 사용되는 양에너지로 {g|Encyclopedia:Damage}피해{/g}를 입습니다."
+}

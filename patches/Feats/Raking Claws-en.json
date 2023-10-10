@@ -1,0 +1,4 @@
+{
+    "8dac36a1-6399-41d3-8ee9-895c52d2b184": "Raking Claws",
+    "264a33ce-985d-4b4a-b64d-753374105d30": "Your claws cause bleeding wounds.\nWhenever you deal {g|Encyclopedia:Damage_Type}piercing{/g} or slashing {g|Encyclopedia:Damage}damage{/g} with your {g|Encyclopedia:NaturalAttack}natural weapons{/g}, in addition to the damage dealt by the {g|Encyclopedia:Attack}attack{/g} your opponent takes {g|Encyclopedia:Dice}1d6{/g} points of bleed damage at the start of their turn each {g|Encyclopedia:Combat_Round}round{/g}. Bleed damage can be stopped with any magical {g|Encyclopedia:Healing}healing{/g}."
+}
