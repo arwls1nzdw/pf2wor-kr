@@ -55,8 +55,18 @@ uploadText = partial(uploadMime, mime='text/plain')
 service = getGDriveService()
 
 uploadJson(service, 'dist/koKR.json', '1kqI_ArVlcnNr8ujpQ_jGXUSlXJ708hVy')
+uploadJson(service, 'dist/koKR_en.json', '1hg5TSmHRoJmxqLB3CODBgUSpqhwlYg2N')
+
 uploadJson(service, 'dist/koKR-namu.json', '1QMUwec6TidjR-axjB5jIMEwFBdjt3AC0')
+uploadJson(service, 'dist/koKR-namu_en.json', '1K-b9_t_WT34oUnvp7e6hxFVUoBqnOABw')
+
 uploadJson(service, 'dist/koKR-kingmaker.json', '1g9VAdvV6sEDgMRnX1gbF88WuZNbt71Dn')
+uploadJson(service, 'dist/koKR-kingmaker_en.json', '1Jt52ODtFLhX5Q_jDchh3L5iXVRgorWc6')
+
 uploadJson(service, 'dist/koKR-km+namu.json', '1CEww3BKZ0rkbujZjXaTg2CNye7Ml3zzd')
+uploadJson(service, 'dist/koKR-km+namu_en.json', '1E3QG8blVe1dPFcQ79oxHS5SwAJI-IySe')
+
 uploadJson(service, 'dist/koKR-namu+km.json', '1g6aka87zz9MJSlz5_OG-usKFwIf5auaa')
+uploadJson(service, 'dist/koKR-namu+km_en.json', '14eoJVNqr3A9hZyh4xF-1BZF1V4iUPM5f')
+
 uploadText(service, 'README.MD', '1OK8WHXEkX92mpOHYy3_PcdK49gG-LtAw')
