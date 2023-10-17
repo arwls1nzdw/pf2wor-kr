@@ -89,7 +89,7 @@ for d, p in data_list:
     for k in 영문병기_keys:
         if k not in d['strings'] or len(d['strings'][k]) <= 10:
             continue
-        d['strings'][k] += f"\n<size=90%>{enGB['strings'][k]}</size>"
+        d['strings'][k] += f"\n<size=95%>{enGB['strings'][k]}</size>"
 
     utils.write_json(d, p)
 
