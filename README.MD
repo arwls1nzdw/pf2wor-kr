@@ -18,6 +18,9 @@ SteamLibrary\steamapps\common\Pathfinder Second Adventure\Wrath_Data\StreamingAs
 
 파일 종류
 ```
+파일 뒤에 _en이 붙으면 대화문에 영문 병기 버전임.
+영문 병기 기준은 github의 Act, Comp(동료 관련) 폴더 내 파일, 번역 이후 10글자 이상인 문자열.
+
 enGB.json
   deepl + 수작업 수정
 
