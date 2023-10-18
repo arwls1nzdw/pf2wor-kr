@@ -1,6 +1,5 @@
 {
     "9cc61d11-0709-4c46-b1ee-7ed3acc6e89f": "가리키는 손가락에서 얼어붙은 공기와 얼음의 광선이 발사됩니다. 광선으로 원거리 {g|Encyclopedia:TouchAttack}접촉 공격{/g}에 성공해야 대상에게 {g|Encyclopedia:Damage}피해{/g}를 입힙니다. 광선은 {g|Encyclopedia:Dice}1d3{/g} {g|Encyclopedia:Energy_Damage}냉기 피해{/g}를 줍니다.",
-    "db1909ac-3e26-4875-9afb-6e65d97bdb22": "산성 분사",
     "0a6b0fb8-c882-4b15-8043-19faa5330223": "전투가 끝난 후, 당신은 {g|Encyclopedia:Spell}주문{/g}효과를 마음대로 해제할 수 있습니다. 전투에서 벗어나야 하며 주문 효과 범위 100피트 내에 있어야 합니다. 주문을 해제하는 것은 주문 슬롯을 소모하지 않고 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}을 유발하지 않는 {g|Encyclopedia:Standard_Actions}표준 행동{/g}입니다.",
     "d7c86817-33b5-4d6d-9bbb-9d8d3502a6a2": "영역 내에 있는 모든 생물은 {g|Encyclopedia:Saving_Throw}의지 굴림{/g}에 실패하면 졸음과 부주의 상태가 되어, {g|Encyclopedia:Perception}지각{/g} 판정에 -5 {g|Encyclopedia:Penalty}불이익{/g}을 받고, 자장가가 유효한 동안 수면 효과에 대한 의지 굴림에 -2의 불이익을 받습니다.",
     "13726f0a-c050-4146-b248-37898b4e2934": "몽롱",
@@ -18,19 +17,17 @@
     "12676a55-6f20-47b7-bed3-96022295d51c": "안정화",
     "4aee55cb-613f-4f33-9d4c-f2abaae01edf": "이 생물은 눈의 과도한 자극으로 인해 앞을 잘 볼 수 없습니다. 현혹된 생물은 {g|Encyclopedia:Attack}명중 굴림{/g}과 시각 기반 {g|Encyclopedia:Perception}지각{/g} 판정에 -1 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
     "d1b98530-5e3b-454f-9196-a8770a89a935": "이 {g|Encyclopedia:Cantrips_Orisons}캔트립{/g}은 빛의 폭발을 일으킵니다. 한 생물 앞에서 빛이 터지게 하면, 그 생물이 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하지 않는 한 1분 동안 현혹됩니다. [LONGSTART] 시력이 없는 생물과 이미 현혹된 생물은 섬광의 영향을 받지 않습니다. [LONGEND]",
-    "6b804ff7-82c5-49b6-addb-1f6c9eba3be9": "이 {g|Encyclopedia:Spell}주문{/g}은 접촉한 파티원을 횃불처럼 빛나게 하여 접촉한 지점으로부터 20피트 반경에 일반 빛을 발산합니다.[LONGSTART]\n빛의 주문은 한 번에 하나만 활성화할 수 있습니다. 다른 주문이 유효한 상태에서 이 주문을 사용하면 이전 주문은 해제됩니다.[LONGEND].",
     "c0e86d7a-781f-4a36-bedf-443d46c88a35": "이 {g|Encyclopedia:Spell}주문{/g}은 {g|Encyclopedia:Hit_Dice}HD{/g}가 4 이하인 인간형 생물의 정신을 흐리게 하여 {g|Encyclopedia:CA_Types}행동{/g}을 취하지 않도록 합니다. HD가 5 이상인 휴머노이드는 영향을 받지 않습니다. [LONGSTART] 몽롱한 대상은 기절되지 않으므로 공격자는 이에 대해 특별한 이점을 얻지 못합니다. 생물이 이 주문에 의해 몽롱해 지고 나면, 1분 동안 이 주문의 효과에 면역이 됩니다.\n몽롱한 상태: 생물은 정상적으로 행동할 수 없습니다. 몽롱한 생물은 아무 행동도 할 수 없지만, {g|Encyclopedia:Armor_Class}AC{/g}에 {g|Encyclopedia:Penalty}불이익{/g}은 받지 않습니다. [LONGEND]",
     "f4f7dab9-067a-4e11-a768-34f8661cd7c1": "이 {g|Encyclopedia:Spell}주문{/g}은 대상에게 신성한 인도의 {g|Encyclopedia:TouchAttack}손길{/g}을 불어넣습니다.\n이 생물은 한 번의 {g|Encyclopedia:Attack}명중 굴림{/g}, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}, 또는 {g|Encyclopedia:Skills}기술{/g} 판정에 능력 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "c75b0ca8-f5e9-4f68-b6aa-156c7619ffb3": "피로의 손길",
     "58629f2b-2c91-46b7-9364-42a30f361da8": "피로의 손길",
     "5d694b8c-38c8-457e-aced-41966f02d04c": "이 {g|Encyclopedia:Spell}주문{/g}을 발동하는 순간, 당신은 체력이 -1 이하인 {g|Encyclopedia:HP}생명체{/g}를 대상으로 한다. 그 생물은 자동으로 안정화되고 더 이상 공격점을 잃지 않습니다. 그 생물이 나중에 {g|Encyclopedia:Damage}피해{/g}를 받으면, 그 생물은 정상적으로 계속 죽습니다.",
-    "06bc4c3a-81d3-4fef-a0af-9bc54e2c270f": "미덕",
     "85594d79-a3e6-49fc-ac8d-bd6d7e5fbbbf": "미덕",
+    "06bc4c3a-81d3-4fef-a0af-9bc54e2c270f": "미덕",
     "e0956857-560a-48f8-9219-4453326fa2df": "{g|Encyclopedia:TouchAttack}접촉{/g}으로 생물에게 작은 생명력을 불어넣어 대상에게 {g|Encyclopedia:HP}임시 체력{/g} 1을 부여합니다.",
     "fe620403-5b61-4d77-9e8d-2fbd58c4c22f": "{g|Encyclopedia:TouchAttack}원거리 접촉 공격{/g}에 성공하면 대상에게 전기 불꽃을 일으킵니다.{g|Encyclopedia:Spell}주문{/g}은 {g|Encyclopedia:Dice}1d3{/g} {g|Encyclopedia:Energy_Damage}전기 피해{/g}를 입힙니다.",
     "7b5435a9-c8ce-415c-bc61-cc25bafcbe42": "{g|Encyclopedia:TouchAttack}접촉{/g}을 통해 음에너지를 방출하여 대상에게 피로를 줍니다. 대상을 공격하려면 {g|Encyclopedia:Attack}접촉 공격{/g}에 성공해야 합니다. 대상은 {g|Encyclopedia:Spell}주문{/g}의 지속시간 동안 즉시 피로를 받습니다.\n이 주문은 이미 피로한 생물에게는 효과가 없습니다. 일반 피로와는 달리, 주문 지속시간이 만료되는 즉시 효과가 종료됩니다.",
     "b453b512-2b56-4e15-8ae0-53df07a87235": "당신은 양에너지 광선을 발사합니다. 적중하려면 원거리 {g|Encyclopedia:TouchAttack}접촉 공격{/g}을 해야 하며, 광선이 언데드 생물에게 적중하면 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}피해{/g}를 입힙니다.",
-    "1c2cbe99-2383-4c9d-8a63-625e3d476782": "대상을 향해 작은 산성 구체를 발사합니다. {g|Encyclopedia:TouchAttack}원거리 접촉 공격{/g}에 성공해야 대상을 적중시킬 수 있습니다. 구슬은 1-3({g|Encyclopedia:Dice}1d3{/g})  {g|Encyclopedia:Energy_Damage}산성 피해{/g}를 줍니다.",
     "b5e7ea3a-da12-410d-a1e0-a15d8a7b2079": "대상에게 위험으로부터 보호하는 마법의 에너지를 불어넣어 {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 +1 저항 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.",
     "98584a2f-8a5f-4fef-b452-b278efe4ac53": "한 대상에게 신성한 힘을 발산합니다. 대상은 {g|Encyclopedia:Dice}1d3{/g} {g|Encyclopedia:Damage}신성 피해{/g}를 입습니다. {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 성공하면 피해량이 절반으로 감소합니다."
 }

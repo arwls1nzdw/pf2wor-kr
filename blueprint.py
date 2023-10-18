@@ -1,8 +1,10 @@
 import fnmatch
+from glob import glob
 import json
 from collections import OrderedDict
 from functools import partial
 from pathlib import Path
+import re
 
 from functional import seq
 
@@ -56,18 +58,21 @@ def filter_by_pattern(*patterns):
     return ret
 
 
-def addSubdirToFilterList(rootDir):
+def addSubdirToFilterList(rootDir: str):
     global filters
+
+    if not rootDir.endswith("/"):
+        rootDir = f"{rootDir}/"
 
     arr = []
     for name in nameSet:
-        if not name.startswith(f"{rootDir}/"):
+        if not name.startswith(rootDir):
             continue
-        if name.count('/') == 2 and name.endswith('/'):
-            arr.append((name, [f'{name}**/*.jbp', f"{name}*.jbp"]))
-            filters[name] = partial(filter_by_pattern, )
-        elif name.count('/') == 1 and name.endswith('.jbp'):
-            arr.append((f"{rootDir}/_Root", [f"{rootDir}/*.jbp"]))
+
+        if name.count('/') == rootDir.count('/') + 1 and name.endswith('/'):
+            arr.append((name[:-1], [f'{name}**/*.jbp', f"{name}*.jbp"]))
+        elif name.count('/') == rootDir.count("/") and name.endswith('.jbp'):
+            arr.append((f"{rootDir}/_Root", [f"{rootDir}/*.jbp", f"{rootDir}/**/*.jbp"]))
 
     arr.sort(key=lambda t: "z" if t[0][0] == "_" else t[0])
     for name, pattern in arr:
@@ -100,7 +105,7 @@ def 일치하는jbp파일에서JsonPath가포함된StringKey찾기(jbpFilePatter
 zip = dataloader.get_data_bp()
 
 en = dataloader.get_data_en()['strings']
-kr = dataloader.get_data_kr_patches()
+kr = dataloader.get_data_kr()['strings']
 
 nameSet = set(zip.namelist())
 
@@ -139,17 +144,17 @@ filters = {
     "NPC/StoryTeller": partial(filter_by_pattern, 'World/**/*StoryTeller*/**/*.jbp', 'World/**/*StoryTeller*/*.jbp', 'World/**/Collector/*.jbp'),
     "NPC/Vendor": partial(filter_by_pattern, 'World/**/*Vendor*/**/*.jbp', 'World/**/*Vendor*/*.jbp'),
     "NPC/Hilor": partial(filter_by_pattern, 'World/**/*Hilor*/**/*.jbp', 'World/**/*Hilor*/*.jbp'),
-    "Mythic/Aeon": partial(filter_by_pattern, 'Mythic/*Aeon*/**/*.jbp', 'World/Areas/Mythics/Aeon*/**/*.jbp', 'World/Quests/MythicQuests/Aeon/**/*.jbp'),
-    "Mythic/Angel": partial(filter_by_pattern, 'Mythic/*Angel*/**/*.jbp', 'World/Quests/MythicQuests/Angel/**/*.jbp'),
-    "Mythic/Azata": partial(filter_by_pattern, 'Mythic/*Azata*/**/*.jbp', 'World/Quests/MythicQuests/Azata/**/*.jbp'),
-    "Mythic/Demon": partial(filter_by_pattern, 'Mythic/*Demon*/**/*.jbp', 'World/Quests/MythicQuests/Demon/**/*.jbp'),
-    "Mythic/Devil": partial(filter_by_pattern, 'Mythic/*Devil*/**/*.jbp', 'World/Quests/MythicQuests/Devil/**/*.jbp'),
-    "Mythic/Legend": partial(filter_by_pattern, 'Mythic/*Legend*/**/*.jbp', 'World/Areas/Mythics/Legend*/**/*.jbp', 'World/Quests/MythicQuests/Legend/**/*.jbp'),
-    "Mythic/Lich": partial(filter_by_pattern, 'Mythic/*Lich*/**/*.jbp', 'World/Quests/MythicQuests/Lich/**/*.jbp'),
-    "Mythic/Dragon": partial(filter_by_pattern, 'Mythic/*Dragon*/**/*.jbp', 'World/Quests/MythicQuests/Dragon/**/*.jbp'),
-    "Mythic/Trickster": partial(filter_by_pattern, 'Mythic/*Trickster*/**/*.jbp', 'Mythic/Feats/TricksterFeats/*.jbp', 'World/Areas/Mythics/Trickster*/**/*.jbp', 'World/Quests/MythicQuests/Trickster/**/*.jbp'),
-    "Mythic/Swarm": partial(filter_by_pattern, 'Mythic/*Swarm*/**/*.jbp', 'World/Quests/MythicQuests/Locust/**/*.jbp'),
-    "Mythic/Common": partial(filter_by_pattern, 'Mythic/**/*.jbp'),
+    "Mythic/Aeon": partial(filter_by_pattern, 'Mythic/Aeon/**/*.jbp', 'Mythic/Aeon/*.jbp'),
+    "Mythic/Angel": partial(filter_by_pattern, 'Mythic/Angel/**/*.jbp', 'Mythic/Angel/*.jbp'),
+    "Mythic/Azata": partial(filter_by_pattern, 'Mythic/Azata/**/*.jbp', 'Mythic/Azata/*.jbp'),
+    "Mythic/Demon": partial(filter_by_pattern, 'Mythic/Demon/**/*.jbp', 'Mythic/Demon/*.jbp'),
+    "Mythic/Devil": partial(filter_by_pattern, 'Mythic/Devil/**/*.jbp', 'Mythic/Devil/*.jbp'),
+    "Mythic/Legend": partial(filter_by_pattern, 'Mythic/Legend/**/*.jbp', 'Mythic/Legend/*.jbp'),
+    "Mythic/Lich": partial(filter_by_pattern, 'Mythic/Lich/**/*.jbp', 'Mythic/Lich/*.jbp'),
+    "Mythic/Dragon": partial(filter_by_pattern, 'Mythic/Dragon/**/*.jbp', 'Mythic/Dragon/*.jbp'),
+    "Mythic/Trickster": partial(filter_by_pattern, 'Mythic/Trickster/**/*.jbp', 'Mythic/Trickster/*.jbp', 'Mythic/Feats/TricksterFeats/*.jbp',),
+    "Mythic/Swarm": partial(filter_by_pattern, 'Mythic/Swarm/**/*.jbp', 'Mythic/Swarm/*.jbp'),
+    "Mythic/Common": partial(filter_by_pattern, 'Mythic/**/*.jbp', 'Mythic/*.jbp'),
     "Act/Chp_0": partial(filter_by_pattern, 'World/**/c0*/**/*.jbp', 'World/Areas/Act_0*/*.jbp'),
     "Act/Chp_1": partial(filter_by_pattern, 'World/**/c1*/**/*.jbp', 'World/Areas/Act_1*/*.jbp'),
     "Act/Chp_2": partial(filter_by_pattern, 'World/**/c2*/**/*.jbp', 'World/Areas/Act_2*/*.jbp'),
@@ -162,7 +167,36 @@ filters = {
     "Act/DLC_2": partial(filter_by_pattern, 'World/**/*DLC2*/**/*.jbp'),
     "Act/DLC_3": partial(filter_by_pattern, 'World/**/*DLC3*/**/*.jbp'),
     "Act/DLC_4": partial(filter_by_pattern, 'World/**/*DLC4*/**/*.jbp'),
-    "Crusade": partial(filter_by_pattern, '**/*Crusade*/**/*.jbp'),
+    "Act/Quest/Mythic/Aeon": partial(filter_by_pattern, 'World/Quests/MythicQuests/Aeon/**/*.jbp'),
+    "Act/Quest/Mythic/Angel": partial(filter_by_pattern, 'World/Quests/MythicQuests/Angel/**/*.jbp'),
+    "Act/Quest/Mythic/Azata": partial(filter_by_pattern, 'World/Quests/MythicQuests/Azata/**/*.jbp'),
+    "Act/Quest/Mythic/Demon": partial(filter_by_pattern, 'World/Quests/MythicQuests/Demon/**/*.jbp'),
+    "Act/Quest/Mythic/Devil": partial(filter_by_pattern, 'World/Quests/MythicQuests/Devil/**/*.jbp'),
+    "Act/Quest/Mythic/Dragon": partial(filter_by_pattern, 'World/Quests/MythicQuests/Dragon/**/*.jbp'),
+    "Act/Quest/Mythic/Legend": partial(filter_by_pattern, 'World/Quests/MythicQuests/Legend/**/*.jbp'),
+    "Act/Quest/Mythic/Lich": partial(filter_by_pattern, 'World/Quests/MythicQuests/Lich/**/*.jbp'),
+    "Act/Quest/Mythic/Swarm": partial(filter_by_pattern, 'World/Quests/MythicQuests/Locust/**/*.jbp'),
+    "Act/Quest/Mythic/Trickster": partial(filter_by_pattern, 'World/Quests/MythicQuests/Trickster/**/*.jbp'),
+    "Crusade/Relics/Act_2": partial(filter_by_pattern, 'World/Crusade/Events/Relics/Ch2/*.jbp'),
+    "Crusade/Relics/Act_3": partial(filter_by_pattern, 'World/Crusade/Events/Relics/Ch3/*.jbp'),
+    "Crusade/Relics/Act_4": partial(filter_by_pattern, 'World/Crusade/Events/Relics/Ch4/*.jbp'),
+    "Crusade/Relics/Act_5": partial(filter_by_pattern, 'World/Crusade/Events/Relics/Ch5/*.jbp'),
+    "Crusade/RanpUp/Diplomacy": partial(filter_by_pattern, "World/Crusade/RankUps/Diplomacy/**/*.jbp"),
+    "Crusade/RanpUp/Leadership": partial(filter_by_pattern, "World/Crusade/RankUps/Leadership/**/*.jbp"),
+    "Crusade/RanpUp/Logistic": partial(filter_by_pattern, "World/Crusade/RankUps/Logistics/**/*.jbp"),
+    "Crusade/RanpUp/Military": partial(filter_by_pattern, "World/Crusade/RankUps/Military/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Aeon": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Aeon/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Angel": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Angel/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Azata": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Azata/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Demon": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Demon/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Dragon": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Dragon/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Legend": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Legend/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Lich": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Lich/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Swarm": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Locust/**/*.jbp"),
+    "Crusade/RanpUp/Mythic/Trickster": partial(filter_by_pattern, "World/Crusade/RankUps/MythicRankUps/Trickster/**/*.jbp"),
+    "Crusade/Items": partial(filter_by_pattern, 'World/Crusade/CrusadeItems/**/*.jbp'),
+    "Crusade/Army": partial(filter_by_pattern, 'World/Crusade/CrusadeArmy/**/*.jbp'),
+    "Crusade/Quests": partial(filter_by_pattern, 'World/Quests/Crusade/**/*.jbp'),
 }
 
 addSubdirToFilterList("Classes")
@@ -173,6 +207,7 @@ addSubdirToFilterList("Items")
 addSubdirToFilterList("Armies")
 addSubdirToFilterList("Units")
 addSubdirToFilterList("Weapons")
+addSubdirToFilterList("World/Encounters")
 
 rootdirs = seq(zip.filelist) \
     .filter(lambda f: f.filename.endswith('/') and f.filename.count('/') == 1) \
@@ -180,7 +215,7 @@ rootdirs = seq(zip.filelist) \
     .to_list()
 filters = {
     **filters,
-    **{d: partial(filter_by_pattern, f'{d}/**/*.jbp') for d in rootdirs if d not in filters}
+    **{d: partial(filter_by_pattern, f'{d}/**/*.jbp', f'{d}/*.jbp') for d in rootdirs if d not in filters}
 }
 
 keySet = set()
@@ -209,17 +244,24 @@ def isDummy(text: str):
         return True
     if text.lower().strip().startswith('(draft)'):
         return True
+    if re.search('[а-яА-Я]', text):
+        return True
     return False
 
 
+file_list = set()
 for name in data:
-    path = ''
+    parent = ''
     stem = name
     if '/' in name:
-        parent = name.split('/')[0]
+        parent = '/'.join(name.split('/')[:-1])
+        if not parent.endswith('/'):
+            parent = f'{parent}/'
+
         Path(f'patches/{parent}').mkdir(parents=True, exist_ok=True)
-        path = f'{parent}/'
-        stem = name.split('/')[1]
+        parent = f'{parent}/'
+        stem = name.split('/')[-1]
+
     out_en = {}
     out_kr = {}
     for key in data[name]:
@@ -233,8 +275,15 @@ for name in data:
     if len(out_en) == 0:
         print('skip empty', name)
         continue
-    dump_with_sort(f'patches/{path}{stem}-en.json', out_en)
-    dump_with_sort(f'patches/{path}{stem}-kr.json', out_kr)
+    dump_with_sort(f'patches/{parent}{stem}-en.json', out_en)
+    dump_with_sort(f'patches/{parent}{stem}-kr.json', out_kr)
+    file_list.add(f'patches/{parent}{stem}-en.json')
+    file_list.add(f'patches/{parent}{stem}-kr.json')
+
+for f in glob("patches/**/*.json"):
+    f = f.replace('\\', '/')
+    if f not in file_list:
+        print(f)
 
 print("=======summary=======")
 for key in sorted(data.keys(), key=lambda d: len(data[d])):

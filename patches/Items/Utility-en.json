@@ -2,7 +2,6 @@
     "f0c6ab72-f029-4f88-8324-b5786a90b2d8": "A set of basic medicines. Essential for using the Treat Affliction ability. Consumed when used.",
     "f5747aea-a38d-4a86-a67d-e6deb15fee1b": "All kinds of materials and supplies essential for building a kingdom.",
     "c8525b77-f485-4553-8cb1-9fa209296501": "Apprentice Lockpick",
-    "af198045-2c3a-49f4-99ea-c8b4367d315a": "Belt Lantern",
     "a11f59de-daf8-4c6f-ad92-4065e70b8df2": "Build Points",
     "505dcfb9-bbcc-4024-aea3-fa7be5c9893b": "Camping supplies and rations",
     "9987a727-0eaf-4975-b7cc-4131f679c597": "Crisis Points",
@@ -15,7 +14,5 @@
     "bc487af3-a401-4226-a521-04f7d8b700f5": "The universal currency of Golarion.",
     "17e48c4d-6a8c-4da1-bb81-07f76a9931a4": "This lockpick can be used once to grant a +10 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Trickery}Trickery{/g} {g|Encyclopedia:Skills}skill checks{/g} when used to pick locks.",
     "3be34099-80f2-46e9-a2c5-3e1c5c7c4d94": "This lockpick can be used once to grant a +5 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Trickery}Trickery{/g} {g|Encyclopedia:Skills}skill checks{/g} when used to pick locks.",
-    "bdf75960-3492-49d4-b5f5-07316e42db64": "This magical lantern emits a soft light. It can be conveniently hooked to a belt.",
-    "c0e5a9e3-94e6-4042-8f5f-0d6ccea00063": "This set of supplies contains everything you need to rest one night in the wilderness and restore your party members health, abilities and spells.",
-    "8081af76-316a-4c6d-9e1b-f72aa3e4d24e": "Whatever this used to be, now it is reduced to scraps and shreds. You can sell them to any vendor."
+    "c0e5a9e3-94e6-4042-8f5f-0d6ccea00063": "This set of supplies contains everything you need to rest one night in the wilderness and restore your party members health, abilities and spells."
 }

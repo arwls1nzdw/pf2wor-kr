@@ -4,6 +4,7 @@
     "ab6aeb0a-2b9a-4b4b-a650-a9adfea030f3": "활기찬 야생 모양 - 냉기",
     "f6cc4bbc-f4b3-4b88-bc67-fc4170442cfa": "활기찬 야생 모양 - 전기",
     "d67eb110-f374-4397-8ceb-b35adc973475": "활기찬 야생 모양 - 화염",
+    "3b2af513-8e7d-4634-946c-fea0b3427693": "다음 기능 중 하나가 있습니다.\n야생 형태(늑대)\n주요 형태",
     "8caaff6e-0430-4516-8d08-8de5f29b5f86": "야생 형상을 사용하면 산성 저항이 10 증가하고, {g|Encyclopedia:NaturalAttack}자연 무기{/g}가 추가 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}산성 피해{/g}를 입힙니다. 이미 산성 저항을 있는 야생 형상을 취하면 저항이 10 대신 5 증가합니다. {g|Encyclopedia:Damage}산성 피해{/g}를 주는 야생 형상을 취하면, 야생 형상이 주는 산성 피해는 추가 피해에 더해 피해 주사위 등급 하나만큼 증가합니다.(예: 1d6이 1d8이 됨)",
     "b7a110ce-1fb1-45ba-828b-6f59b3164b45": "야생 형상을 사용하면 냉기 저항이 10 증가하고, {g|Encyclopedia:NaturalAttack}자연 무기{/g}가 추가 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}냉기 피해{/g}를 입힙니다. 이미 냉기 저항이 있는 야생 형상을 취하면 저항이 10 대신 5 증가합니다. {g|Encyclopedia:Damage}냉기 피해{/g}를 주는 야생 형상을 취하면, 야생 형상이 주는 산성 피해는 추가 피해에 더해 피해 주사위 등급 하나만큼 증가합니다.(예: 1d6은 1d8이 됨)",
     "adc138b1-e5c0-4c34-838b-e966dab02a3b": "야생 형상을 사용하면 전기 저항이 10 증가하고, {g|Encyclopedia:NaturalAttack}자연 무기{/g}가 추가 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}전기 피해{/g}를 입힙니다. 이미 전기 저항이 있는 야생 형상을 취하면 저항이 10 대신 5 증가합니다. {g|Encyclopedia:Damage}전기 피해{/g}를 주는 야생 형상을 취하면, 야생 형상이 주는 산성 피해는 추가 피해에 더해 피해 주사위 등급 하나만큼 증가합니다.(예: 1d6이 1d8이 됨)",
