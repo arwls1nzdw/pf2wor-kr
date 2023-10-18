@@ -7,19 +7,7 @@ from pathlib import Path
 
 from functional import seq
 
-
-class CachedZipFile(zipfile.ZipFile):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        self._cache = {}
-
-    def read(self, name, pwd=None):
-        data = super().read(name, pwd)
-        self._cache[name] = data
-        return data
-
-    def read_json(self, name):
-        return json.loads(self.read(name).decode('utf-8'))
+import data
 
 
 def find_all_stringKeys(data, *prev_paths):
@@ -110,10 +98,12 @@ def 일치하는jbp파일에서JsonPath가포함된StringKey찾기(jbpFilePatter
     return ret
 
 
-zip = CachedZipFile("D:/Games/SteamLibrary/steamapps/common/Pathfinder Second Adventure/blueprints.zip")
+zip = data.get_data_bp()
 
-en = json.loads(Path('dist/enGB.json').read_text(encoding='utf-8'))['strings']
-kr = json.loads(Path('dist/koKR.json').read_text(encoding='utf-8'))['strings']
+en = data.get_data_en()['strings']
+kr = data.get_data_kr_patches()
+
+nameSet = set(zip.namelist())
 
 filters = {
     "Comp/Arueshalae": partial(filter_by_pattern, '**/*Arueshalae*/**/*.jbp', '**/*Arueshalae*/*.jbp'),
@@ -195,7 +185,6 @@ filters = {
 }
 
 keySet = set()
-nameSet = set(zip.namelist())
 
 data = {}
 data['Shared/Location'] = [

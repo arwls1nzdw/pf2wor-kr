@@ -1,12 +1,28 @@
 from glob import glob
+import json
 from pathlib import Path
 import zipfile
 
 import utils
 
-_data_en = None
-_data_kr = None
-_data_bp = None
+
+class CachedZipFile(zipfile.ZipFile):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self._cache = {}
+
+    def read(self, name, pwd=None):
+        data = super().read(name, pwd)
+        self._cache[name] = data
+        return data
+
+    def read_json(self, name):
+        return json.loads(self.read(name).decode('utf-8'))
+
+
+_data_en: dict = None
+_data_kr: dict = None
+_data_bp: CachedZipFile = None
 
 
 def get_data_en():
@@ -26,7 +42,7 @@ def get_data_kr():
 def get_data_bp():
     global _data_bp
     if _data_bp is None:
-        _data_bp = zipfile.ZipFile("./blueprints.zip")
+        _data_bp = CachedZipFile("./blueprints.zip")
     return _data_bp
 
 
