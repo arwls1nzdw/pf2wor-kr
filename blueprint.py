@@ -1,13 +1,12 @@
 import fnmatch
 import json
-import zipfile
 from collections import OrderedDict
 from functools import partial
 from pathlib import Path
 
 from functional import seq
 
-import data
+import dataloader
 
 
 def find_all_stringKeys(data, *prev_paths):
@@ -98,10 +97,10 @@ def 일치하는jbp파일에서JsonPath가포함된StringKey찾기(jbpFilePatter
     return ret
 
 
-zip = data.get_data_bp()
+zip = dataloader.get_data_bp()
 
-en = data.get_data_en()['strings']
-kr = data.get_data_kr_patches()
+en = dataloader.get_data_en()['strings']
+kr = dataloader.get_data_kr_patches()
 
 nameSet = set(zip.namelist())
 

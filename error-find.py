@@ -1,5 +1,4 @@
-from data import get_data_en, get_data_kr_patches
-
+import dataloader
 import utils
 
 
@@ -15,8 +14,8 @@ def erase_tags(text):
     return text
 
 
-en = get_data_en()['strings']
-kr = get_data_kr_patches()
+en = dataloader.get_data_en()['strings']
+kr = dataloader.get_data_kr_patches()
 
 token_en = "restoration".lower()
 token_kr = '상태회복'
