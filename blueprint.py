@@ -22,7 +22,7 @@ class CachedZipFile(zipfile.ZipFile):
         return json.loads(self.read(name).decode('utf-8'))
 
 
-def find_string_keys(data, *prev_paths):
+def find_all_stringKeys(data, *prev_paths):
     global en
 
     for key in data:
@@ -32,19 +32,19 @@ def find_string_keys(data, *prev_paths):
             val = key
 
         if not isinstance(val, str) and (hasattr(val, '__iter__') or hasattr(val, '__getitem__')):
-            yield from find_string_keys(val, *prev_paths, key)
+            yield from find_all_stringKeys(val, *prev_paths, key)
         elif val in en:
             yield val
 
 
-def find_string_key_file(string_key):
+def find_jbp_files_using_stringKey(string_key):
     global zip
 
     for p in zip.filelist:
         if p.filename.endswith('/'):
             continue
         data = zip.read_json(p)
-        strKeys = list(find_string_keys(data))
+        strKeys = list(find_all_stringKeys(data))
         if string_key in strKeys:
             yield p
 
@@ -58,7 +58,7 @@ def filter_by_pattern(*patterns):
         ret.update(
             seq(matches)
             .map(lambda p: zip.read_json(p))
-            .map(find_string_keys)
+            .map(find_all_stringKeys)
             .map(list)
             .flatten()
             .filter(lambda k: k not in keySet)
@@ -87,7 +87,7 @@ def addSubdirToFilterList(rootDir):
         filters[name] = partial(filter_by_pattern, *pattern)
 
 
-def find_all_shared_keys(*patterns):
+def 일치하는jbp파일에서JsonPath가포함된StringKey찾기(jbpFilePattern, *jsonPaths):
     global keySet
 
     def inner(data, *prev_paths):
@@ -97,11 +97,10 @@ def find_all_shared_keys(*patterns):
                 continue
             if isinstance(val, dict):
                 yield from inner(val, *prev_paths, key)
-            elif all(map(lambda p: p in prev_paths, patterns)) and val in en:
+            elif all(map(lambda p: p in prev_paths, jsonPaths)) and val in en:
                 yield val
 
-    pattern = "**/*.jbp"
-    matches = set(fnmatch.filter(nameSet, pattern))
+    matches = set(fnmatch.filter(nameSet, jbpFilePattern))
     ret = seq(matches) \
         .map(lambda p: zip.read_json(p)) \
         .map(inner) \
@@ -199,8 +198,12 @@ keySet = set()
 nameSet = set(zip.namelist())
 
 data = {}
-data['Shared/Duration'] = find_all_shared_keys("LocalizedDuration")
-data['Shared/SavingThrow'] = find_all_shared_keys("LocalizedSavingThrow")
+data['Shared/Location'] = [
+    *일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/Location*.jbp", "Name"),
+    *일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/*.jbp", "AreaName")
+]
+data['Shared/Duration'] = 일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/*.jbp", "LocalizedDuration")
+data['Shared/SavingThrow'] = 일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/*.jbp", "LocalizedSavingThrow")
 for key in filters:
     data[key] = filters[key]()
 data['missing'] = [k for k in en if k not in keySet]

@@ -1,16 +1,10 @@
 {
     "73c35918-2ac0-45be-ad7d-9a25ae7438ee": "손끝에서 마법 에너지가 담긴 미사일이 튀어나와 대상을 명중시켜 {g|Encyclopedia:Dice}1d4{/g}+1의 {g|Encyclopedia:Damage}역장 피해{/g}를 줍니다.[LONGSTART]\n미사일은 목표물이 근접 전투 중일지라도 총 엄폐력 또는 총 {g|Encyclopedia:Concealment}은폐{/g}보다 적다면 정확하게 공격합니다.[LONGEND]\n{g|Encyclopedia:Caster_Level}시전자 레벨{/g}이 1을 초과할 때마다 미사일이 하나씩 추가되며, 3레벨에는 2개, 5레벨에는 3개, 7레벨에는 4개, 9레벨 이상에서는 최대 5개의 미사일을 획득할 수 있습니다.",
-    "e92c2904-b211-4348-a40d-dafe63f1b09c": "산성 분사",
     "330a160b-a5b5-4bd4-86b5-1b84852e3bfc": "제단",
-    "41f489d4-92a9-485b-8d30-c162776745f3": "냉기의 원뿔",
-    "3958ca90-5634-43f4-93a7-0ab2a330faa0": "냉기의 원뿔이 손에서 시작하여 원뿔 모양으로 바깥쪽으로 뻗어나가는 극심한 냉기 영역을 생성합니다. 열을 흡수하여 {g|Encyclopedia:Dice}시전자 레벨{/g}당 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}냉기 피해{/g}를 줍니다.(최대 15d6).",
     "792aadf2-4bee-4be1-ad12-4c7142de3522": "치명적 상처 입히기",
     "39922f57-ed0b-4d1b-a79b-80af76912322": "마법 화살",
     "9c2b592f-75e1-40e7-adb1-f4ac8e1a3904": "극대화 뼈 조각내기",
     "4dce0ef2-5f65-4807-a1d5-0b2e7271a9d1": "신속 뼈 흔들기",
     "fa5b1fac-eaf2-4e47-b057-028f69cd2893": "신속 방패",
-    "38d4754e-8a88-49e3-9f66-d2be86c0b44a": "보호막이 보이지 않는 힘의 보호막을 생성하여 전방에 맴돌게 합니다. 자신을 향한 마법 화살 {g|Encyclopedia:Attack}공격{/g}을 무효화합니다. 또한 이 원반은 {g|Encyclopedia:Armor_Class}AC{/g}에 +4 방패 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다. [LONGSTART] 이 보너스는 역장 효과이므로 {g|Encyclopedia:TouchAttack}비실체 접촉 공격{/g}에 적용됩니다. 방패에 갑옷 {g|Encyclopedia:Check}판정{/g} {g|Encyclopedia:Penalty}불이익{/g} 또는 {g|Encyclopedia:Spell_Fail_Chance}마법 주문 실패 확률{/g}이 없습니다. [LONGEND]",
-    "b2315457-602d-4227-8cda-62c33b6dc857": "대상의 뼈(또는 외골격)가 갈라져 대상에게 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}피해{/g}(최대 15d6)를 주며, 대상은 변신에 따른 고통과 힘겨움으로 시전자 레벨당 1분 동안 기력이 소진됩니다.\n대상이 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하면, 지치지 않고 절반의 피해를 받고 피로를 얻습니다.",
-    "bd237f8b-9cdf-4d61-ba10-3d57a9aef252": "생명체에게 손을 얹을 때, 당신은 음에너지를 방출하여 {g|Encyclopedia:Dice}4d8{/g} + {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 1(최대 +20) {g|Encyclopedia:Damage}피해{/g}를 줍니다.\n언데드는 음에너지로 움직이므로, 이 {g|Encyclopedia:Spell}주문{/g}은 해당 생명체를 해치지 않고 같은 정도의 피해를 치료합니다.",
-    "cd7cbee9-c66a-44e6-9485-380b7fc7b2f8": "대상 생물의 해골을 조종합니다. 생물의 해골이 살 속에서 덜거덕거리며 끔찍한 피해를 입힙니다. 대상은 {g|Encyclopedia:Dice}3d6{/g} {g|Encyclopedia:Damage}피해{/g}를 받고, 여기에 2 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 1d6 추가 피해를 입습니다."
+    "b2315457-602d-4227-8cda-62c33b6dc857": "대상의 뼈(또는 외골격)가 갈라져 대상에게 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}피해{/g}(최대 15d6)를 주며, 대상은 변신에 따른 고통과 힘겨움으로 시전자 레벨당 1분 동안 기력이 소진됩니다.\n대상이 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하면, 지치지 않고 절반의 피해를 받고 피로를 얻습니다."
 }

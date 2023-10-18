@@ -1,12 +1,12 @@
 {
     "795846e1-9965-4e1e-b31b-fee1317c94ee": "Crane Riposte",
     "0ccdf5e8-f875-45db-81e3-3865a93c6c60": "Crane Riposte",
-    "2ef61b6c-b848-4ab8-819a-0a4b57d6c4b0": "Crane Style",
     "08bc2d1e-6789-471a-b255-8eb6179e6573": "Crane Style",
+    "2ef61b6c-b848-4ab8-819a-0a4b57d6c4b0": "Crane Style",
     "9f1ff178-2e85-4feb-8cb9-7d8731e66fc8": "Crane Style",
     "a4d860e3-fa6f-4b9b-9351-23e5fbae3069": "Crane Style Base Effect",
-    "c60420cb-24c5-4ad0-a481-3164ff49842b": "Crane Wing",
     "8416920c-1679-4c58-b7a3-463509e8142a": "Crane Wing",
+    "c60420cb-24c5-4ad0-a481-3164ff49842b": "Crane Wing",
     "e8fde603-047a-43e7-874f-d88d1714d30d": "When fighting defensively with at least one hand free, you gain a +4 dodge {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:MeleeAttack}melee attacks{/g}. If a melee attack misses you by 4 or less, you lose this dodge bonus until the beginning of your next turn.",
     "14b5c109-1b62-4450-aa0a-4d5422e6e80d": "You take only a –1 {g|Encyclopedia:Penalty}penalty{/g} on {g|Encyclopedia:Attack}attack rolls{/g} for fighting defensively.\nWhenever you lose the dodge {g|Encyclopedia:Bonus}bonus{/g} from Crane Wing because an attack missed you by 4 or less, the enemy provokes an {g|Encyclopedia:Attack_Of_Opportunity}attack of opportunity{/g}.",
     "469ad44c-f0fc-47ca-8464-6abd2a25c8c6": "You take only a –2 {g|Encyclopedia:Penalty}penalty{/g} on {g|Encyclopedia:Attack}attack rolls{/g} for fighting defensively. While using this style and fighting defensively, you gain an additional +1 dodge {g|Encyclopedia:Bonus}bonus{/g} to your {g|Encyclopedia:Armor_Class}Armor Class{/g}."
