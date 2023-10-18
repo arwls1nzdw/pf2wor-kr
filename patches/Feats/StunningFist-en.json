@@ -1,6 +1,6 @@
 {
-    "7b6e5630-1831-4266-8632-8fb1b8e388ef": "Crushing Blow",
     "3a1c5bdb-bd8c-4167-8a4c-4b273962a827": "Crushing Blow",
+    "7b6e5630-1831-4266-8632-8fb1b8e388ef": "Crushing Blow",
     "84c578c3-4ef1-4b05-a65f-2a79c0763878": "Crushing Blow",
     "2890aa54-0075-44bb-a1cf-19b98f165b32": "Stunning Fist",
     "d544f029-394d-4ad4-9f25-2d06cb631dd0": "You can make a Stunning Fist attempt as a {g|Encyclopedia:Full_Round_Action}full-round action{/g}. If successful, instead of stunning your target, you reduce the target's {g|Encyclopedia:Armor_Class}AC{/g} by an amount equal to your {g|Encyclopedia:Wisdom}Wisdom{/g} modifier for 1 minute. This {g|Encyclopedia:Penalty}penalty{/g} does not stack with other penalties applied due to Crushing Blow.",

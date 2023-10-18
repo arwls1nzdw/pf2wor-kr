@@ -206,6 +206,7 @@ addSubdirToFilterList("Equipment")
 addSubdirToFilterList("Items")
 addSubdirToFilterList("Armies")
 addSubdirToFilterList("Units")
+addSubdirToFilterList("Weapons/Items")
 addSubdirToFilterList("Weapons")
 addSubdirToFilterList("World")
 
@@ -233,8 +234,8 @@ data['missing'] = [k for k in en if k not in keySet]
 
 
 def dump_with_sort(fname, data):
-    data = OrderedDict(sorted(data.items(), key=lambda t: (en[t[0]], t[1])))
-    Path(fname).write_text(json.dumps(data, ensure_ascii=False, indent=4), encoding='utf-8')
+    d2 = dict(sorted(data.items(), key=lambda t: (en[t[0]], t[0])))
+    Path(fname).write_text(json.dumps(d2, ensure_ascii=False, indent=4), encoding='utf-8')
 
 
 def isDummy(text: str):
