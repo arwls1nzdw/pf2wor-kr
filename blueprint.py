@@ -1,6 +1,5 @@
 import fnmatch
 import json
-import os
 import zipfile
 from collections import OrderedDict
 from functools import partial
@@ -8,29 +7,24 @@ from pathlib import Path
 
 from functional import seq
 
-zip = zipfile.ZipFile("D:/Games/SteamLibrary/steamapps/common/Pathfinder Second Adventure/blueprints.zip")
 
-en = json.loads(Path('dist/enGB.json').read_text(encoding='utf-8'))['strings']
-kr = json.loads(Path('dist/koKR.json').read_text(encoding='utf-8'))['strings']
+class CachedZipFile(zipfile.ZipFile):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self._cache = {}
 
-path_set = set()
+    def read(self, name, pwd=None):
+        data = super().read(name, pwd)
+        self._cache[name] = data
+        return data
 
-
-def print_path_of_val(dic, val, *prev_paths):
-    for key in dic:
-        v = dic[key]
-        if isinstance(v, dict):
-            print_path_of_val(v, val, *prev_paths, key)
-        elif v == val:
-            print(type(v))
-            p = '.'.join(prev_paths + (key,))
-            if p not in path_set:
-                path_set.add(p)
-                print(p)
+    def read_json(self, name):
+        return json.loads(self.read(name).decode('utf-8'))
 
 
 def find_string_keys(data, *prev_paths):
     global en
+
     for key in data:
         if isinstance(data, dict):
             val = data[key]
@@ -40,24 +34,19 @@ def find_string_keys(data, *prev_paths):
         if not isinstance(val, str) and (hasattr(val, '__iter__') or hasattr(val, '__getitem__')):
             yield from find_string_keys(val, *prev_paths, key)
         elif val in en:
-            # print_path_of_val(data, val, *prev_paths, key)
             yield val
 
 
 def find_string_key_file(string_key):
     global zip
+
     for p in zip.filelist:
         if p.filename.endswith('/'):
             continue
-        data = json.loads(zip.read(p).decode('utf-8'))
+        data = zip.read_json(p)
         strKeys = list(find_string_keys(data))
         if string_key in strKeys:
             yield p
-
-
-keySet = set()
-
-namelist = set(zip.namelist())
 
 
 def filter_by_pattern(*patterns):
@@ -65,11 +54,10 @@ def filter_by_pattern(*patterns):
     print("filter_by_pattern", patterns)
     ret = set()
     for p in patterns:
-        matches = set(fnmatch.filter(namelist, p))
+        matches = set(fnmatch.filter(nameSet, p))
         ret.update(
             seq(matches)
-            .map(lambda p: zip.read(p).decode('utf-8'))
-            .map(lambda d: json.loads(d))
+            .map(lambda p: zip.read_json(p))
             .map(find_string_keys)
             .map(list)
             .flatten()
@@ -77,38 +65,15 @@ def filter_by_pattern(*patterns):
             .to_set()
         )
         keySet.update(ret)
-        namelist.difference_update(matches)
+        nameSet.difference_update(matches)
     return ret
-
-
-def find_file_using_key(key):
-    global zip
-
-    def inner(data):
-        for k in data:
-            val = data[k]
-            if isinstance(val, list):
-                continue
-            if isinstance(val, dict):
-                return inner(val)
-            elif val == key:
-                return True
-        return False
-
-    for p in zip.filelist:
-        if p.filename.endswith('/'):
-            continue
-        data = json.loads(zip.read(p).decode('utf-8'))
-        if inner(data):
-            return p
-    return None
 
 
 def addSubdirToFilterList(rootDir):
     global filters
 
     arr = []
-    for name in namelist:
+    for name in nameSet:
         if not name.startswith(f"{rootDir}/"):
             continue
         if name.count('/') == 2 and name.endswith('/'):
@@ -122,14 +87,34 @@ def addSubdirToFilterList(rootDir):
         filters[name] = partial(filter_by_pattern, *pattern)
 
 
-# 가장 나중에 필터링
+def find_all_shared_keys(*patterns):
+    global keySet
 
-rootdirs = seq(zip.filelist) \
-    .filter(lambda f: f.filename.endswith('/') and f.filename.count('/') == 1) \
-    .map(lambda f: f.filename[:-1]) \
-    .to_list()
+    def inner(data, *prev_paths):
+        for key in data:
+            val = data[key]
+            if isinstance(val, list):
+                continue
+            if isinstance(val, dict):
+                yield from inner(val, *prev_paths, key)
+            elif all(map(lambda p: p in prev_paths, patterns)) and val in en:
+                yield val
 
-# list(find_string_key_file("bde17a0e-91cf-4367-88a0-fbe62311eb13"))
+    pattern = "**/*.jbp"
+    matches = set(fnmatch.filter(nameSet, pattern))
+    ret = seq(matches) \
+        .map(lambda p: zip.read_json(p)) \
+        .map(inner) \
+        .flatten() \
+        .to_set()
+    keySet.update(ret)
+    return ret
+
+
+zip = CachedZipFile("D:/Games/SteamLibrary/steamapps/common/Pathfinder Second Adventure/blueprints.zip")
+
+en = json.loads(Path('dist/enGB.json').read_text(encoding='utf-8'))['strings']
+kr = json.loads(Path('dist/koKR.json').read_text(encoding='utf-8'))['strings']
 
 filters = {
     "Comp/Arueshalae": partial(filter_by_pattern, '**/*Arueshalae*/**/*.jbp', '**/*Arueshalae*/*.jbp'),
@@ -201,16 +186,21 @@ addSubdirToFilterList("Armies")
 addSubdirToFilterList("Units")
 addSubdirToFilterList("Weapons")
 
+rootdirs = seq(zip.filelist) \
+    .filter(lambda f: f.filename.endswith('/') and f.filename.count('/') == 1) \
+    .map(lambda f: f.filename[:-1]) \
+    .to_list()
 filters = {
     **filters,
     **{d: partial(filter_by_pattern, f'{d}/**/*.jbp') for d in rootdirs if d not in filters}
 }
 
-for k in filters.keys():
-    print(k)
+keySet = set()
+nameSet = set(zip.namelist())
 
 data = {}
-keySet = set()
+data['Shared/Duration'] = find_all_shared_keys("LocalizedDuration")
+data['Shared/SavingThrow'] = find_all_shared_keys("LocalizedSavingThrow")
 for key in filters:
     data[key] = filters[key]()
 data['missing'] = [k for k in en if k not in keySet]

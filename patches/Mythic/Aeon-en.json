@@ -1,6 +1,4 @@
 {
-    "00b2e4c2-aafe-487b-b890-d57473373da7": "1 minute/level",
-    "6250ccf0-1ed0-460f-8ce7-094c2da7e198": "1 round/level",
     "d74f4d62-693b-405a-af5f-5acf42c3e510": "A fight over a woman has ended in death. This is the banal story that is on the lips of every soldier in Drezen. Only one voice stands out from the rest — the voice of the accused. Private Gorvo is not asking for forgiveness, but for a fair investigation.",
     "6984edf4-0925-4e26-aa3a-3441dc0ccbb1": "A judge must be impartial and dispassionate, but how can a person attain such cold detachment? The Commander's soul is ravaged by emotion. Only by ridding {mf|himself|herself} of such passion can {mf|he|she} take {mf|his|her} place among the aeons.",
     "aa643c59-4c36-49b1-bbe0-107850151f5f": "A new distortion has opened before the aeon's eyes. It is in the square in Kenabres and it leads to the past, where the silver dragon Terendelev perished.",
@@ -137,7 +135,6 @@
     "693167a5-f427-4bfa-885c-f8a48fee87e8": "Private Gorvo vs. The Army of Drezen",
     "75568ea1-dff1-4859-9621-f2aa330b3c3f": "Purge Drezen of its criminals",
     "6b6a64c3-2d16-45f3-bcd3-2723e118b6c4": "Ramley is as slippery as a snake. The only way to provide irrefutable evidence of his guilt is to find his cache of items — mostly likely it will be among the ruins of a village not far from Drezen.",
-    "d58f2d26-2317-4023-921a-76d0c1590bcf": "Reflex partial",
     "14bd511f-0fd9-4b32-af75-6d753aed656a": "Relativity",
     "0e364edf-1124-40c1-ab2a-f866eb052c8d": "Solve the murder of the Galtan",
     "71eb5731-a38d-4d0a-baeb-68810178f238": "Sometimes people create laws that turn the world upside down, declaring that black is white, and white is black, just to preserve a fragile balance. It's hardly surprising that this may confuse people who are used to believing the evidence of their eyes.",
@@ -204,7 +201,6 @@
     "c64f2845-0b3e-4372-86d5-69463dc03773": "Whenever an ally makes an {g|Encyclopedia:Attack}attack roll{/g}, {g|Encyclopedia:Skills}skill{/g} {g|Encyclopedia:Check}check{/g}, or a {g|Encyclopedia:Saving_Throw}saving throw{/g}, and gets a result equal to or less than (1 + half your mythic rank), this result instead becomes (2 + half your mythic rank). Whenever an enemy who had failed their saving throw makes an attack roll, skill check, or a saving throw, and gets a result higher than (21 — half your mythic rank), this result instead becomes (20 — half your mythic rank).\nThis ability has a lower saving throw {g|Encyclopedia:DC}DC{/g} than your other gazes, equal to (15 + your mythic rank).\nOnce activated, this ability lasts until the combat ends, at which point all of the {g|Encyclopedia:Bonus}bonuses{/g} immediately disappear. Enemies can try to make a Will saving throw to resist this effect, receiving a -2 {g|Encyclopedia:Penalty}penalty{/g} on the throw if they have the Chaotic {g|Encyclopedia:Alignment}alignment{/g}.\nThis ability can be used (1 + your mythic rank) times per day.",
     "91e503c1-3f05-4831-bbea-c6531ac8a7b9": "While the war is raging elsewhere, peaceful life still takes its course. Some start a family and build a house, because they want to return to the values of hearth and home. Life is flourishing on Golarion, and it seems unstoppable. A new future is growing from amidst the bones of those who have perished in the crusades, and whoever takes up the sword must ask themselves one question: do I want the next generation to march over my bones?",
     "96871005-57c8-48e0-b570-d03b993638a9": "Who is the Commander judging this time? The deserter Orvenn Dalmora, or a Sarkorian named Ravon, who took armor from a dead crusader? The fate of a man, and his family, rests on the answer to this question.",
-    "7ac9f1bb-ab14-4d64-8543-4c97a64a71bd": "Will negates",
     "2665c626-639f-4f3e-a326-8bbf613de363": "With the perfect prediction, a creature can foresee an attack before it happens. This effect grants a +2 insight {g|Encyclopedia:Bonus}bonus{/g} to the creature's armor class. This bonus increases by 1 for every six {g|Encyclopedia:Caster_Level}caster levels{/g}.",
     "7a0e457e-cdf5-4dda-a4c5-318298a5f2a1": "Xarra, a cold-blooded mother. What secrets is her child hiding?",
     "7d926af3-684b-44ed-a37e-38b86cb55b7d": "You clear an ally's mind from corrupting thoughts. You dispel rage, fear, emotion, confusion and morale effects, and give the target immunity to fear and emotion effects for 1 {g|Encyclopedia:Combat_Round}round{/g} per mythic rank.",

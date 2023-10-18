@@ -1,7 +1,4 @@
 {
-    "d763c71a-4ad6-456f-8e62-62e57e59b66b": "1회 이상 라운드",
-    "2479710f-703c-43b7-a8f5-644f4c6a883c": "1라운드(기절 상태)",
-    "4c969acc-ae5f-4efd-bad2-a8bb90ec9713": "2라운드",
     "14db018f-37c0-494c-a085-97cfb363e04d": "추방 {g|Encyclopedia:Spell}주문{/g}은 해고 주문의 더 강력한 버전입니다. 이 주문은 이차원 생물을 자신의 홈 플레인에서 강제로 내보낼 수 있습니다. 30피트 반경에 있는 생물은 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 {g|Encyclopedia:Hit_Dice}HD{/g} 2개까지 추방할 수 있으며, 폭발의 발원 지점에 가장 가까운 생물이 먼저 영향을 받습니다.\n해고: 이 주문은 {g|Encyclopedia:Saving_Throw}의지 굴림{/g}에 실패할 경우, 차원을 벗어난 생물을 원래의 차원으로 되돌려보냅니다. 주문이 성공하면, 생물은 즉시 사라집니다.",
     "df954758-6bfb-43c0-b480-399fde452b1d": "당신의 공간에서 산이 사방으로 분출되어 해당 지역의 생물과 주인 없는 물체에 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}피해{/g}를 입힙니다.(최대 20d6). 이후 2번의 {g|Encyclopedia:Combat_Round}라운드{/g}마다, 첫 폭발에 대한 {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 실패한 생물과 물체는 산이 해제되지 않는 한 시전자 레벨 2당 1d6 {g|Encyclopedia:Energy_Damage}산성 피해{/g}를 추가로 받습니다.(최대 10d6).",
     "d123e2d0-d310-4b7b-b578-0a01a3a0ece1": "추방",

@@ -1,6 +1,4 @@
 {
-    "cca23e25-a5b6-4138-b2bf-0b6387738a22": "1 hour/level",
-    "d7cb2411-bd6e-4b59-a72d-43ea018de978": "1 round/level, can save each round",
     "724701ea-7310-4d9c-a6be-d8715280ef8f": "A Conversation with the Pillar of Skulls",
     "32191d4b-5621-43c7-8c27-2f8d2bb18020": "A paralyzed character is frozen in place and unable to move or act. A paralyzed character has effective {g|Encyclopedia:Dexterity}Dexterity{/g} and {g|Encyclopedia:Strength}Strength{/g} scores of 0 and is {g|Encyclopedia:Helpless}helpless{/g}.",
     "a44ff5e1-874b-410c-9a24-e094cb820a6c": "Absolute Death",
@@ -131,8 +129,8 @@
     "06ee4275-bbc8-4908-8679-0fa1b6f676bf": "Summon the spirit of Alinythia",
     "6ffcc010-f53c-42db-b27e-c7e674172f08": "Tainted Sneak Attack",
     "df18d795-7b45-407f-958d-b8e8a3bc493e": "Talk to Zacharius",
-    "4b695c68-d49d-40bd-9597-b2cc1c3d030e": "Talk to Zacharius",
     "9670a2d1-1f0a-4464-80f9-c501b3c32905": "Talk to Zacharius",
+    "4b695c68-d49d-40bd-9597-b2cc1c3d030e": "Talk to Zacharius",
     "f505125d-40cc-4539-90e0-6e2e8b6117dd": "Target's bones explode in the body. If the target fails a {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g}, it receives 6 {g|Encyclopedia:Damage}damage{/g} per {g|Encyclopedia:Caster_Level}caster level{/g}, and all creatures in a 20-foot radius receive {g|Encyclopedia:Dice}1d6{/g} damage per caster level (Reflex save halves). If the Fortitude saving throw is successful, the target receives 1d6 damage per caster level, and all creatures in a 20-foot radius receive 1 damage per caster level instead (Reflex save halves).",
     "a5c23f13-5373-4748-84e8-2fe2f9bb4bd4": "Teamwork Feat",
     "0b8cded9-7c03-4069-8a67-63694c6b6356": "The Commander discovered a strange crystal vessel that provoked a profound sense of recognition in {mf|him|her}. This object is likely the source of the mystical link that Zacharius discovered. The next logical step is to give the crystal to Zacharius to study.",
