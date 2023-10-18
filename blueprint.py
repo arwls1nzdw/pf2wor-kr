@@ -207,7 +207,7 @@ addSubdirToFilterList("Items")
 addSubdirToFilterList("Armies")
 addSubdirToFilterList("Units")
 addSubdirToFilterList("Weapons")
-addSubdirToFilterList("World/Encounters")
+addSubdirToFilterList("World")
 
 rootdirs = seq(zip.filelist) \
     .filter(lambda f: f.filename.endswith('/') and f.filename.count('/') == 1) \
