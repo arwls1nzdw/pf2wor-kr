@@ -48,7 +48,7 @@ def get_data_bp():
 
 def get_data_kr_patches():
     kr = {}
-    for f in glob('patches/*-kr.json'):
+    for f in glob('patches/**/*-kr.json', recursive=True):
         if Path(f).stem == 'Owlcats-kr':
             continue
         kr.update(utils.read_json(f))
