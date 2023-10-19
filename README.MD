@@ -1,6 +1,8 @@
 [유니티 번역기 설치해야함](https://gall.dcinside.com/mgallery/board/view/?id=pillarsofeternity&no=33734)
 
-번역기 config.ini에 아래 설정해야 나레이터 텍스트 구분 가능함
+assets 폴더에 작성자가 사용중인 설정 파일 있음<br>
+번역기 config.ini에 아래 설정해야 나레이터 텍스트 구분 가능함.<br>
+<b><span style="color:red">arialuni_sdf 폰트 설정안하면 글자 안나옴</span></b>
 ```
 [TextFrameworks]
 EnableIMGUI=False
@@ -9,6 +11,10 @@ EnableNGUI=False
 EnableTextMeshPro=False
 EnableTextMesh=False
 EnableFairyGUI=False
+
+[Behaviour]
+OverrideFontTextMeshPro=arialuni_sdf_u2019
+FallbackFontTextMeshPro=arialuni_sdf_u2018
 ```
 
 문자열 파일 위치
