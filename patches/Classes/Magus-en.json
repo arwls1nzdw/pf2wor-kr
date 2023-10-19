@@ -126,7 +126,6 @@
     "087b4c66-3555-45d9-ae04-80283f927d30": "Fighter Training",
     "28961dd2-ac36-4eb3-ad50-fcad59bbc1e8": "Fighter Training",
     "501c0446-7346-425a-beb4-20e720de7f80": "Flaming",
-    "be1261fb-36bd-4309-a190-a7fd2cd9d99f": "Freedom of Movement",
     "f04d2b09-5d70-46b7-bfc5-e4612af731c4": "Frost",
     "c29c2740-bcfb-4cb1-b2a8-b1075b3444f6": "Ghost Blade",
     "37801d29-5f95-4002-bd7f-4b5591bad00e": "Ghost Touch",
@@ -219,7 +218,6 @@
     "a7afcb83-2851-4f22-87bc-17c354a7655b": "This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:CMD}CMD{/g} against grapple, trip and overrun {g|Encyclopedia:Combat_Maneuvers}combat maneuvers{/g}.",
     "af963b8a-d3f2-4016-ba76-2e5b30112b2a": "This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:CMD}CMD{/g} against grapple, trip and overrun {g|Encyclopedia:Combat_Maneuvers}combat maneuvers{/g}.",
     "dc793be4-81c4-4722-9f05-f5917fdf3d45": "This suit of armor grants the wearer {g|Encyclopedia:Damage_Reduction}DR{/g} 5/magic.",
-    "a5c4a34e-3454-493e-800b-62c6f8e2bfd2": "This {g|Encyclopedia:Spell}spell{/g} enables you or a creature you {g|Encyclopedia:TouchAttack}touch{/g} to move and {g|Encyclopedia:Attack}attack{/g} normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, solid fog, slow, and web. All {g|Encyclopedia:Combat_Maneuvers}combat maneuver{/g} {g|Encyclopedia:Check}checks{/g} made to grapple the target automatically fail.",
     "c65bbd24-6f51-43bc-9e90-5de191caf8ec": "True Magus",
     "023bb14b-23c8-4c8e-9554-62b2b6c7f1f7": "True Magus — Attack Bonus",
     "2dacdfcc-0771-4cb8-b0ae-280f57515083": "True Magus — Attack Bonus",
@@ -244,6 +242,5 @@
     "32bd5dd2-3309-49bb-af27-2a19f4ed8dfa": "Whenever the magus uses a wand, he calculates the {g|Encyclopedia:DC}DC{/g} for any {g|Encyclopedia:Spell}spell{/g} it contains using his {g|Encyclopedia:Intelligence}Intelligence{/g} modifier, instead of the minimum modifier needed to cast a spell of that level.",
     "ed441369-3e81-4d0a-893f-1a81ca3bea3e": "Whenever the magus uses {g|Encyclopedia:Spell}spell{/g} combat, he can choose to grant himself a +2 circumstance {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g}.",
     "86d31c57-0b30-4dba-9039-4aa5f1e84023": "Whenever the magus uses {g|Encyclopedia:Spell}spell{/g} combat, he can choose to grant himself a +2 {g|Encyclopedia:Bonus}bonus{/g} on any {g|Encyclopedia:Check}checks{/g} made to overcome {g|Encyclopedia:Spell_Resistance}spell resistance{/g}.",
-    "4c81c52d-d189-42bd-89f2-b6bfa85053fd": "Whenever the magus uses {g|Encyclopedia:Spell}spell{/g} combat, he can choose to increase the {g|Encyclopedia:DC}DC{/g} to resist his spells by 2.",
-    "68b7bd11-5337-4e26-becb-fe1add966db6": "You instantly transfer yourself from your current location to any other spot within range. You may also bring with you all friendly creatures within a 10-foot radius around you."
+    "4c81c52d-d189-42bd-89f2-b6bfa85053fd": "Whenever the magus uses {g|Encyclopedia:Spell}spell{/g} combat, he can choose to increase the {g|Encyclopedia:DC}DC{/g} to resist his spells by 2."
 }

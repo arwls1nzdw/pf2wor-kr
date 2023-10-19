@@ -199,8 +199,8 @@ filters = {
     "Crusade/Quests": partial(filter_by_pattern, 'World/Quests/Crusade/**/*.jbp'),
 }
 
-addSubdirToFilterList("Classes")
 addSubdirToFilterList("Spells")
+addSubdirToFilterList("Classes")
 addSubdirToFilterList("Feats")
 addSubdirToFilterList("Equipment")
 addSubdirToFilterList("Items")

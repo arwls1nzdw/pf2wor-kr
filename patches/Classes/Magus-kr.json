@@ -126,7 +126,6 @@
     "087b4c66-3555-45d9-ae04-80283f927d30": "파이터 훈련",
     "28961dd2-ac36-4eb3-ad50-fcad59bbc1e8": "파이터 훈련",
     "501c0446-7346-425a-beb4-20e720de7f80": "불타는",
-    "be1261fb-36bd-4309-a190-a7fd2cd9d99f": "이동의 자유",
     "f04d2b09-5d70-46b7-bfc5-e4612af731c4": "서리",
     "c29c2740-bcfb-4cb1-b2a8-b1075b3444f6": "유령 칼날",
     "37801d29-5f95-4002-bd7f-4b5591bad00e": "유령 접촉",
@@ -219,7 +218,6 @@
     "a7afcb83-2851-4f22-87bc-17c354a7655b": "이 갑옷은 착용자를 바닥에 쓰러뜨리려고 위협하는 모든 것을 밀어냅니다. 착용자는 붙잡기, 넘어뜨리기, 돌파 {g|Encyclopedia:Combat_Maneuvers}전법{/g}에 대해 {g|Encyclopedia:CMD}CMD{/g}에 +4 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "af963b8a-d3f2-4016-ba76-2e5b30112b2a": "이 갑옷은 착용자를 바닥에 쓰러뜨리려고 위협하는 모든 것을 밀어냅니다. 착용자는 붙잡기, 넘어뜨리기, 돌파 {g|Encyclopedia:Combat_Maneuvers}전법{/g}에 대해 {g|Encyclopedia:CMD}CMD{/g}에 +4 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
     "dc793be4-81c4-4722-9f05-f5917fdf3d45": "이 갑옷은 착용자에게 {g|Encyclopedia:Damage_Reduction}DR{/g} 5/마법을 부여합니다.",
-    "a5c4a34e-3454-493e-800b-62c6f8e2bfd2": "이 {g|Encyclopedia:Spell}주문{/g}은 마비, 고체안개, 둔화, 거미줄 등 일반적으로 이동을 방해하는 마법의 영향을 받는 상태에서도 주문 지속시간 동안 자신 또는 자신이 {g|Encyclopedia:TouchAttack}접촉{/g}한 생물이 정상적으로 이동하고 {g|Encyclopedia:Attack}공격{/g}할 수 있게 해줍니다. 모든 붙잡기 {g|Encyclopedia:Combat_Maneuvers}전법{/g} {g|Encyclopedia:Check}판정{/g}은 자동으로 실패합니다.",
     "c65bbd24-6f51-43bc-9e90-5de191caf8ec": "진정한 메이거스",
     "023bb14b-23c8-4c8e-9554-62b2b6c7f1f7": "진정한 메이거스 - 명중 굴림 보너스",
     "2dacdfcc-0771-4cb8-b0ae-280f57515083": "진정한 메이거스 - 명중 굴림 보너스",
@@ -244,6 +242,5 @@
     "32bd5dd2-3309-49bb-af27-2a19f4ed8dfa": "메이거스가 완드를 사용할 때, 해당 레벨의 주문을 시전하는데 필요한 최소 수식 대신 {g|Encyclopedia:Intelligence}지능{/g} 수정치를 사용해 지팡이에 포함된 {g|Encyclopedia:Spell}주문{/g}의 {g|encyclopedia:DC}DC{/g}를 계산합니다.",
     "ed441369-3e81-4d0a-893f-1a81ca3bea3e": "메이거스가 {g|Encyclopedia:Spell}주문{/g}을 사용해 전투할 때, 모든 {g|Encyclopedia:Attack}공격{/g}에서 +2 상황 {g|Encyclopedia:Bonus}보너스{/g}를 얻을 수 있습니다.",
     "86d31c57-0b30-4dba-9039-4aa5f1e84023": "메이거스가 {g|Encyclopedia:Spell}주문{/g}을 사용해 전투할 때, {g|Encyclopedia:Spell_Resistance}주문 저항{/g} 극복 {g|Encyclopedia:Check}판정{/g}시 +2 {g|Encyclopedia:Bonus}보너스{/g}를 얻을 수 있습니다.",
-    "4c81c52d-d189-42bd-89f2-b6bfa85053fd": "메이거스가 {g|Encyclopedia:Spell}주문{/g}을 사용해 전투할 때, 주문 {g|Encyclopedia:DC}DC{/g}를 2 증가시킬 수 있습니다/",
-    "68b7bd11-5337-4e26-becb-fe1add966db6": "현재 위치에서 범위 내의 다른 장소로 즉시 이동합니다. 또한 주변 10피트 반경 내에 있는 모든 아군 생물을 데려올 수 있습니다."
+    "4c81c52d-d189-42bd-89f2-b6bfa85053fd": "메이거스가 {g|Encyclopedia:Spell}주문{/g}을 사용해 전투할 때, 주문 {g|Encyclopedia:DC}DC{/g}를 2 증가시킬 수 있습니다/"
 }
