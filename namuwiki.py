@@ -1,16 +1,18 @@
 import json
 
-from data import get_data_kr, get_data_bp
+from dataloader import get_data_kr, get_data_bp
 
 bp = get_data_bp()
-bpFilenameMap = dict(map(lambda p: (p.filename.split('/')[-1], p), bp.filelist))
+bpFilenameMap = dict(
+    map(lambda p: (p.filename.split('/')[-1], p), bp.filelist))
 
 
 def http_get(url):
     from urllib import request
     from bs4 import BeautifulSoup
 
-    headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"}
+    headers = {
+        'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"}
     req = request.Request(url, headers=headers)
     res = request.urlopen(req)
     html = res.read().decode('utf-8')
@@ -68,7 +70,8 @@ def get_jbp_descKey(name, suffixes, postfixes):
 
 
 def scrap_spell():
-    soup = http_get("https://namu.wiki/w/Pathfinder:%20Wrath%20of%20the%20Righteous/%EC%A0%84%ED%88%AC/%EC%A3%BC%EB%AC%B8")
+    soup = http_get(
+        "https://namu.wiki/w/Pathfinder:%20Wrath%20of%20the%20Righteous/%EC%A0%84%ED%88%AC/%EC%A3%BC%EB%AC%B8")
     trlist = soup.find_all('tr')
     tdlist = list(map(lambda tr: tr.find_all('td'), trlist))
 
@@ -94,7 +97,8 @@ def scrap_spell():
 
 
 def scrap_feats():
-    soup = http_get("https://namu.wiki/w/Pathfinder:%20Wrath%20of%20the%20Righteous/%EC%A0%84%ED%88%AC/%ED%94%BC%ED%8A%B8")
+    soup = http_get(
+        "https://namu.wiki/w/Pathfinder:%20Wrath%20of%20the%20Righteous/%EC%A0%84%ED%88%AC/%ED%94%BC%ED%8A%B8")
     trlist = soup.find_all('tr')
     tdlist = list(map(lambda tr: tr.find_all('td'), trlist))
 
