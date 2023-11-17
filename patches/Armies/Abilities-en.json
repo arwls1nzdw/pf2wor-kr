@@ -416,6 +416,7 @@
     "38a68e13-7074-4a24-a472-908a28452aef": "The unit's attacks deal additional (Power×d6×unit number) electricity damage.",
     "eec2355b-6361-43ed-ab36-9ac41aba04fc": "The unit's attacks deal damage to all {g|AdjacentUnits}[adjacent]{/g} enemy units.",
     "329922e0-213d-47c2-9801-ee072b1215f4": "The unit's attacks dispel all positive effects from the target.",
+    "0755f46f-87b0-468f-bedd-38c3e5d911e4": "The unit's attacks force the target to make a Fortitude saving throw. If it fails the saving throw, а number of creatures die equal to the number of the attacking unit. This is a death effect.",
     "7c7adf98-f895-40bd-8af6-1df9caf9d330": "The unit's attacks ignore up to 3 points of DR.",
     "3fabe083-3029-4bc1-bb5b-0baadf111658": "The unit's attacks reduce the target's Intelligence and Charisma to 1, deny the ability to cast spells, and apply a -4 penalty to saving throws. This is a mind-affecting effect.",
     "d416778c-33a2-4b34-998e-10e93f81acf8": "The unit's attacks reduce the target's speed to 0 for 2 rounds.",

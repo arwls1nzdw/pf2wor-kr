@@ -72,7 +72,8 @@ def addSubdirToFilterList(rootDir: str):
         if name.count('/') == rootDir.count('/') + 1 and name.endswith('/'):
             arr.append((name[:-1], [f'{name}**/*.jbp', f"{name}*.jbp"]))
         elif name.count('/') == rootDir.count("/") and name.endswith('.jbp'):
-            arr.append((f"{rootDir}/_Root", [f"{rootDir}/*.jbp", f"{rootDir}/**/*.jbp"]))
+            arr.append(
+                (f"{rootDir}/_Root", [f"{rootDir}/*.jbp", f"{rootDir}/**/*.jbp"]))
 
     arr.sort(key=lambda t: "z" if t[0][0] == "_" else t[0])
     for name, pattern in arr:
@@ -226,8 +227,10 @@ data['Shared/Location'] = [
     *일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/Location*.jbp", "Name"),
     *일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/*.jbp", "AreaName")
 ]
-data['Shared/Duration'] = 일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/*.jbp", "LocalizedDuration")
-data['Shared/SavingThrow'] = 일치하는jbp파일에서JsonPath가포함된StringKey찾기("**/*.jbp", "LocalizedSavingThrow")
+data['Shared/Duration'] = 일치하는jbp파일에서JsonPath가포함된StringKey찾기(
+    "**/*.jbp", "LocalizedDuration")
+data['Shared/SavingThrow'] = 일치하는jbp파일에서JsonPath가포함된StringKey찾기(
+    "**/*.jbp", "LocalizedSavingThrow")
 for key in filters:
     data[key] = filters[key]()
 data['missing'] = [k for k in en if k not in keySet]
@@ -235,7 +238,8 @@ data['missing'] = [k for k in en if k not in keySet]
 
 def dump_with_sort(fname, data):
     d2 = dict(sorted(data.items(), key=lambda t: (en[t[0]], t[0])))
-    Path(fname).write_text(json.dumps(d2, ensure_ascii=False, indent=4), encoding='utf-8')
+    Path(fname).write_text(json.dumps(
+        d2, ensure_ascii=False, indent=4), encoding='utf-8')
 
 
 def isDummy(text: str):
@@ -245,7 +249,7 @@ def isDummy(text: str):
         return True
     if text.lower().strip().startswith('(draft)'):
         return True
-    if re.search('[а-яА-Я]', text):
+    if '[Драфт]' in text:
         return True
     return False
 
@@ -290,4 +294,5 @@ print("=======summary=======")
 for key in sorted(data.keys(), key=lambda d: len(data[d])):
     if len(data[key]) == 0:
         continue
-    print(f"{key:20s}: {len(data[key]):>6,}({len(data[key]) / len(en) * 100:.2f}%)")
+    print(
+        f"{key:20s}: {len(data[key]):>6,}({len(data[key]) / len(en) * 100:.2f}%)")
