@@ -17,19 +17,19 @@ def erase_tags(text):
 en = dataloader.get_data_en()['strings']
 kr = dataloader.get_data_kr_patches()
 
-token_en = "restoration".lower()
-token_kr = '상태회복'
+token_en = "{g|Spells".lower()
+token_kr = '{g|Spells'.lower()
 
 errors = {}
 for k, v_en in en.items():
     if k not in kr:
         continue
 
-    v_en = erase_tags(v_en.lower())
+    v_en = v_en.lower()
     if token_en not in v_en:
         continue
 
-    v_kr = erase_tags(kr[k].lower())
+    v_kr = kr[k].lower()
     if v_en.count(token_en) > v_kr.count(token_kr):
         errors[k] = {
             'en': en[k],

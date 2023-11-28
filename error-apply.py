@@ -1,3 +1,4 @@
+from glob import glob
 from pathlib import Path
 
 import utils
@@ -13,7 +14,7 @@ if last_modified is None:
 print(f'Using {last_modified} as error data')
 errors_data = utils.read_json(last_modified)
 
-for kr in Path().glob('patches/*-kr.json'):
+for kr in glob('patches/**/*-kr.json', recursive=True):
     kr_data = utils.read_json(kr)
     for key, value in errors_data.items():
         if key in kr_data:
