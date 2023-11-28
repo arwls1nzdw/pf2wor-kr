@@ -74,7 +74,7 @@
     "9a5fc9e5-e414-4b06-ad76-a7d75bb894de": "위해는 대상에게 음에너지를 충전하여 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 10 {g|Encyclopedia:Damage}피해{/g}를 입힙니다.(15레벨에서 최대 150점까지). 생물이 {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 성공하는 경우, 피해는 그 절반만큼 피해를 입힙니다.\n언데드 생물에게 사용하는 경우, 피해는 {g|SpellsHeal}치유{/g}와 같은 효과를 발휘합니다.",
     "71a82dce-0b4a-4a6a-bda6-3198f1d11e02": "치유",
     "8935b98c-860e-438a-b0ca-2da069ceba66": "치유",
-    "482fff6e-067f-47d6-b251-fcd1c9fed9a7": "{g|Encyclopedia:Healing}치유{/g}는 당신이 양에너지를 생물에게 보내 {g|Encyclopedia:Injury_Death}부상{/g}과 고통을 지워버릴 수 있게 해줍니다. 대상에게 영향을 주는 {g|Encyclopedia:AbilityDamage}능력 피해{/g}, {g|SpellsBlindness}실명{/g}, {g|SpellsConfusion}혼란{/g}, 멍, 현기증, 병, 탈진, 피로, 구토, 중독, 병, 기절 상태의 모든 불리한 상태를 즉시 종료합니다. 또한 시전자의 레벨당 {g|Encyclopedia:Damage}피해{/g}의 {g|Encyclopedia:HP}체력 10{/g}을 치유하며, 15레벨에서 최대 150까지 치유할 수 있습니다.\n치유는 음수 레벨을 제거하거나 영구적으로 소모된 {g|Encyclopedia:Ability_Scores}능력 점수{/g} 포인트를 회복하지 않습니다.\n언데드 생물에게 사용하면 치유는 대신 {g|SpellsHarm}위해{/g}처럼 작용합니다.",
+    "482fff6e-067f-47d6-b251-fcd1c9fed9a7": "{g|Encyclopedia:Healing}치유{/g}는 당신이 양에너지를 생물에게 보내 {g|Encyclopedia:Injury_Death}부상{/g}과 고통을 지워버릴 수 있게 해줍니다. 대상에게 영향을 주는 {g|Encyclopedia:AbilityDamage}능력 피해{/g}, {g|SpellsBlindness}실명{/g}, {g|SpellsConfusion}혼란{/g}, 멍, {g|ConditionDazzled}현혹{/g}, 병, 탈진, 피로, 구토, 중독, 병, 기절 상태의 모든 불리한 상태를 즉시 종료합니다. 또한 시전자의 레벨당 {g|Encyclopedia:Damage}피해{/g}의 {g|Encyclopedia:HP}체력 10{/g}을 치유하며, 15레벨에서 최대 150까지 치유할 수 있습니다.\n치유는 음수 레벨을 제거하거나 영구적으로 소모된 {g|Encyclopedia:Ability_Scores}능력 점수{/g} 포인트를 회복하지 않습니다.\n언데드 생물에게 사용하면 치유는 대신 {g|SpellsHarm}위해{/g}처럼 작용합니다.",
     "8784cc1c-878f-4d37-9224-5e7fce2b950d": "지옥불 광선",
     "928b928f-c5d9-455f-b04c-7fe05d323d03": "상급 영웅심",
     "d0e45854-7a53-4992-b56e-ab9c07418582": "거룩한 말씀",
