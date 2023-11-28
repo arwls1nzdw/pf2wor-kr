@@ -121,7 +121,7 @@
     "16dbb8bc-bba0-4473-9d28-d1a3eddfbb89": "이 {g|Encyclopedia:Spell}주문{/g}은 이차원 살인 조랑말을 1분 동안 자신의 곁으로 소환합니다.",
     "72b527ce-792b-4405-80d0-bd842dcb0a3b": "이 {g|Encyclopedia:Spell}주문{/g}은 이차원 살인 조랑말을 소환합니다.",
     "7c543e5f-8bde-45e1-9d1b-bf09cc8269a1": "이 {g|Encyclopedia:Spell}주문{/g}은 자연 진드기 한 마리를 자신 편으로 소환합니다. 소환된 아군은 플레이어가 지정한 위치에 나타나 {g|Encyclopedia:Initiative}우선권{/g} {g|Encyclopedia:Check}판정{/g} 결과에 따라 행동합니다. 이 소환수는 상대를 최대한 {g|Encyclopedia:Attack}공격{/g}합니다.",
-    "7df03566-25c8-4f16-90ac-30037b1eea2f": "이 {g|Encyclopedia:Spell}주문{/g}은 당신의 손을 살아있는 돌로 변화시킵니다. 이 주문이 적용되는 동안, {g|Encyclopedia:UnarmedAttack}비무장{/g} 공격은 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}을 유발하지 않으며, {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage_Type}부수기 피해{/g}를 줍니다.(소형인 경우 1d4).",
+    "7df03566-25c8-4f16-90ac-30037b1eea2f": "이 {g|Encyclopedia:Spell}주문{/g}은 당신의 손을 살아있는 돌로 변화시킵니다. 이 주문이 적용되는 동안, {g|Encyclopedia:UnarmedAttack}비무장{/g} 공격은 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}을 유발하지 않으며, {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage_Type}타격 피해{/g}를 줍니다.(소형인 경우 1d4).",
     "40c1f42c-fab6-46a3-8837-6ad3edb9c8d2": "서투름의 손길",
     "a16518d8-7733-4a22-8631-b52e50867c14": "서투름의 손길",
     "8f400fb1-0f8e-4a0c-bc2c-ea585e82d2e8": "진실의 일격",
