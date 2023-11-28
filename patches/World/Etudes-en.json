@@ -27,6 +27,7 @@
     "c9679d4d-4ec2-42cf-8835-9e6a015b8df3": "\"Fight! Your screams ignite my passion!\"",
     "7b0f52f9-e662-4018-a6d9-733ccdd032d5": "\"For the Queen!\"",
     "88d93f4f-a72a-4097-86e4-cc4cab06af82": "\"Freedom at last! Are you here to kill the demons? We can help! We know all the tunnels around here! We'll make those monsters pay!\"",
+    "8356563a-1dbc-4708-9183-e5756fb1f0c2": "\"Get these mortals! They will replenish the Master's undead host!\"",
     "ca6b2e97-2c04-4091-acbf-d4ae54ac2b20": "\"Gods bless you, Commander!\"",
     "3e95d336-3923-45b8-97ac-b0d6e3b3886f": "\"Ha ha ha! You should see your face now!\"",
     "9eec01d0-0393-4129-b339-37de9beaca68": "\"Ha! Let's sacrifice some crusaders to Baphomet one last time! It will guarantee us smooth passage to his realm!\"",
@@ -116,7 +117,7 @@
     "d8399c5d-d37c-4e1e-896a-be012a644976": "Kermel",
     "f6d8e7c9-6976-4c4d-a994-0da1c90fcc4f": "Lady in Distress",
     "3a31ca49-a274-482c-9ade-8b2e49cb03d8": "Lellan",
-    "dd15ab47-8b38-4273-9bd7-22e35a4b3e5c": "One of your allies is now in disease stage 3. If you don't help them, they will die!\n{br}Disease stage 3 is a critical condition that requires urgent healing. A character in this stage is too weak to stand for long and they will try to lie down whenever they can.\n{br}A disease can be cured completely with a scroll of remove disease, alleviated to stage 1 with a potion of restoration, or alleviated by one stage with a potion of lesser restoration.\n{br}You can check if a character is feeling well by talking to them. Keep track of your allies' condition, or else disease might claim them when you least expect it.",
+    "dd15ab47-8b38-4273-9bd7-22e35a4b3e5c": "One of your allies is now in disease stage 3. If you don't help them, they will die!\n{br}Disease stage 3 is a critical condition that requires urgent healing. A character in this stage is too weak to stand for long and they will try to lie down whenever they can.\n{br}A disease can be cured completely with a scroll of {g|SpellsRemoveDisease}remove disease{/g}, alleviated to stage 1 with a potion of {g|SpellsRestoration}restoration{/g}, or alleviated by one stage with a potion of {g|SpellsRestorationLesser}lesser restoration{/g}.\n{br}You can check if a character is feeling well by talking to them. Keep track of your allies' condition, or else disease might claim them when you least expect it.",
     "97597887-3b94-4889-a20c-6c4d0a2f3ea9": "Ravon",
     "15d05bf5-e534-42ee-973b-8d2afc707716": "Rescued Prisoner",
     "c0d8b9e8-baad-4290-b283-96499ae92343": "Rescued Prisoner",
@@ -134,9 +135,5 @@
     "99c0c889-b708-46af-a2f8-a3e0bd8a9e52": "Valeniya",
     "9071ed36-63f8-4374-85a7-5f7dd9828343": "Vamona",
     "94d423f9-f4e7-4be6-aba0-8248acd64790": "Viram",
-    "62139ac8-155f-4615-9f3a-9bb0997a09af": "You found a banned book. Experience points gained: <b>{count}</b>.",
-    "1a256185-c1dd-4684-91fe-caf25ab82f00": "You found the marauders' treasure. Experience points gained: <b>{count}</b>.",
-    "70a52667-f733-49fd-afb5-f25fe7c6225a": "You need to protect yourself from the harmful psionic field enveloping this door before you open it.",
-    "e1f6ed57-c065-45bc-858c-e66c7593bf3f": "You opened the gates. Experience points gained: <b>{count}</b>.",
-    "fec02780-c773-41af-9f61-51cb6dc8ca55": "You opened the gates. Experience points gained: <b>{count}</b>."
+    "70a52667-f733-49fd-afb5-f25fe7c6225a": "You need to protect yourself from the harmful psionic field enveloping this door before you open it."
 }

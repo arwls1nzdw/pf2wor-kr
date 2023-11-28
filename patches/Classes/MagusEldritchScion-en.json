@@ -24,7 +24,7 @@
     "3f9b589d-9fa9-466c-82b7-fd309e267e86": "Prescient Attack",
     "deed946e-8f8c-48c4-9224-de255acf125a": "Prescient Attack",
     "5a4e5c12-7bdd-4370-b715-3bbb83377414": "The magus can expend 1 point from his arcane pool as a {g|Encyclopedia:Swift_Action}swift action{/g} to grant himself an insight {g|Encyclopedia:Bonus}bonus{/g} equal to his {g|Encyclopedia:Charisma}Charisma{/g} bonus on all {g|Encyclopedia:Attack}attack rolls{/g} until the end of his turn.",
-    "6b253e52-1a75-4b9e-8a0f-f032813416d6": "The magus can expend 1 point from his arcane pool as a {g|Encyclopedia:Swift_Action}swift action{/g} to move more quickly. This functions as haste, but only targets the magus and lasts for a number of {g|Encyclopedia:Combat_Round}rounds{/g} equal to the magus's {g|Encyclopedia:Charisma}Charisma{/g} bonus.",
+    "6b253e52-1a75-4b9e-8a0f-f032813416d6": "The magus can expend 1 point from his arcane pool as a {g|Encyclopedia:Swift_Action}swift action{/g} to move more quickly. This functions as {g|SpellsHaste}haste{/g}, but only targets the magus and lasts for a number of {g|Encyclopedia:Combat_Round}rounds{/g} equal to the magus's {g|Encyclopedia:Charisma}Charisma{/g} {g|Encyclopedia:Bonus}bonus{/g}.",
     "2c45afee-5869-488a-adb2-81abc0a0af5f": "Wand Mastery",
     "85c202aa-41ae-4231-9f18-c18b9066647c": "Wand Wielder",
     "f89dd4d4-4701-4701-91d9-3cd8a461399d": "Whenever the magus enchants his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to increase the duration of the enchantment to 1 minute per magus level.",

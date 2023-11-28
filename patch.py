@@ -46,9 +46,6 @@ for k, v in data_en['strings'].items():
         matches = re.findall(r, km_kr[k])
         for m in matches:
             km_kr[k] = km_kr[k].replace(f"<link=\"{m}\">", f"{{g|{m}}}")
-        if "<link=" in km_kr[k]:
-            print(k, km_kr[k])
-            raise Exception("link not replaced")
         keys[k] = km_kr[k]
         data_km['strings'][k] = km_kr[k]
         data_namu['strings'][k] = km_kr[k]

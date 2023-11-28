@@ -188,6 +188,7 @@
     "1ab296c8-92b0-496f-b50c-bf9d85eaff96": "서리의 통기 +2",
     "69510662-15ea-4de2-b82d-d9bacfd36d28": "서리의 쌍날검 +2",
     "023a47a7-fee0-4d6e-ab0e-9730aa640d96": "서리의 전쟁망치 +2",
+    "ca7fd9d1-9a8d-4f17-8d45-ca1e1fff6815": "서리바람",
     "98febe5d-9f0c-4af5-8766-7b957fb81041": "거인 파멸의 대형 철퇴 +2",
     "1f469ff8-c387-44f1-9c45-eedb0d892039": "신성한 팔카타 +1",
     "b30adfdd-a1b5-463a-8b40-e5b8660dcdc3": "신성한 경쇠뇌 +1",
@@ -276,5 +277,6 @@
     "fcae1372-93eb-4bfd-92c4-7a9df150ddc7": "부정한 장검 +1",
     "453ad204-4cfe-4553-ae88-63842dd94c31": "해충 억압 엘프 곡도+2",
     "19d404aa-e734-4e46-875b-2aa17a5311da": "사악한 손도끼 +2",
-    "34239bbd-b730-4135-82b3-6440b7358a6f": "사악한 장검 +2"
+    "34239bbd-b730-4135-82b3-6440b7358a6f": "사악한 장검 +2",
+    "14de7206-d3c6-43d8-9466-6e1f6503ae11": "이 +2 서리광 석궁을 사용하는 자가 적에게 {g|Encyclopedia:Critical}치명타{/g}를 적중시킬 때마다, 그 적은 감속 {g|Encyclopedia:Spell}주문{/g}에 따라 {g|Encyclopedia:Dice}1d6{/g}+1 {g|Encyclopedia:Combat_Round}라운드{/g} 동안 둔화됩니다. {g|Encyclopedia:Saving_Throw}인내 굴림{/g}({g|Encyclopedia:DC}DC{/g} 19)에 성공하면 지속시간이 1 라운드로 감소합니다."
 }

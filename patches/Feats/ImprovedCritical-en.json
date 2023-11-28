@@ -1,5 +1,5 @@
 {
-    "586fe16a-8a5c-4e26-ad35-af2450073e2c": "Choose one type of weapon. When using the weapon you selected, your threat range is doubled.\nSpecial: You can gain Improved {g|Encyclopedia:Critical}Critical{/g} multiple times. The effects do not stack. Each time you take the {g|Encyclopedia:Feat}feat{/g}, it applies to a new type of weapon.\nThis effect doesn't stack with any other effect that expands the threat range of a weapon.",
+    "586fe16a-8a5c-4e26-ad35-af2450073e2c": "Choose one type of weapon. When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled.\nSpecial: You can gain Improved Critical multiple times. The effects do not stack. Each time you take the {g|Encyclopedia:Feat}feat{/g}, it applies to a new type of weapon.\nThis effect doesn't stack with any other effect that expands the threat range of a weapon.",
     "0af7f0ec-8b8a-4b6a-b76d-25b6bf5f70d2": "Improved Critical",
     "9d12c820-2fb4-467f-8142-dd644e22ebfb": "Improved Critical (Bastard Sword)",
     "d5c13f0e-995d-44ed-8b30-966e7205c983": "Improved Critical (Bite)",
@@ -38,5 +38,5 @@
     "cad454a6-e8c6-4386-85f6-1a541e20234f": "Improved Critical (Tentacle)",
     "15edcb59-f726-4b39-94c9-57babc550f63": "Improved Critical (Unarmed)",
     "83d4d8c6-7e96-43b3-b76e-acf1316748b5": "Improved Critical (Wing)",
-    "228f8c47-84c9-4976-a1a1-0e64ebb51d07": "When using the weapon you selected, your threat range is doubled."
+    "228f8c47-84c9-4976-a1a1-0e64ebb51d07": "When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled."
 }

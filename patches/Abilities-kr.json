@@ -3,5 +3,5 @@
     "bf47220e-7c1c-47c5-a548-9dea219386d0": "시각 장애인 피해자",
     "246accef-137b-4e59-bcc9-af8c83561dcc": "동물에게 먹이 주기",
     "5a18c27d-3cad-41df-ae8f-9de67810e15c": "트롤 사냥개 울부짖음",
-    "f0e56983-7bef-4f82-b95a-1c2e871f1319": "{g|Encyclopedia:DC}DC{/g} 16 {g|Encyclopedia:Saving_Throw}의지 굴림{/g}에 성공하면 대상이 {g|Encyclopedia:Combat_Round}6 라운드{/g} 동안 공포에 질려 마비되거나 같은 시간 동안 동요합니다. 대상은 매 라운드마다 겁에 질린 상태에 대해 새로운 내성 굴림을 시도할 수 있습니다."
+    "f0e56983-7bef-4f82-b95a-1c2e871f1319": "{g|Encyclopedia:DC}DC{/g} 16 {g|Encyclopedia:Saving_Throw}의지 굴림{/g}에 성공하면 대상이 {g|Encyclopedia:Combat_Round}6 라운드{/g} 동안 공포에 질려 마비되거나 같은 시간 동안 {g|ConditionShaken}동요{/g}합니다. 대상은 매 라운드마다 {g|ConditionFrightened}겁에 질린{/g} 상태에 대해 새로운 내성 굴림을 시도할 수 있습니다."
 }

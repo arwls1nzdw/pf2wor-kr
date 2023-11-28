@@ -188,6 +188,7 @@
     "1ab296c8-92b0-496f-b50c-bf9d85eaff96": "Frost Tongi +2",
     "69510662-15ea-4de2-b82d-d9bacfd36d28": "Frost Two-Bladed Sword +2",
     "023a47a7-fee0-4d6e-ab0e-9730aa640d96": "Frost Warhammer +2",
+    "ca7fd9d1-9a8d-4f17-8d45-ca1e1fff6815": "Frostwail",
     "98febe5d-9f0c-4af5-8766-7b957fb81041": "Giant Bane Heavy Mace +2",
     "1f469ff8-c387-44f1-9c45-eedb0d892039": "Holy Falcata +1",
     "b30adfdd-a1b5-463a-8b40-e5b8660dcdc3": "Holy Light Crossbow +1",
@@ -276,5 +277,6 @@
     "fcae1372-93eb-4bfd-92c4-7a9df150ddc7": "Unholy Longsword +1",
     "453ad204-4cfe-4553-ae88-63842dd94c31": "Vermin Bane Elven Curved Blade+2",
     "19d404aa-e734-4e46-875b-2aa17a5311da": "Vicious Handaxe +2",
-    "34239bbd-b730-4135-82b3-6440b7358a6f": "Vicious Longsword +2"
+    "34239bbd-b730-4135-82b3-6440b7358a6f": "Vicious Longsword +2",
+    "14de7206-d3c6-43d8-9466-6e1f6503ae11": "Whenever the wielder of this +2 frost light crossbow confirms a {g|Encyclopedia:Critical}critical hit{/g} against an enemy, that enemy becomes slowed, as per the slow {g|Encyclopedia:Spell}spell{/g}, for {g|Encyclopedia:Dice}1d6{/g}+1 {g|Encyclopedia:Combat_Round}rounds{/g}. A successful {g|Encyclopedia:DC}DC{/g} 19 {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} reduces the duration to 1 round."
 }

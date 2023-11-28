@@ -4,8 +4,9 @@
     "e94cfa41-0f10-41b5-aa53-35e2a3e83e6e": "기마 방패",
     "a33357e1-42ba-4241-b445-17a5269b3109": "탈것이 {g|Encyclopedia:Combat_Round}라운드{/g}당 한 번, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 실패했을 때 {g|Encyclopedia:Mobility}기동성{/g} 판정을 할 수 있습니다. {g|Encyclopedia:Mobility}기동성{/g} 판정 결과가 상대의 {g|Encyclopedia:Attack}공격{/g}의 {g|Encyclopedia:DC}DC{/g}보다 크면 탈것은 내성에 성공합니다.",
     "ab027c1a-5ab5-4ebb-bbc7-d5e62168b27d": "전투 중 탈것에 적중당 {g|Encyclopedia:Combat_Round}라운드{/g}당 한 번, {g|Encyclopedia:Mobility}기동성{/g}을 시도합니다. {g|Encyclopedia:Skills}기술{/g} 판정을 시도하여 적중을 무효화합니다. 기동성 {g|Encyclopedia:Check}판정{/g} 결과가 상대의 {g|Encyclopedia:Attack}공격{/g}보다 크면 타격이 무효화됩니다.",
+    "2424df55-e259-431a-8033-a3df2292eb62": "활기찬 돌격",
     "04e968b7-8c18-4a95-b0c8-2e96cad1dc10": "짓밟기",
     "1e9f03fc-8552-44a8-9506-70553db0b741": "탈것에 탑승하고 돌격 행동을 사용하면 근접 무기로 두 배의 {g|Encyclopedia:Damage}피해{/g}를 줍니다.",
-    "703e4aa3-44ac-4cf3-8ac2-9d8e5e4a4f71": "탈것을 타고 있는 동안 적을 짓밟는 능력을 얻습니다. 짓밟기에 성공하면 탈것은 짓밟기에 의해 엎드린 대상에게 {g|Encyclopedia:NaturalAttack}자연 무기{/g}을 한 번 받은 것처럼 {g|Encyclopedia:Damage}피해{/g}를 입힙니다.",
+    "703e4aa3-44ac-4cf3-8ac2-9d8e5e4a4f71": "탈것을 타고 있는 동안 적을 짓밟는 능력을 얻습니다. 짓밟기에 성공하면 탈것은 짓밟기에 의해 {g|ConditionProne}엎드린{/g} 대상에게 {g|Encyclopedia:NaturalAttack}자연 무기{/g}을 한 번 받은 것처럼 {g|Encyclopedia:Damage}피해{/g}를 입힙니다.",
     "0384b72b-683c-4b31-b88a-aacbfb40528d": "기본 방패 {g|Encyclopedia:Bonus}보너스{/g}(방패 중점화 보너스를 포함하나 강화 보너스는 포함하지 않음)를 탈것의 {g|Encyclopedia:Armor_Class}AC{/g}에 추가할 수 있습니다."
 }

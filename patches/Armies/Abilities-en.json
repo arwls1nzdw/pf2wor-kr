@@ -1,7 +1,7 @@
 {
     "369b1852-4160-46d4-8b0b-37166e578f6a": "-4 penalty to AC.",
     "4ea86f85-2ee8-4a55-ac4a-1253ca6e6e54": "A Bit Dragon",
-    "93bad83f-6c55-4709-a435-11ddc30d3211": "A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each {g|Encyclopedia:Combat_Round}round{/g}, it can fire one ray as a {g|Encyclopedia:Free_Action}free action{/g}. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical {g|Encyclopedia:Attack}attacks{/g}. Firing an eye ray does not provoke {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}. The eye ray effects are the following:\nFire: Deals {g|Encyclopedia:Dice}12d6{/g} {g|Encyclopedia:Energy_Damage}fire damage{/g} (Reflex half).\nCold: Deals 12d6 cold {g|Encyclopedia:Damage}damage{/g} (Reflex half).\nElectricity: Deals 12d6 electricity damage (Reflex half).\nPetrification: Target must succeed on a Fortitude save or turn to stone permanently.",
+    "93bad83f-6c55-4709-a435-11ddc30d3211": "A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each {g|Encyclopedia:Combat_Round}round{/g}, it can fire one ray as a {g|Encyclopedia:Free_Action}free action{/g}. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical {g|Encyclopedia:Attack}attacks{/g}. Firing an eye ray does not provoke {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}. The eye ray effects are the following:\nFire: Deals {g|Encyclopedia:Dice}12d6{/g} {g|Encyclopedia:Energy_Damage}fire damage{/g} ({g|Encyclopedia:Saving_Throw}Reflex{/g} half).\nCold: Deals 12d6 cold damage (Reflex half).\nElectricity: Deals 12d6 electricity damage (Reflex half).\nPetrification: Target must succeed on a Fortitude save or turn to stone permanently.",
     "23903b31-2bbc-4554-be04-796475ad1a38": "Abadar's Cooperation",
     "5a681857-74a5-47b5-94d5-0a874af0261d": "Absorption",
     "4fac8460-0448-4c43-abee-88a02136bd31": "Abyssal Breath",
@@ -295,7 +295,6 @@
     "0b0c56d4-6917-4c70-a93e-38cf4061dbd7": "Rock Throw",
     "5217e919-c528-4065-b441-96eb81cee1c1": "Sacrifice",
     "4a7887fb-4df2-463a-8df3-83ecad02c1e3": "Sacrifice for the Swarm",
-    "b219b878-b5f4-4355-a11d-c4f53c7be2d9": "Scorching Ray",
     "cff44efd-39d8-403c-b217-88cc5662c09a": "Shadow Illusions",
     "60f50e1c-8f3a-4715-8f33-5e702d727852": "Shield Wall",
     "426fc2ab-c2ff-413d-86fc-f2734b10396d": "Skilled Necromancer",

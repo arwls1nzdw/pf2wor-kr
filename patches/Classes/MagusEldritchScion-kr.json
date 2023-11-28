@@ -24,7 +24,7 @@
     "3f9b589d-9fa9-466c-82b7-fd309e267e86": "예측 공격",
     "deed946e-8f8c-48c4-9224-de255acf125a": "예측 공격",
     "5a4e5c12-7bdd-4370-b715-3bbb83377414": "메이거스는 {g|Encyclopedia:Swift_Action}신속 행동{/g}으로 자신의 비전력에서 1점을 소모하여 자신의 턴 종료 시까지 모든 {g|Encyclopedia:Attack}공격{/g}에서 자신의 {g|Encyclopedia:Charisma}매력{/g} 보너스만큼 통찰력 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.",
-    "6b253e52-1a75-4b9e-8a0f-f032813416d6": "메이거스는 {g|Encyclopedia:Swift_Action}신속 행동{/g}으로 자신의 비전력에서 1점을 소모하여 더 빠르게 이동할 수 있습니다. 이 효과는 신속 효과로 작용하지만, 메이거스에게만 적용되며 메이거스의 {g|Encyclopedia:Charisma}매력{/g} 보너스와 동일{g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 지속됩니다.",
+    "6b253e52-1a75-4b9e-8a0f-f032813416d6": "메이거스는 {g|Encyclopedia:Swift_Action}신속 행동{/g}으로 자신의 비전력에서 1점을 소모하여 더 빠르게 이동할 수 있습니다. 이 효과는 {g|SpellsHaste}가속{/g} 효과로 작용하지만, 메이거스에게만 적용되며 메이거스의 {g|Encyclopedia:Charisma}매력{/g} 보너스와 동일{g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 지속됩니다.",
     "2c45afee-5869-488a-adb2-81abc0a0af5f": "지팡이 숙달",
     "85c202aa-41ae-4231-9f18-c18b9066647c": "벽 용접기",
     "f89dd4d4-4701-4701-91d9-3cd8a461399d": "메이거스가 비전력을 사용해 무기에 마법을 부여할 때마다 비전력에서 1점을 추가로 소모하여 마법 부여 지속시간을 메이거스 레벨당 1분으로 늘릴 수 있습니다.",

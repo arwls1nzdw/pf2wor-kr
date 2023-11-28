@@ -18,7 +18,7 @@
     "63c6281a-6de8-48f3-b909-05e8848cf3f5": "파편 파쇄",
     "47d1416b-75b5-4034-bcf5-9cdd552f126c": "값으로 환산할 수 없는 비애",
     "95ce1142-c919-4725-981c-0e34e289ff23": "이 +5 마족의 부정한 장검의 칼날에는 검은 담즙으로 새겨진 글귀가 새겨져 있습니다. \"나의 보물은 나의 감옥이다\". 이 장검이 적중할 때마다 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}({g|Encyclopedia:DC}DC{/g} = 15 + 착용자의 {g|Encyclopedia:Character_Level}캐릭터 레벨{/g})에 성공하거나, 수정에 {g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 갇혀야 합니다. 이 조건은 마비와 동일하지만, 일반적으로 마비에 면역인 생물에게도 적용할 수 있다는 점이 다릅니다.",
-    "ebe9fdcc-a8a4-432d-bb4f-74e8d2ba3aea": "이 +5 단호한 대도끼의 주인은 {g|Encyclopedia:Standard_Actions}표준 행동{/g}으로 30피트 범위 내의 모든 적에게 {g|Encyclopedia:MeleeAttack}근접 공격{/g}을 가할 수 있습니다. 이 {g|Encyclopedia:Attack}공격{/g}이 적중하면, 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하거나({g|Encyclopedia:DC}DC{/g} 30) 기절해야 합니다.",
+    "ebe9fdcc-a8a4-432d-bb4f-74e8d2ba3aea": "이 +5 단호한 대도끼의 주인은 {g|Encyclopedia:Standard_Actions}표준 행동{/g}으로 30피트 범위 내의 모든 적에게 {g|Encyclopedia:MeleeAttack}근접 공격{/g}을 가할 수 있습니다. 이 {g|Encyclopedia:Attack}공격{/g}이 적중하면, 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하거나({g|Encyclopedia:DC}DC{/g} 30) {g|ConditionStunned}기절{/g}해야 합니다.",
     "4f4d4459-9474-4e61-b112-53cfe1c22140": "이 +3 단호한 전투도끼 착용자는 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g} 시 {g|Encyclopedia:Attack}명중 굴림{/g}에 +3 능숙 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 수호자의 방패와 함께 착용하면 이 보너스는 +6으로 증가하며, 적중 시 수호자의 방패로 적중시킨 기회 공격은 추가로 {g|Encyclopedia:Dice}2d6{/g} {g|Encyclopedia:Damage_Type}베기 피해{/g}를 입힙니다.",
     "e66e52e6-a415-4ba6-9ad9-7f9d53e0481f": "이 +3 분노에 불타는 예리한 전쟁망치의 치명타 범위는 두 배로 증가합니다 {g|Encyclopedia:Critical}치명타{/g}. 중형 {g|Encyclopedia:Size}크기의 {/g} 생물을 대상으로 치명타 위협을 가하면, 자동으로 확정됩니다. 적중할 때마다, 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}에 성공하거나({g|Encyclopedia:DC}DC{/g} 35) {g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 비틀거려야 합니다.",
     "879b764a-97f2-4adb-8f68-9c082c0c9878": "이 생물의 방어구는 변형천사 글레이브에 의해 피해를 입었습니다. {g|Encyclopedia:Armor_Class}AC{/g}에 중첩 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
@@ -32,5 +32,5 @@
     "847914e2-157c-4600-8dff-ed439e450af6": "이 +1 냉철 장검으로 데몬을 {g|Encyclopedia:Attack}공격{/g}하면, 명중 굴림에 +2 강화 {g|Encyclopedia:Bonus}보너스{/g}를 얻고 적중 시 추가로 {g|Encyclopedia:Dice}1d10{/g} {g|Encyclopedia:Damage_Type}베기 피해{/g}을 가합니다.",
     "e57efa80-cedd-40c0-a1e5-b60250e04e44": "이 +1 유령 터치 주먹칼이 {g|Encyclopedia:Attack}암습{/g}을 적중시킬 때마다 추가로 {g|Encyclopedia:Dice}2d6{/g}의 {g|Encyclopedia:Damage_Type}찌르기 피해{/g}를 입히고, 이 피해는 {g|Encyclopedia:Critical}치명타{/g}에 곱해집니다.",
     "9765ad42-6390-4fd9-ba7b-4fd3d6d8fc6c": "이 +1 중쇠뇌는 {g|Encyclopedia:Combat_Round}라운드{/g} 동안 첫 {g|Encyclopedia:Attack}공격{/g}을 하면 한 번에 두 개의 화살을 발사합니다. 두 공격이 모두 적중하면 대상은 {g|Encyclopedia:Saving_Throw}인내 굴림{/g}({g|Encyclopedia:DC}DC{/g} 25)를 하거나 추가로 {g|Encyclopedia:Dice}2d6{/g} 피해를 입어야 합니다. {g|Encyclopedia:Energy_Damage}냉기 피해{/g}를 받고 1라운드 동안 비틀거리게 됩니다.",
-    "9e92decd-5f4a-4742-b87e-fe4eb81c3395": "이 +5 속도의 대낫이 비실체 적을 공격하면 추가 {g|Encyclopedia:Dice}2d6{/g}  {g|Encyclopedia:Damage}정밀 피해{/g}를 줍니다."
+    "9e92decd-5f4a-4742-b87e-fe4eb81c3395": "이 +5 속도의 대낫이 비실체 적을 공격하면 추가 {g|Encyclopedia:Dice}2d6{/g} {g|Encyclopedia:Damage}정밀 피해{/g}를 줍니다."
 }

@@ -1,5 +1,5 @@
 {
-    "a818da00-854d-4a00-a496-2b9bc47f2d4d": "Choose one type of weapon (including {g|Encyclopedia:UnarmedAttack}unarmed{/g} strike) for which you have already selected Weapon Focus. You are a master at your chosen weapon.\nBenefit: You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g} you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including those from Weapon Focus.\nSpecial: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the {g|Encyclopedia:Feat}feat{/g}, it applies to a new type of weapon.",
+    "a818da00-854d-4a00-a496-2b9bc47f2d4d": "Choose one type of weapon (including {g|Encyclopedia:UnarmedAttack}unarmed strike{/g}) for which you have already selected Weapon Focus. You are a master at your chosen weapon.\nBenefit: You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g} you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including those from Weapon Focus.\nSpecial: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the {g|Encyclopedia:Feat}feat{/g}, it applies to a new type of weapon.",
     "2bac1c15-54e3-4209-a0bc-96db4b91f529": "Greater Weapon Focus",
     "f168b1e6-a387-407d-87d6-e9ed3eea5a0a": "Greater Weapon Focus (Bastard Sword)",
     "0d572aee-d060-4a97-88a5-15186add51c0": "Greater Weapon Focus (Bite)",
@@ -43,5 +43,5 @@
     "3666ce27-2614-4fc0-999e-1a444a3d84ca": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using longswords.",
     "656b0163-8de9-45cb-acdd-f5d5d493937e": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rapiers.",
     "4b3bd76a-0a3e-44c4-91a1-36d078fd4bb0": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using tail attacks.",
-    "64f9993b-3d08-42d9-a200-c9ca42ec4e69": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using {g|Encyclopedia:UnarmedAttack}unarmed{/g} strikes."
+    "64f9993b-3d08-42d9-a200-c9ca42ec4e69": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using {g|Encyclopedia:UnarmedAttack}unarmed strikes{/g}."
 }

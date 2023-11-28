@@ -1,4 +1,4 @@
 {
     "e332d80b-b71f-452b-bbc9-9d4c8b9a8417": "치명적 조준",
-    "532692ed-6b36-4e85-b002-ddfea7f2e984": "모든 {g|Encyclopedia:RangedAttack}원거리 공격{/g} 굴림에서 -1 {g|Encyclopedia:Penalty}불이익{/g}을 받는 대신 모든 원거리 {g|Encyclopedia:Damage}피해 굴림{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 받을 수 있습니다.\n{g|Encyclopedia:BAB}기본 공격 보너스{/g}가 +4에 도달하면, 그 이후 +4마다 불이익은 -1씩 증가하고 피해 보너스는 +2씩 증가합니다. 이 {g|Encyclopedia:Feat}특기{/g}는 {g|Encyclopedia:Attack}공격{/g}을 하기 전에 사용해야 하며, 그 효과는 다음 턴까지 지속됩니다. 추가 피해는 {g|Encyclopedia:TouchAttack}접촉 공격{/g}이나 체력 피해를 입히지 않는 효과에는 적용되지 않습니다."
+    "532692ed-6b36-4e85-b002-ddfea7f2e984": "모든 {g|Encyclopedia:RangedAttack}원거리 공격{/g} 굴림에서 -1 {g|Encyclopedia:Penalty}불이익{/g}을 받는 대신 모든 원거리 {g|Encyclopedia:Damage}피해 굴림{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 받을 수 있습니다.\n{g|Encyclopedia:BAB}BAB{/g}가 +4에 도달하면, 그 이후 +4마다 불이익은 -1씩 증가하고 피해 보너스는 +2씩 증가합니다. 이 {g|Encyclopedia:Feat}특기{/g}는 {g|Encyclopedia:Attack}공격{/g}을 하기 전에 사용해야 하며, 그 효과는 다음 턴까지 지속됩니다. 추가 피해는 {g|Encyclopedia:TouchAttack}접촉 공격{/g}이나 체력 피해를 입히지 않는 효과에는 적용되지 않습니다."
 }
