@@ -156,7 +156,7 @@
     "a257d06d-0bc3-4f44-9eef-a0078705fe67": "자연",
     "2e973de1-1536-47c2-8253-1a0a6a5829ff": "자연의 속삭임",
     "f460eece-d314-4b79-8af7-24a09491c16e": "죽음에 가까워짐",
-    "19a613f4-bde1-482a-b2a3-d66569909649": "하루에 한 번, {g|Encyclopedia:Swift_Action}신속 행동{/g}으로 이 능력을 사용하여 다음 실명, 귀먹음, 겁먹음, 패닉, 마비, {g|ConditionShaken}동요{/g}, {g|ConditionStunned}기절{/g} {g|Encyclopedia:Saving_Throw}내성 굴림{/g} 실패 시 다시 {g|Encyclopedia:Dice}굴림{/g}을 시도하고, 그 굴림에 +4 통찰력 {g|Encyclopedia:Bonus}보너스{/g}가 더해집니다. 7레벨과 15레벨에 이 능력을 하루에 한 번 추가로 사용할 수 있습니다.",
+    "19a613f4-bde1-482a-b2a3-d66569909649": "하루에 한 번, {g|Encyclopedia:Swift_Action}신속 행동{/g}으로 이 능력을 사용하여 다음 {g|ConditionBlind}실명{/g}, 귀먹음, 겁먹음, 패닉, 마비, {g|ConditionShaken}동요{/g}, {g|ConditionStunned}기절{/g} {g|Encyclopedia:Saving_Throw}내성 굴림{/g} 실패 시 다시 {g|Encyclopedia:Dice}굴림{/g}을 시도하고, 그 굴림에 +4 통찰력 {g|Encyclopedia:Bonus}보너스{/g}가 더해집니다. 7레벨과 15레벨에 이 능력을 하루에 한 번 추가로 사용할 수 있습니다.",
     "cbeeb190-3295-4a0a-b958-ea7afad82069": "하루에 한 번, 피부가 단단해지고 철처럼 변하여 {g|Encyclopedia:Damage_Reduction}DR{/g} 10/아다만틴을 얻습니다. 이 능력은 오라클 레벨을 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}로 사용하여 {g|SpellsStoneskin}바위피부{/g} {g|Encyclopedia:Spell}주문{/g}으로 작동합니다. 15레벨이 되면 하루에 두 번 이 능력을 사용할 수 있습니다. 이 계시를 선택하려면 11레벨 이상이어야 합니다.",
     "8c835d49-f849-448d-838c-ddd117e89264": "다리 하나가 영구적으로 부상을 입어 기본 {g|Encyclopedia:Speed}이동 속도{/g}이 10피트 감소합니다. 발이 붙잡혀도 이동 속도는 감소하지 않습니다.\n5레벨이 되면 {g|ConditionFatigued}피로{/g} 상태에 면역이 됩니다.(단, 탈진에는 면역이 되지 않음).\n10레벨이 되면 갑옷에 의해 이동 속도가 감소하지 않습니다.\n15레벨이 되면 탈진 상태에 면역이 됩니다.",
     "9fdba1bc-2740-4adc-801e-5a0fd8e8517c": "오라클",

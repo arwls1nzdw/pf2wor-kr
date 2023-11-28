@@ -94,7 +94,7 @@
     "093893c3-94c6-4891-9cc4-22b578d56ce1": "눈 멀게 하는 폭탄",
     "7bb521a3-ace0-4aac-b18f-fa9e3bf68be2": "폭탄",
     "8b480d1f-67db-420b-a475-3fad17522d4b": "폭탄",
-    "000a497f-c0c4-48d4-833a-15ea1328545e": "폭탄은 가장 일반적으로 특정 지역을 공격하는 특수한 종류의 {g|Encyclopedia:RangedAttack}원거리 공격{/g}입니다. 폭탄은 대상의 {g|Encyclopedia:Armor_Class}AC{/g}에 일부 {g|Encyclopedia:Bonus}보너스{/g}를 무시하므로 일반 무기 {g|Encyclopedia:Attack}공격{/g}보다 적중 확률이 더 높습니다. 폭탄은 {g|Encyclopedia:Damage}피해{/g}, 실명, 마법 효과 해제 등 다양한 효과를 줄 수 있습니다.",
+    "000a497f-c0c4-48d4-833a-15ea1328545e": "폭탄은 가장 일반적으로 특정 지역을 공격하는 특수한 종류의 {g|Encyclopedia:RangedAttack}원거리 공격{/g}입니다. 폭탄은 대상의 {g|Encyclopedia:Armor_Class}AC{/g}에 일부 {g|Encyclopedia:Bonus}보너스{/g}를 무시하므로 일반 무기 {g|Encyclopedia:Attack}공격{/g}보다 적중 확률이 더 높습니다. 폭탄은 {g|Encyclopedia:Damage}피해{/g}, {g|ConditionBlind}실명{/g}, 마법 효과 해제 등 다양한 효과를 줄 수 있습니다.",
     "a3778670-524c-4991-9df9-ce4998cca574": "병에 담긴 동맹 I",
     "2e47d3a1-eda5-4b93-a3a9-baf5473a2e3a": "병에 담긴 동맹 II",
     "17addc2d-912e-4984-bd63-067a8e72206a": "병에 담긴 동맹 III",
