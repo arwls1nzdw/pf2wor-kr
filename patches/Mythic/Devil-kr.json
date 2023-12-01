@@ -33,7 +33,7 @@
     "cc45e118-5bcb-4496-9336-1688d8fc555f": "성찰하는 마음의 인장",
     "4da0e0ea-d67f-4159-9732-ed17308a43dd": "천상의 검 - 사용 승인",
     "012a8b9d-29f9-415e-9988-7e8c06e3704b": "데빌이 아군에게 지옥의 봉인을 씌울 수 있는 능력을 얻습니다. 특정 조건이 충족되면 활성화됩니다.\n이 능력은 신화 등급과 동일한 횟수만큼 하루에 여러번 사용할 수 있지만, 한 번에 한 명의 아군에게만 봉인을 하나만 걸 수 있습니다.",
-    "c461105b-301e-4e81-bdc7-51eac69a2de3": "아군이 동요하거나 겁에 질리면, 대신 자신의 신화 등급과 같은 {g|Encyclopedia:Combat_Round}라운드{/g}만큼 {g|SpellsHeroicInvocation}영웅심 강신{/g}과 {g|SpellsRage}분노{/g} {g|Encyclopedia:Spell}주문{/g}의 이점을 얻습니다.",
+    "c461105b-301e-4e81-bdc7-51eac69a2de3": "아군이 동요하거나 겁에 질리면, 대신 자신의 신화 등급과 같은 {g|Encyclopedia:Combat_Round}라운드{/g} 동안 {g|SpellsHeroicInvocation}영웅심 강신{/g}과 {g|SpellsRage}분노{/g} {g|Encyclopedia:Spell}주문{/g}의 이점을 얻습니다.",
     "408d30f1-21e7-46a1-b686-a29bab3df69a": "아군의 {g|Encyclopedia:HP}HP{/g}가 신화 등급 5배 아래로 떨어지면 즉시 사망하며, 이 과정에서 30피트 반경의 모든 적에게 {g|Encyclopedia:Dice}2d10{/g}×신화 등급 {g|Encyclopedia:Damage}피해{/g}(불속성 절반, 신성 불속성 절반)를 입힙니다.",
     "7188acd8-39aa-4d13-ae22-e195fb6ed453": "아군이 환영 또는 환혹 {g|Encyclopedia:Spell}주문{/g}에 대해 {g|Encyclopedia:Saving_Throw}내성 굴림{/g}을 시도하면 자동으로 성공합니다. 또한, 시전자는 같은 효과의 대상이 되며, 그 내성 굴림의 {g|Encyclopedia:DC}DC{/g}는 신화 등급 절반만큼 증가합니다.",
     "787275c5-fa7b-4c42-b878-54e11298d288": "아군의 {g|Encyclopedia:HP}HP{/g}가 자신의 신화 등급 15배 아래로 떨어지면, 봉인이 모든 적에게 자신의 신화 등급마다 {g|Encyclopedia:Dice}1d8{/g}(화염 반, 신성 반) 피해를 입히고 {g|Encyclopedia:Saving_Throw}반사 굴림{/g}을 하거나 {g|Encyclopedia:Combat_Round}매 라운드{/g}마다 2d6(화염 반, 신성 반) 피해를 주는 불태우기 시작해야 합니다. 이 내성 굴림에 대한 기본 DC는 10 + 캐릭터 레벨의 절반 + 신화 등급 + 가장 높은 능력 수정치입니다.",

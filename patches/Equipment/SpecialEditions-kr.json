@@ -181,7 +181,7 @@
     "0b95909f-e8c5-4318-9a31-671193eb184d": "트리케라톱스 조각상",
     "cf17f48d-4482-4025-86c6-eb9836a22f3b": "부정한 휘장",
     "d7ddf4ae-d14a-4861-b58f-d5c8b884abfe": "이 팔찌를 착용한 자가 다가오면 심연의 데몬이 도망치기 시작합니다.",
-    "bc3767e8-1bba-4d3b-bdd1-d096e6ad0dc9": "이 망토의 착용자가 에너지를 {g|Encyclopedia:Healing}치유{/g}에 사용하면, 착용자는 {g|Encyclopedia:Persuasion}설득{/g} {g|Encyclopedia:Skills}기술{/g} 판정, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 강제 기술자가 있는 {g|Encyclopedia:Spell}주문{/g}의 내성 {g|Encyclopedia:DC}DC{/g}가 2 증가합니다. 이 효과는 캐릭터의 레벨과 같은 {g|Encyclopedia:Combat_Round}라운드{/g}만큼 지속됩니다.\n이 망토의 착용자가 에너지를 피해에 사용하면, 영향을 받는 생물은 의지 굴림에 성공하거나 한 라운드 동안 몽롱한 상태가 됩니다. 내성 굴림 DC = 10 + 절반 {g|Encyclopedia:Character_Level}캐릭터 레벨{/g} + {g|Encyclopedia:Charisma}매력{/g} 수정치.",
+    "bc3767e8-1bba-4d3b-bdd1-d096e6ad0dc9": "이 망토의 착용자가 에너지를 {g|Encyclopedia:Healing}치유{/g}에 사용하면, 착용자는 {g|Encyclopedia:Persuasion}설득{/g} {g|Encyclopedia:Skills}기술{/g} 판정, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 강제 기술자가 있는 {g|Encyclopedia:Spell}주문{/g}의 내성 {g|Encyclopedia:DC}DC{/g}가 2 증가합니다. 이 효과는 캐릭터의 레벨과 같은 {g|Encyclopedia:Combat_Round}라운드{/g} 동안 지속됩니다.\n이 망토의 착용자가 에너지를 피해에 사용하면, 영향을 받는 생물은 의지 굴림에 성공하거나 한 라운드 동안 몽롱한 상태가 됩니다. 내성 굴림 DC = 10 + 절반 {g|Encyclopedia:Character_Level}캐릭터 레벨{/g} + {g|Encyclopedia:Charisma}매력{/g} 수정치.",
     "bb7dca2d-0f6f-47a2-a6f3-ebaa54e541e7": "이 모자 착용자가 노래를 사용하면, 이 노래는 빠른 {g|Encyclopedia:Healing}치유{/g} 1, {g|Encyclopedia:Fast_Healing}빠른 치유{/g} 2를 5레벨에 부여하고 이후 4레벨마다 1포인트씩 증가합니다.",
     "01edd3ec-89d8-4cca-b37c-1f5ea0aa3326": "이 책이 활성화되어 있는 동안, 당신이 여러 생물을 소환하는 능력을 사용하면, 그 수가 한 개씩 증가합니다.",
     "ba523d7b-d920-4682-ab7a-ac2337d0602a": "흰 바람의 망토",

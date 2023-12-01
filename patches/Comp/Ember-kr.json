@@ -961,7 +961,7 @@
     "ffb3c0ed-e0b3-447f-9079-b8ae52e47d0c": "데몬을 물리치세요",
     "684d68be-89ea-4b53-a9e6-d3ad65ee7669": "린치 폭도를 승인하지 않았습니다.",
     "28a6fcbc-f5a4-4231-8ee3-339fa26b9c5a": "엠버",
-    "6b170c30-aa92-4250-8ed6-6ce723f1b248": "엠버가 {g|Encyclopedia:Charisma}매력{/g}에 +2 사기 {g|Encyclopedia:Bonus}보너스{/g}를 얻고 9레벨 고유 {g|Encyclopedia:Spell}주문{/g}을 얻습니다. 평온의 비밀.\n평온의 비밀: 엠버는 {g|Encyclopedia:Standard_Actions}표준 행동{/g}으로 이 능력을 사용하여 30피트 범위 내의 모든 적을 자신의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}과 같은 {g|Encyclopedia:Combat_Round}라운드{/g}만큼 평온의 비밀의 영향을 받도록 만들 수 있습니다. 영향을 받은 생물은 매 라운드마다 {g|Encyclopedia:Saving_Throw}의지 굴림{/g}을 통과해야 하며, 그렇지 않으면 한 라운드 동안 {g|Encyclopedia:Attack}공격{/g}을 할 수 없습니다.",
+    "6b170c30-aa92-4250-8ed6-6ce723f1b248": "엠버가 {g|Encyclopedia:Charisma}매력{/g}에 +2 사기 {g|Encyclopedia:Bonus}보너스{/g}를 얻고 9레벨 고유 {g|Encyclopedia:Spell}주문{/g}을 얻습니다. 평온의 비밀.\n평온의 비밀: 엠버는 {g|Encyclopedia:Standard_Actions}표준 행동{/g}으로 이 능력을 사용하여 30피트 범위 내의 모든 적을 자신의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}과 같은 {g|Encyclopedia:Combat_Round}라운드{/g} 동안 평온의 비밀의 영향을 받도록 만들 수 있습니다. 영향을 받은 생물은 매 라운드마다 {g|Encyclopedia:Saving_Throw}의지 굴림{/g}을 통과해야 하며, 그렇지 않으면 한 라운드 동안 {g|Encyclopedia:Attack}공격{/g}을 할 수 없습니다.",
     "61e7eb8e-758d-4061-84ce-4907d1c6771f": "엠버가 고유한 9레벨 {g|Encyclopedia:Spell}주문{/g}을 얻습니다. 불타는 정의의 폭풍.\n불타는 정의의 폭풍: 이 주문을 시전하면 해당 지역 전체가 활활 타오르는 성스러운 불길로 뒤덮입니다. 범위 내의 모든 적 생물은 {g|Encyclopedia:Dice}10d6{/g}점 화염 피해를 받고 10d6의 {g|Encyclopedia:Energy_Damage}신성 피해{/g}를 입습니다. {g|Encyclopedia:Saving_Throw}반사 굴림{/g}에 실패한 생물은 불길에 휩싸여 그 후 반사 굴림에 성공하여 불길이 꺼질 때까지 {g|Encyclopedia:Combat_Round}매 라운드{/g}마다 2d6 화염 피해와 2d6의 신성 피해를 입습니다.",
     "e49676d4-dfa1-422d-98fd-4284435f3c14": "엠버는 지능에 -2의 불이익을 받습니다.",
     "310ab9a2-3f7f-4994-bd4c-1d956e6e3c59": "회개 한 이교도들을 추방하고 엠버에게 그녀의 설교는 무의미하다고 말했습니다.",

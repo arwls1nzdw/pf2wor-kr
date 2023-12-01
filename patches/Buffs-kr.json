@@ -269,7 +269,7 @@
     "301951f2-85c0-49f3-a783-7f188a28be4d": "후폭풍 베기",
     "f88d419b-7d1c-401d-be8f-8f04c685ab7a": "수면",
     "ef4aa80c-280a-475d-a60e-7a6be033f371": "눈",
-    "abacafe3-ce1c-48a0-a2a6-749a070da957": "파티에 속한 일부 주문 시전사는 아군에게 해를 입히지 못하도록 보호받습니다. 성직자는 ecclesitheurge 원형, 드루이드는 elemental rampager 원형, magi eldritch scion 원형, 소서러는 overwhelming mage 원형, 마녀는 elemental witch 원형, 위저드는 elemental specialist 원형으로 파티원을 해치지 않고 효과 범위 {g|encyclopedia:spell}주문{/g}을 시전할 수 있습니다. 또한, 파티원이 해당 주문에 적중당할 때마다 같은 문파의 주문에 대해 {g|encyclopedia:spell_resistance}주문 저항{/g} 10 + {g|encyclopedia:caster_level}시전자 레벨{/g}만큼 {g|Encyclopedia:Combat_Round}1 라운드{/g}만큼 증가합니다.",
+    "abacafe3-ce1c-48a0-a2a6-749a070da957": "파티에 속한 일부 주문 시전사는 아군에게 해를 입히지 못하도록 보호받습니다. 성직자는 ecclesitheurge 원형, 드루이드는 elemental rampager 원형, magi eldritch scion 원형, 소서러는 overwhelming mage 원형, 마녀는 elemental witch 원형, 위저드는 elemental specialist 원형으로 파티원을 해치지 않고 효과 범위 {g|encyclopedia:spell}주문{/g}을 시전할 수 있습니다. 또한, 파티원이 해당 주문에 적중당할 때마다 같은 문파의 주문에 대해 {g|encyclopedia:spell_resistance}주문 저항{/g} 10 + {g|encyclopedia:caster_level}시전자 레벨{/g}만큼 {g|Encyclopedia:Combat_Round}1 라운드{/g} 동안 증가합니다.",
     "1b9bfdbf-b111-4cc7-bdbd-3d4c8d56cd5c": "하피의 노래",
     "6b1946cf-c8ec-4f93-908a-280b3336ec41": "연금술의 원천",
     "9f5976cc-4024-4901-b115-18d5587b995e": "반짝이는 순풍",
