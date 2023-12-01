@@ -40,7 +40,7 @@
     "3e874eb5-fc8f-4a95-bef0-eb2a0d5a9059": "태양의 눈",
     "fc8e660c-bbe7-446b-8c05-022a0ddfbf99": "생명의 불꽃",
     "39888846-bca4-47de-b880-c1afd632a518": "{g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 1분 동안 데몬에게 공격당할 때 공격한 데몬에게 {g|Encyclopedia:Dice}1d6{/g} + 시전자 레벨 2당 1 {g|Encyclopedia:Damage}피해{/g}를 입힙니다. 또한 {g|Encyclopedia:Armor_Class}AC{/g}에 1 + 시전자 레벨 6당 2 만큼의 반사 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.",
-    "ed0842c8-6325-443a-819c-935b3ac525ae": "대상의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 1분 동안, 대상의 {g|Encyclopedia:Attack}공격{/g}은 4시전자 레벨당 추가로 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}신성 피해{/g}를 입히고, 근접에서 대상을 공격하는 생물은 일반 피해를 주는 대신 1d6 {g|Encyclopedia:Energy_Damage}화염 피해{/g}를 입습니다. + 1점을 받습니다.(시전자 레벨당).",
+    "ed0842c8-6325-443a-819c-935b3ac525ae": "대상의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 1분 동안, 대상의 {g|Encyclopedia:Attack}공격{/g}은 4시전자 레벨당 추가로 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}신성 피해{/g}를 입히고, 근접에서 대상을 공격하는 생물은 일반 피해를 주는 대신 1d6 + 시전자 레벨당 1점의 {g|Encyclopedia:Energy_Damage}화염 피해{/g}를 입습니다.",
     "ead5ebc6-27b4-4995-951a-48ca4187a4b9": "자신의 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}과 같은 다음 {g|Encyclopedia:Combat_Round}라운드{/g}만큼, 당신은 {g|Encyclopedia:Incorporeal_Touch_Attack}비실체{/g}가 되어 {g|Encyclopedia:Swift_Action}신속 행동{/g}으로 성스러운 광선을 발사하여 시전자 레벨당 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}피해{/g}를 주며, 이 중 절반은 화염, 절반은 신성 피해를 줍니다.",
     "35b8f8c9-01fe-4b90-8a98-61f2b53e77ea": "다음 {g|Encyclopedia:Caster_Level}시전자 레벨{/g}당 1분 동안, 대상의 {g|Encyclopedia:HP}체력{/g}이 0 이하로 떨어질 경우 대신 {g|Encyclopedia:Healing}치유량{/g}을 최대로 회복하고 20피트 반경의 모든 적에게 시전자 레벨당 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}화염 피해{/g}를 줍니다.",
     "e631d38d-1396-41d3-8b47-fcaac643169a": "신실한 자의 요새",
