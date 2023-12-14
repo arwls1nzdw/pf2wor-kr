@@ -1,7 +1,7 @@
 {
     "484865dd-b2d7-44af-87ba-abc214f5e055": "A petrified character has been turned to stone and is considered {g|Encyclopedia:Injury_Death}unconscious{/g}.",
     "60d3ef68-1c04-4e37-b73d-2563ca9e0c84": "A {g|ConditionFrightened}frightened{/g} creature flees from the source of its fear as best it can. If it's unable to flee, it may fight, but a frightened creature suffers a –2 {g|Encyclopedia:Penalty}penalty{/g} on all {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Saving_Throw}saving throws{/g}, {g|Encyclopedia:Skills}skill checks{/g}, and {g|Encyclopedia:Ability_Scores}ability checks{/g}.",
-    "f91434aa-00af-499b-b138-f11c58ed8d6d": "A {g|ConditionShaken}shaken{/g} character suffers a –2 {g|Encyclopedia:Penalty}penalty{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Saving_Throw}saving throws{/g}, {g|Encyclopedia:Skills}skill checks{/g}, and {g|Encyclopedia:Ability_Scores}ability checks{/g}. Shaken is a less severe state of fear than {g|ConditionFrightened}frightened{/g} or panicked.",
+    "f91434aa-00af-499b-b138-f11c58ed8d6d": "A {g|ConditionShaken}shaken{/g} character suffers a –2 {g|Encyclopedia:Penalty}penalty{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, weapon {g|Encyclopedia:Damage}damage rolls{/g}, {g|Encyclopedia:Saving_Throw}saving throws{/g}, {g|Encyclopedia:Skills}skill checks{/g}, and {g|Encyclopedia:Ability_Scores}ability checks{/g}. Shaken is a less severe state of fear than {g|ConditionFrightened}frightened{/g} or panicked.",
     "a746a522-17f0-4814-a9f4-ecb1da4bbc3a": "Additional experience:",
     "4e5768e9-a30a-4c0c-a680-2456b4bb60f2": "Aeon Mythic Path",
     "c22f8ae9-461d-4425-973b-26751e5cd88c": "Aeon Mythic Path",

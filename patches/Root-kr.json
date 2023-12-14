@@ -1,7 +1,7 @@
 {
     "484865dd-b2d7-44af-87ba-abc214f5e055": "석화된 캐릭터는 돌로 변했으며 {g|Encyclopedia:Injury_Death}의식불명{/g}으로 간주됩니다.",
     "60d3ef68-1c04-4e37-b73d-2563ca9e0c84": "겁에 질린 생물은 최선을 다해 공포의 근원으로부터 도망칩니다. 도망가지 못하면 싸울 수 있지만, 겁에 질린 생물은 모든 {g|Encyclopedia:Attack}명중 굴림{/g}, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}, {g|Encyclopedia:Skills}기술{/g} 판정, {g|Encyclopedia:Ability_Scores}능력{/g} 판정에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
-    "f91434aa-00af-499b-b138-f11c58ed8d6d": "동요한 캐릭터는 {g|Encyclopedia:Attack}명중 굴림{/g}, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}, {g|Encyclopedia:Skills}기술{/g} 판정, {g|Encyclopedia:Ability_Scores}능력{/g} 판정에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다. 동요은 겁에 질리거나 공황 상태에 비해 덜 심각한 공포 상태입니다.",
+    "f91434aa-00af-499b-b138-f11c58ed8d6d": "동요한 캐릭터는 {g|Encyclopedia:Attack}명중 굴림{/g}, 무기 {g|Encyclopedia:Damage}피해 굴림{/g}, {g|Encyclopedia:Saving_Throw}내성 굴림{/g}, {g|Encyclopedia:Skills}기술{/g} 판정, {g|Encyclopedia:Ability_Scores}능력{/g} 판정에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다. 동요은 겁에 질리거나 공황 상태에 비해 덜 심각한 공포 상태입니다.",
     "a746a522-17f0-4814-a9f4-ecb1da4bbc3a": "추가 경험:",
     "4e5768e9-a30a-4c0c-a680-2456b4bb60f2": "에온 신화의 길",
     "c22f8ae9-461d-4425-973b-26751e5cd88c": "에온 신화의 길",

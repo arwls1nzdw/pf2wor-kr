@@ -404,7 +404,7 @@
     "a59e0ffb-3d4a-4468-a327-5e7c2e6c14f2": "당신의 연주는 잊을 수 없습니다.\n효과: 이제 바드 공연 능력이 6 레벨 높은 바드처럼 작동합니다.",
     "3fc22bd4-52fe-4caa-8fd0-3a522ac50400": "독과 질병은 면역을 무시합니다.",
     "c8f85a1a-9fc0-414f-83a1-814c5bf9f070": "투사체에 냉기 마법이 부여되어 상대의 사지를 결박합니다.\n효과: 활, 석궁, 투척형 전투기 무기군의 원거리 무기로 적을 적중시킬 때마다 파편당 {g|Encyclopedia:Dice}1d6{/g} 에 해당하는 {g|Encyclopedia:Energy_Damage}냉기 피해{/g}를 추가로 입힙니다. 이 효과는 {g|Encyclopedia:Combat_Round}라운드{/g} 당 두 번 발생할 수 있습니다. 적의 {g|Encyclopedia:Hit_Dice}HD{/g} 가 내 레벨 + 내 파편 수와 같거나 적으면, 적도 제자리에서 얼어붙습니다. 이 상태에서는 어떤 방법으로도 의도적으로 움직일 수 없습니다.",
-    "a2baae63-59bd-4ffa-b7eb-7c659ad29860": "분노에는 한계가 없습니다.\n혜택: 이제 하루에 분노 {g|Encyclopedia:Combat_Round}라운드{/g}에 제한이 없습니다.",
+    "a2baae63-59bd-4ffa-b7eb-7c659ad29860": "분노에는 한계가 없습니다.\n혜택: 분노 또는 난동의 사용 횟수가 더 이상 제한되지 않습니다.",
     "5f1b8357-9452-46de-aa1d-d16617114af3": "원거리 무기로 {g|Encyclopedia:Attack}공격{/g}하면 적의 취약한 지점이 노출됩니다.\n효과: 원거리 무기로 같은 적에게 세 번째 적중할 때마다 신화 등급 두 개당 추가 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage}신성 피해{/g}를 입힙니다.",
     "9ef18aaf-419d-47f2-8bf1-969a12db1d52": "당신의 반사 신경은 초인적입니다.\n효과: {g|Encyclopedia:Saving_Throw}인내 굴림{/g}을 {g|Encyclopedia:Dice}굴릴{/g}때 마다, 두 번 굴려서 더 높은 결과를 가져갑니다.",
     "5be5e6af-211d-46c9-a340-e50b38015dc7": "암습으로 +2d6의 추가 피해를 입힙니다.",
