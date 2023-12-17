@@ -2,12 +2,10 @@
     "161e0663-c9df-46ed-89d0-ff26f80b0354": "A long time ago this wand used to summon a terrible invisible monster. Unfortunately, this wand's power waned over time.",
     "67b6c581-16ce-4e3b-bbf1-1eed20198117": "An exquisite wand of unusual power, crafted by a true virtuoso.",
     "cec4dfee-e0cc-42d2-93e5-6ec63f370a50": "Finger of Death",
-    "91a01d0e-a116-4924-a7b5-0f0f66515f8d": "The fallen crusader wizard Zacharius transformed this weapon into his phylactery. After the lich was killed by the Commander of the Mendevian Crusade, the wizard's soul retreated into the wand, transforming it into a powerful magical weapon.\nThose who possess dominion over death can hear Zacharius's dark whispers emanating from the phylactery.",
     "6ff58d9d-b981-4293-bf8b-46aa0ff0d7f2": "This wand allows its wielder to cast {g|SpellsFingerOfDeath}finger of death{/g} {g|Encyclopedia:Spell}spell{/g} as a 17th level wizard. If the wielder is a Lich, spell cast from this wand ignore any {g|Encyclopedia:Spell_Resistance}spell resistance{/g} the target might have and also require two successful consecutive {g|Encyclopedia:Saving_Throw}saving throws{/g} instead of one.",
     "77724195-1743-4b73-83b8-7e7aeb0dec72": "This wand allows its wielder to cast {g|SpellsFingerOfDeath}finger of death{/g} {g|Encyclopedia:Spell}spell{/g} as a 20th level wizard. The spell cast from this wand is empowered, as if using the {g|FeatureEmpoweredSpell}Empower Spell{/g} {g|Encyclopedia:Feat}feat{/g}, ignores any {g|Encyclopedia:Spell_Resistance}spell resistance{/g} the target might have, and requires two successful consecutive {g|Encyclopedia:Saving_Throw}saving throws{/g} instead of one.",
     "5ee9acef-4e7e-4795-ad9b-75eb337c3147": "This wand of odd miracles has 3 charges that are restored on the {g|Encyclopedia:Rest}rest{/g}. Whenever the wielder uses this wand, one of the following {g|Encyclopedia:Spell}spells{/g} is cast: {g|SpellsDaze}daze{/g}, {g|SpellsElementalAssessor}elemental assessor{/g}, {g|SpellsFeeblemind}feeblemind{/g}, {g|SpellsHideousLaughter}hideous laughter{/g}, {g|SpellsNaturesExile}nature's exile{/g}, {g|SpellsRainbowPattern}rainbow pattern{/g}, {g|SpellsScintillatingPattern}scintillating pattern{/g}, {g|SpellsTouchOfGracelessness}touch of gracelessness{/g}, {g|SpellsWavesOfEcstasy}waves of ecstasy{/g}, or {g|SpellsWeird}weird{/g}.",
     "eb5ef9db-74ee-4c7e-af7e-3524bdaa130f": "This wand summons an extraplanar murder pony to your side once per day.",
     "af1d134c-1530-450a-a293-ee8e546b5409": "Wand of Odd Miracles",
-    "e54921f0-d52d-4ef6-bee6-9f53a62c3b83": "Wand of Summon Monster 0",
-    "d1e1f362-bcfd-44e9-a2c4-cf9e3dcfd4da": "Wand of Zacharius"
+    "e54921f0-d52d-4ef6-bee6-9f53a62c3b83": "Wand of Summon Monster 0"
 }

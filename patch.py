@@ -72,12 +72,7 @@ data_list = [
 # 영문 병기 key 목록
 enGB = utils.read_json("dist/enGB.json")
 영문병기_keys = set()
-for f in glob("patches/Act/*.json", recursive=True):
-    data = utils.read_json(f)
-    for k in data:
-        영문병기_keys.add(k)
-
-for f in glob("patches/Comp/*.json", recursive=True):
+for f in glob("patches/World/**/*-kr.json", recursive=True):
     data = utils.read_json(f)
     for k in data:
         영문병기_keys.add(k)
@@ -90,10 +85,8 @@ for d, p in data_list:
 
     utils.write_json(d, p)
 
-shutil.copyfile('dist/koKR_en.json',
-                r'D:\Games\SteamLibrary\steamapps\common\Pathfinder Second Adventure\Wrath_Data\StreamingAssets\Localization\enGB.json')
-shutil.copyfile('dist/koKR-namu.json',
-                r'D:\Games\SteamLibrary\steamapps\common\Pathfinder Second Adventure\Wrath_Data\StreamingAssets\Localization\zhCN.json')
+shutil.copyfile('dist/koKR_en.json', r'D:\Games\SteamLibrary\steamapps\common\Pathfinder Second Adventure\Wrath_Data\StreamingAssets\Localization\enGB.json')
+shutil.copyfile('dist/koKR-namu.json', r'D:\Games\SteamLibrary\steamapps\common\Pathfinder Second Adventure\Wrath_Data\StreamingAssets\Localization\zhCN.json')
 
 with open('keys.json', 'wt', encoding='utf-8') as f:
     json.dump(keys, f, ensure_ascii=False, indent=4)

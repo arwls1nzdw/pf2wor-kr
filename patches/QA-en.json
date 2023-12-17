@@ -8,6 +8,7 @@
     "fd28d31a-36a4-482a-9ab6-b683d73f1ece": "Doomspider",
     "b7fb6f7a-57fc-4fdb-ad72-4afd31ae3f9f": "Dryad",
     "7172af63-bb85-4bb4-84cd-2ca90876746d": "Ember",
+    "d336afee-5d2e-49d6-b5d3-78ff0a63f46a": "Erinyes",
     "8609b01e-ba2a-4021-88fa-e21f183128b6": "Faerie Dragon",
     "edca5ab2-2764-4cad-a06e-6902e430b8c5": "Ferocious Hodag",
     "50085910-1af7-41a3-83dc-a7dd09cfd49d": "Ferocious Wyvern",
@@ -26,6 +27,7 @@
     "f5385cad-5d60-4be0-bea7-8e25e7574880": "Greater Worg",
     "ef88e781-e456-4026-8672-665f0d09e30f": "Green Dweomanticore",
     "1b67ea5d-3b18-460d-b946-1682489a2d6e": "Green Dweomerhodag",
+    "b1bd4fa2-94dd-41ec-aa38-aca46055a579": "Half-Fiend Elder Deathsnatcher",
     "e8efd6c8-9095-4f42-bb23-c3c0299c48b5": "Hodag-Like Treant",
     "bbf06a9d-2e25-4e2e-9453-80faacc30f2f": "Immense Mandragora",
     "181d8b4b-4474-43e7-9d57-c0daa8198506": "Improved Cambion Equalizer",
@@ -80,5 +82,6 @@
     "0714269c-d658-47ee-baa7-3689f9a02170": "Wererat",
     "ed87a309-1328-4c65-b4f3-fbce3ab20a61": "Wild Boar",
     "039aabca-324d-4500-968f-1e6ec6af594d": "Yellow Dweomanticore",
-    "57ed6722-8e3c-4463-a647-64665eb9239c": "Yellow Dweomerwyvern"
+    "57ed6722-8e3c-4463-a647-64665eb9239c": "Yellow Dweomerwyvern",
+    "c5063fa8-5bfa-4d42-9848-b3041cc514a5": "{Name}"
 }

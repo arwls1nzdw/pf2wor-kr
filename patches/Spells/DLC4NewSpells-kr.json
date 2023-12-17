@@ -1,13 +1,11 @@
 {
     "c8d472a5-49c3-49b4-b182-9f5817c6ddfb": "손에서 녹색 광선이 솟아납니다. 대상을 맞추려면 원거리 접촉 공격을 해야 합니다. 광선에 맞은 생명체나 물체는 반짝이는 에메랄드 장막으로 덮여 차원 이동이 완전히 차단됩니다. 차원 고정에 의해 금지되는 이동 형태에는 깜박임, {g|SpellsDimensionDoor}차원문{/g}, 공간 통과, 순간이동 및 이와 유사한 주문과 같은 능력이 포함됩니다.\n차원 고정은 주문이 발동될 때 이미 에테르 또는 아스트랄 형태로 존재하는 생물의 이동을 방해하지 않으며, 차원 외 지각이나 공격 형태를 차단하지도 않습니다. 또한, 차원 닻은 소환 주문이 끝날 때 소환된 생물이 사라지는 것을 막지 못합니다.",
-    "20a1f1b3-65a2-41b6-b4b4-b89101ea0adb": "뼈 주먹",
     "9e8e357c-ad78-4ad9-9abb-73fada2fba8e": "불타는 얽힘",
     "ce7e9599-578d-49a1-84fd-c50459c0c80b": "차원 앵커",
     "d8c10409-e220-490c-a2c4-816bf72e30dc": "썩음의 폭발",
     "d91ed0bd-66be-409d-b7e6-d707a5ab6c31": "얼음이 땅을 뒤덮어 초자연적인 냉기를 발산하고 생물들이 균형을 유지하기 어렵게 만듭니다. 이 얼음 지형은 험지 효과으로 취급됩니다. {g|Encyclopedia:Spell}주문{/g}이 발동되고 그 후 {g|Encyclopedia:Combat_Round}매 라운드{/g}마다, 해당 지형에 있는 생물들은 {g|Encyclopedia:Saving_Throw}반사 굴림{/g}에 성공하거나 {g|ConditionProne}엎드린{/g} 상태로 넘어져야 합니다. 해당 지역에 있는 생물은 매 라운드마다 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}냉기 피해{/g}를 받고, 해당 지역을 떠날 때까지 냉기 기술자가 있는 주문에 대한 내성 시도에 -2 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.",
     "ececa570-4801-4239-9082-ae3b92976e75": "필멸자 공포",
     "98d1422c-6f69-4f4c-ad0e-5f54146f00b2": "얽힌 매듭의 가닥",
-    "75d4723c-ed35-440a-bb8d-f04f6b4098de": "대상의 관절 뼈가 굵고 날카롭게 자라나 손가락 마디, 팔꿈치, 어깨, 척추, 무릎 부위의 피부를 통해 고통스럽게 튀어나옵니다. 대상은 각각 자연 갑옷에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻고 {g|Encyclopedia:NaturalAttack}자연 무기로 {g|Encyclopedia:Damage}피해 굴림{/g}에 +2 보너스를 받으며, 붙잡기 {g|Encyclopedia:Check}판정{/g}에 성공하면 추가로 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Damage_Type}찌르기 피해{/g}를 입힙니다.",
     "a3e14ff0-7db4-4921-8477-2eac4756d8c8": "목마름 얽힘",
     "dd0616bc-a2a6-4a80-b0a9-a84d5e25f2ea": "이 {g|Encyclopedia:Spell}주문{/g}은 잎사귀에 불을 붙인다는 점을 제외하고는 {g|SpellsEntangle}얽힘{/g}과 같은 기능을 합니다. 주문에 얽힌 채로 턴을 시작하는 생물은 {g|Encyclopedia:Dice}4d6{/g} {g|Encyclopedia:Energy_Damage}화염 피해{/g}를 입습니다.({g|Encyclopedia:Saving_Throw}반사 굴림{/g}에 성공하면 이 {g|Encyclopedia:Damage}피해{/g}가 절반으로 감소합니다), 해당 지역에서 턴을 시작하지만 얽혀 있지 않은 생물은 2d6 화염 피해를 받습니다.(반사 굴림 성공 시 이 피해는 무효화됩니다). 덩굴에서 피어오르는 연기가 시야를 부분적으로 가립니다. 연막 속에서 또는 연막 속의 물체에 대한 {g|Encyclopedia:Attack}공격{/g}은 {g|Encyclopedia:Concealment}은폐{/g}과 싸워야 합니다.(실패 확률 20%). 주문의 지속시간이 만료되면 덩굴이 완전히 타버립니다.",
     "3faaa4bc-0692-49a5-aa18-cec96d891c82": "이 {g|Encyclopedia:Spell}주문{/g}은 식물들이 대상에게 달라붙어 생명력을 빨아들이는 것을 제외하고는 {g|SpellsEntangle}얽힘{/g}과 같은 기능을 합니다. 얽히지 않기 위해 {g|Encyclopedia:Saving_Throw}내성 굴림{/g}에 실패하거나 풀기 위해 {g|Encyclopedia:Check}판정{/g}에 실패한 생물은 1d2 {g|Encyclopedia:AbilityDamage}건강 피해{/g}를 입습니다.",

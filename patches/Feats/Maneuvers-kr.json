@@ -1,7 +1,5 @@
 {
-    "0f9dde7c-42a4-4779-ae83-ac3ff7979f0f": "황소 돌진은 상대를 아무런 피해 없이 곧바로 뒤로 밀어내려고 시도합니다. 자신의 {g|Encyclopedia:Combat_Maneuvers}전법{/g}이 성공하면, 대상은 5피트 뒤로 밀려납니다. 내 {g|Encyclopedia:Attack}공격{/g}이 상대의 {g|Encyclopedia:CMD}CMD{/g}보다 5를 초과할 때마다 대상을 추가로 5피트 뒤로 밀어낼 수 있습니다.\n황소 돌진에 의해 이동 중인 적은 당신이 상급 황소 돌진 {g|Encyclopedia:Feat}특기{/g}를 가지고 있지 않는 한, 그 이동으로 인해 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}을 유발하지 않습니다. 당신은 단단한 물체나 장애물이 점령하고 있는 정사각형으로 생물을 돌진시킬 수 없습니다.",
     "0b01855b-3f3c-41c3-ba87-66b31d2d3eeb": "효과: 자신이 {g|Encyclopedia:MeleeAttack}근접 공격{/g}으로 {g|Encyclopedia:Critical}치명타{/g}를 기록할 때마다, {g|Encyclopedia:Attack}공격{/g}이 주는 일반 {g|Encyclopedia:Damage}피해{/g}에 더해 상대를 무장해제할 수 있습니다. 자신의 확인 {g|Encyclopedia:Dice}굴림{/g}이 상대의 {g|Encyclopedia:CMD}CMD{/g}를 초과할 경우, 무장해제 {g|Encyclopedia:Combat_Maneuvers}전법{/g}을 한 것처럼 상대를 무장해제할 수 있습니다. 이 경우 {g|Encyclopedia:Attack_Of_Opportunity}기회 공격{/g}이 유발되지 않습니다.\n일반: 상대를 무장해제하려면 무장해제 전법을 수행해야 합니다.\n특수: 주어진 치명타에 대해 다음 {g|Encyclopedia:Feat}특기{/g} 중 하나의 효과만 적용할 수 있습니다. 황소 돌진 일격, 무장해제 일격, 위치 변경 일격, 선더링 일격, 걸려 넘어뜨리기 일격. 이 특기는 확인 주사위를 굴린 후에 사용할 수 있습니다.",
-    "be940667-072a-4835-8122-8f32a8337e27": "황소 돌진",
     "a7d3be4d-18ee-4f8c-a540-c3940b2274e9": "비열한 수법",
     "5d23f3f4-77e8-480f-b53f-292ab2aa0238": "비열한 수법 - 실명",
     "614bc7b4-be29-4480-a58d-2d4c1662563c": "비열한 수법 - 속박",

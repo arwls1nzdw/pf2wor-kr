@@ -1,0 +1,18 @@
+{
+    "cb9bd296-1d6d-450c-af5c-83cbafddade8": "드래곤 핏",
+    "1649223a-50d3-4c1a-8af2-8991ca57e55e": "골드 드래곤",
+    "3a3a3c99-b5d8-4461-a8bc-a3814c4af177": "골드 드래곤의 숨결",
+    "28d2acdc-225e-4a04-b43c-ce186792a619": "골드 드래곤의 형태",
+    "0f806d95-5fbc-4fb2-8052-a2fe7b3f8b2b": "반룡 형태",
+    "f65325fe-5088-4689-b5ca-23e1b1c77afa": "완벽한 몸매",
+    "465b48dc-5075-491a-bf9e-6eb521f499b0": "완벽한 마음",
+    "b8a47264-83af-4575-9807-10cbcf163315": "완벽한 영혼",
+    "11bff979-4976-4395-91f3-25d2f02f3624": "골드 드래곤은 정신에 영향을 주는 효과 면역과 {g|Encyclopedia:Spell_Resistance}주문 저항{/g}을 15에 자신의 {g|Encyclopedia:Character_Level}캐릭터 레벨{/g}과 신화 등급 절반을 더한 값만큼 얻습니다.\n기본 공격 {g|Encyclopedia:BAB}보너스{/g}가 15에 신화 등급을 더한 값보다 작으면, 그 수만큼 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n모든 {g|Encyclopedia:Skills}기술{/g}이 직업 기술이 됩니다. 기술 등급이 신화 등급보다 적을 경우, 해당 수만큼 보너스를 얻습니다.\n수정치 앞에 있는 특성 중 하나라도 18보다 작으면 그 숫자만큼 보너스를 얻습니다.\n가장 높은 능력 점수에 대한 보너스가 +6으로 증가합니다.\n{g|Encyclopedia:Spell}주문{/g}으로 {g|Encyclopedia:Damage}피해{/g}를 주는은 이제 주사위가 d8 이상이 아닐 경우 {g|Encyclopedia:Dice}d8{/g}로 변경됩니다. 주사위가 d8 이상이면 주문은 대신 주사위당 피해량에 보너스를 하나 더합니다.",
+    "54348153-bd1a-4135-ac55-284c0814b69c": "골드 드래곤은 독, 질병, 공포, 혼란, 마비, 수면 면역을 얻습니다. 또한 (자신의 {g|Encyclopedia:Character_Level}캐릭터 레벨{/g}에 신화 등급을 반으로 나눈 값)만큼 모든 에너지 저항을 얻습니다.\n자신의 {g|Encyclopedia:Saving_Throw}내성 굴림{/g} 중 하나라도 있으면 수정치 앞의 {g|Encyclopedia:Bonus}보너스{/g}가 (5 + 신화 등급)보다 작으면, 그 숫자만큼 보너스를 얻습니다.\n수정치 앞의 특성 중 하나라도 14보다 작으면 해당 숫자만큼 보너스를 얻습니다.\n가장 높은 능력 점수는 +4 보너스를 얻습니다.\n당신의 모든 {g|Encyclopedia:Hit_Dice}HD{/g}는 이제 {g|Encyclopedia:Dice}d12{/g}입니다.\n{g|Encyclopedia:Damage}피해{/g}를 입히는 모든 {g|Encyclopedia:Spell}주문{/g}은 이제 주사위가 d6 이상이 아니었다면 d6으로 변경됩니다. 이미 주사위가 d6 이상이었다면, 대신 주사위를 굴릴 때마다 주문이 추가 피해 1점을 입힙니다.\n모든 무기는 +5 무기로 계산됩니다.",
+    "6a19d980-b1a8-48b5-b88d-671c0d3bf31b": "골드 드래곤은 냉기, 불, 전기, 산, 에너지 소모, 음에너지 면역을 얻습니다. 모든 {g|Encyclopedia:Damage}피해{/g}가 이제 {g|Encyclopedia:Energy_Damage}신성 피해{/g}가 됩니다.\n이제 피해를 주는 모든 {g|Encyclopedia:Spell}주문{/g}의 주사위가 d10 이상이 아닐 경우 {g|Encyclopedia:Dice}d10{/g}으로 변경됩니다. 주사위가 d10 이상이면 주문은 대신 주사위당 피해에 {g|Encyclopedia:Bonus}보너스{/g}를 하나 더합니다.\n가장 높은 능력 점수에 대한 보너스가 +8로 증가합니다.",
+    "6f58cf47-7062-43d7-b7ff-9c5d226383fa": "골드 드래곤은 다른 모든 생명체를 초월하는 힘을 지닌 강력하고 전지전능한 생명체입니다. 골드 드래곤은 선과 희망, 구원의 화신입니다.",
+    "ba6134d8-a72f-4974-9c1c-49222ec43291": "반룡 형태를 취할 수 있습니다. 모든 능력치가 2, {g|Encyclopedia:Strength}힘{/g}이 6 증가합니다. 또한 {g|Encyclopedia:Size}크기{/g} 항목이 1 증가하고 황금빛 날개를 얻습니다. 또한 용의 물린 {g|Encyclopedia:Attack}공격{/g}이 증가합니다.",
+    "1b374d8c-59cf-4fd1-8a67-4aea49b1babf": "골드 드래곤의 형상을 취할 수 있습니다. 다음과 같은 능력을 얻습니다. {g|Encyclopedia:Strength}힘{/g}에 +10 {g|Encyclopedia:Size}크기{/g} {g|Encyclopedia:Bonus}보너스{/g}, {g|Encyclopedia:Constitution}건강{/g}에 +8 크기 보너스, +8 형태 자연 갑옷 보너스, 맹인 60피트. 또한 물기 공격 1회({g|Encyclopedia:Dice}2d8{/g}), 발톱 공격 2회(2d6), 날개 {g|Encyclopedia:Attack}공격{/g} 2회(1d8), 꼬리 내리찍기 공격 1회(2d6)가 증가합니다.",
+    "f07f2c0a-2fee-49b3-bdd9-5bf8526f3de5": "전제 조건을 무시하고 {g|Encyclopedia:Feat}특기{/g}를 선택할 수 있습니다.",
+    "c3f4d4e2-d7a7-4288-980d-6bcbf3d799e3": "신성한 기운을 내뿜어 50피트 원뿔 안에 있는 모든 적에게 ({g|Encyclopedia:Character_Level}캐릭터 레벨{/g}에 신화 등급 절반을 더한){g|Encyclopedia:Dice}d8{/g} 피해를 주는 능력을 얻습니다. {g|Encyclopedia:Energy_Damage}신성 피해{/g}. {g|Encyclopedia:Saving_Throw}반사 굴림{/g}에 성공하면({g|Encyclopedia:DC}DC{/g} = 10 + 캐릭터 레벨의 절반 + 신화 등급 + 가장 높은 능력 수정치)의 {g|Encyclopedia:Damage}피해{/g}가 절반으로 감소합니다.\n숨결 공격에 적중당한 모든 적은 모든 d20 주사위 굴림에서 -1 {g|Encyclopedia:Penalty}불이익{/g}을 받고, 반사 굴림에서 실패한 모든 적은 -2의 불이익을 받습니다.\n숨결 공격은 {g|Encyclopedia:Combat_Round}1d4 라운드{/g}마다 한 번씩 사용할 수 있습니다."
+}

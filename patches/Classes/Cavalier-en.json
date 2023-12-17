@@ -10,7 +10,6 @@
     "40b7c447-f6e9-4934-a448-04f4f0978992": "An order of the shroud cavalier adds {g|Encyclopedia:Lore_Religion}Lore (religion){/g} to his list of class {g|Encyclopedia:Skills}skills{/g}.",
     "d0423859-9222-4966-9e3a-32eaf3d2d5eb": "An order of the star cavalier adds {g|Encyclopedia:Lore_Religion}Lore (religion){/g} to his list of class {g|Encyclopedia:Skills}skills{/g}.",
     "1d629ff5-6d06-45db-8a40-03e52ca524f9": "An order of the sword cavalier adds {g|Encyclopedia:Lore_Religion}Lore (religion){/g} to his list of class {g|Encyclopedia:Skills}skills{/g}.",
-    "685365b0-a761-4242-ac32-d433044fff77": "Animal Companion",
     "f7ea16b3-f51e-4d65-af04-0d35247c2a93": "Armor Proficiency",
     "0588cc92-1e0e-4b8b-82d8-97f9cfbe960d": "At 11th level, a cavalier learns to make devastating charge {g|Encyclopedia:Attack}attacks{/g} while mounted. Double the {g|Encyclopedia:Critical}threat range{/g} of any weapons wielded during a charge while mounted. This increase does not stack with other effects that increase the threat range of the weapon. In addition, the cavalier can make a free bull rush and trip {g|Encyclopedia:Combat_Maneuvers}combat maneuver{/g} if his charge attack is successful. These free combat maneuvers do not provoke an {g|Encyclopedia:Attack_Of_Opportunity}attack of opportunity{/g}.",
     "a7fdc690-0e09-4286-8608-b12d446223f4": "At 11th level, a disciple of the pike takes no {g|Encyclopedia:Penalty}penalties{/g} caused by difficult terrain while charging. His movement is still hampered by obstacles, poor visibility, and other conditions. This ability doesn't allow him to move through impassible terrain.",
@@ -73,7 +72,6 @@
     "94c79f15-fc58-4fc5-a0ad-655b15ff8de4": "Calling — Saving Throw",
     "8faadffb-e971-490c-ad69-77a6bae7ebe2": "Calling — Skill Check",
     "9d7ed210-0cc0-4051-967e-5f057e231b53": "Canine Ferocity",
-    "a53e9077-c0e5-4d3c-8286-848ab958b478": "Cavalier",
     "9dbb83de-e544-48d3-8b61-e0c93d67b748": "Cavalier is a warrior who has an animal companion — a faithful steed they can ride into battle. They are strong melee fighters who can also empower their allies.",
     "2acd3603-90ee-404e-8c68-883864d81728": "Cavalier of the Paw",
     "5c5725a1-5c33-4877-aecd-9d7f8852bf11": "Cavalier's Charge",
@@ -122,7 +120,6 @@
     "a25a562d-10b0-4517-80d6-ed53d49db86c": "Good — Will",
     "631d03b0-78c1-46e4-8113-217c29c966e0": "Greater Banner",
     "732f70b6-d38a-450a-b7a2-ba7d0ac3484b": "Greater Tactician",
-    "74cf1775-d117-490b-b3f2-93085fe02e77": "Horse",
     "30a5bf3b-c563-4c0d-a361-998672d5fed1": "Knight of the Wall",
     "c2d0c353-cf90-4bbd-8851-e53e48ae74a2": "Knight's Challenge",
     "b606a282-d9ed-4c6b-b23d-801dee3e1d9c": "Lawful — Fortitude",
@@ -180,6 +177,5 @@
     "c03ef3f2-796b-43ef-8a51-d03892805812": "Whenever an order of the shroud cavalier issues a challenge to an undead creature, he receives a +1 morale {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g} against the target of his challenge. The bonus increases by 1 for every 4 class levels the cavalier possesses.",
     "edb4c627-fc19-41a5-9aa2-f2866696459e": "Whenever an order of the star cavalier issues a challenge, he receives a +1 morale {g|Encyclopedia:Bonus}bonus{/g} on all his {g|Encyclopedia:Saving_Throw}saving throws{/g} as long as he is {g|Encyclopedia:Threatened_Area}threatening{/g} the target of his challenge. This bonus increases by +1 for every four levels the cavalier possesses.",
     "a4d430b2-6b8b-4c26-a0a4-9a61ae4f1af2": "Whenever an order of the sword cavalier issues a challenge, he receives a +1 morale {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g} against the target of his challenge so long as he is astride his mount. The bonus increases by +1 for every four levels the cavalier possesses.",
-    "64bce211-a221-423f-98bd-c002d56166dc": "While many warriors strive to perfect their art, spending all of their time honing their skill at martial arms, others spend as much effort dedicating themselves to a cause. These warriors, known as cavaliers, swear themselves to a purpose, serving it above all else. Cavaliers are skilled at fighting from horseback, and are often found charging across a battlefield, with the symbol of their order trailing on a long, fluttering banner. The cavalier's true power comes from the conviction of his ideals, the oaths that he swears, and the challenges he makes.",
-    "c8df6432-d326-4ee5-9154-2982d1809b56": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attack{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: low-light vision, {g|Encyclopedia:Scent}scent{/g}.\nAt 4th level gains Str +2, Con +2, and hoof attacks become primary.\nWhen riding a horse, you gain +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of medium size or smaller."
+    "64bce211-a221-423f-98bd-c002d56166dc": "While many warriors strive to perfect their art, spending all of their time honing their skill at martial arms, others spend as much effort dedicating themselves to a cause. These warriors, known as cavaliers, swear themselves to a purpose, serving it above all else. Cavaliers are skilled at fighting from horseback, and are often found charging across a battlefield, with the symbol of their order trailing on a long, fluttering banner. The cavalier's true power comes from the conviction of his ideals, the oaths that he swears, and the challenges he makes."
 }

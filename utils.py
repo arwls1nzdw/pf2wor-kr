@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 
 def read_json(path):
@@ -6,6 +7,7 @@ def read_json(path):
 
 
 def write_json(data, path):
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 

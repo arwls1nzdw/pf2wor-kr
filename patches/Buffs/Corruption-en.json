@@ -1,0 +1,8 @@
+{
+    "75e24955-daef-487a-a003-0bfa554a6ac9": "Corruption (I)",
+    "0faf729c-bfd9-4603-b560-b06a1797a20e": "Corruption (II)",
+    "88336d36-372c-4570-a483-d804c8266962": "Corruption (III)",
+    "c2ff57ff-4d4f-445d-a753-5214fb921198": "In addition to other effects, the party members cannot perform charge {g|Encyclopedia:Attack}attacks{/g}, and suffer a -3 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Strength}Strength{/g}, {g|Encyclopedia:Dexterity}Dexterity{/g} and {g|Encyclopedia:Charisma}Charisma{/g} scores.",
+    "623a16f8-da7f-448c-b6e8-4d5093756521": "In addition to other effects, the party members suffer a -2 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Strength}Strength{/g}, {g|Encyclopedia:Dexterity}Dexterity{/g}, {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Wisdom}Wisdom{/g}, and {g|Encyclopedia:Charisma}Charisma{/g} scores. Additionally, they must pass a {g|Encyclopedia:Concentration}concentration check{/g} with a -6 penalty each time they cast a {g|Encyclopedia:Spell}spell{/g}.",
+    "2d839716-ed91-4b9c-bc68-00966fd1be2f": "Party members suffer a 15% {g|Encyclopedia:Spell_Fail_Chance}arcane spell failure chance{/g}, a -2 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Wisdom}Wisdom{/g} and {g|Encyclopedia:Intelligence}Intelligence{/g} scores and a -3 penalty to {g|Encyclopedia:CMD}CMD{/g} and {g|Encyclopedia:CMB}CMB{/g}."
+}
